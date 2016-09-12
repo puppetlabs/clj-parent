@@ -1,3 +1,4 @@
+(def ks-version "1.3.2-SNAPSHOT")
 (def logback-version "1.1.7")
 
 (defproject puppetlabs/clj-parent "0.1.0-SNAPSHOT"
@@ -26,6 +27,10 @@
 
                          [prismatic/plumbing "0.4.2"]
                          [prismatic/schema "1.0.4"]
+
+                         [puppetlabs/typesafe-config "0.1.5"]
+                         [puppetlabs/kitchensink ~ks-version]
+                         [puppetlabs/kitchensink ~ks-version :classifier "test"]
                          ]
 
   :deploy-repositories [["releases" {:url "https://clojars.org/repo"
