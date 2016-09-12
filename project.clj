@@ -18,6 +18,7 @@
                          [ch.qos.logback/logback-classic ~logback-version]
                          [ch.qos.logback/logback-core ~logback-version]
                          [ch.qos.logback/logback-access ~logback-version]
+                         [org.codehaus.janino/janino "2.7.8"]
 
                          [clj-time "0.10.0"]
                          [clj-yaml "0.4.0"]
