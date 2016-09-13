@@ -36,6 +36,7 @@
                          [ring/ring-servlet "1.4.0"]
                          [ring/ring-core "1.4.0"]
                          [ring/ring-codec "1.0.0"]
+                         [beckon "0.1.1"]
 
                          [prismatic/plumbing "0.4.2"]
                          [prismatic/schema "1.0.4"]
