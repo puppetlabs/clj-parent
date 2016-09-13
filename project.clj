@@ -1,5 +1,6 @@
 (def ks-version "1.3.2-SNAPSHOT")
 (def tk-version "1.5.1-SNAPSHOT")
+(def tk-jetty-version "1.5.11-SNAPSHOT")
 (def logback-version "1.1.7")
 
 (defproject puppetlabs/clj-parent "0.1.0-SNAPSHOT"
@@ -57,6 +58,8 @@
                          [puppetlabs/kitchensink ~ks-version :classifier "test"]
                          [puppetlabs/trapperkeeper ~tk-version]
                          [puppetlabs/trapperkeeper ~tk-version :classifier "test"]
+                         [puppetlabs/trapperkeeper-webserver-jetty9 ~tk-jetty-version]
+                         [puppetlabs/trapperkeeper-webserver-jetty9 ~tk-jetty-version :classifier "test"]
                          [puppetlabs/trapperkeeper-authorization "0.7.0"]
                          [puppetlabs/trapperkeeper-scheduler "0.0.1"]
                          [puppetlabs/trapperkeeper-status "0.3.5"]
