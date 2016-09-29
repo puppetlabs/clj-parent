@@ -1,6 +1,6 @@
-(def ks-version "1.3.2-SNAPSHOT")
-(def tk-version "1.5.1-SNAPSHOT")
-(def tk-jetty-version "1.5.11-SNAPSHOT")
+(def ks-version "1.3.2")
+(def tk-version "1.5.3")
+(def tk-jetty-version "1.5.11")
 (def logback-version "1.1.7")
 
 (defproject puppetlabs/clj-parent "0.1.0-SNAPSHOT"
