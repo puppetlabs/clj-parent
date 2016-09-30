@@ -1,3 +1,4 @@
+(def clj-version "1.8.0")
 (def ks-version "1.3.2")
 (def tk-version "1.5.3")
 (def tk-jetty-version "1.5.11")
@@ -9,7 +10,7 @@
   ;; requires lein 2.2.0+.
   :pedantic? :abort
 
-  :managed-dependencies [[org.clojure/clojure "1.8.0"]
+  :managed-dependencies [[org.clojure/clojure ~clj-version]
                          [org.clojure/tools.logging "0.2.6"]
                          [org.clojure/tools.cli "0.3.3"]
                          [org.clojure/tools.nrepl "0.2.6"]
@@ -68,6 +69,8 @@
                          [puppetlabs/comidi "0.3.1"]
                          [puppetlabs/i18n "0.4.3"]
                          ]
+
+  :dependencies [[org.clojure/clojure]]
 
   :deploy-repositories [["releases" {:url "https://clojars.org/repo"
                                      :username :env/clojars_jenkins_username
