@@ -4,7 +4,7 @@
 (def tk-jetty-version "1.5.11")
 (def logback-version "1.1.7")
 
-(defproject puppetlabs/clj-parent "0.1.2"
+(defproject puppetlabs/clj-parent "0.1.3-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.
