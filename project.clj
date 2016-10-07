@@ -11,10 +11,10 @@
   :pedantic? :abort
 
   :managed-dependencies [[org.clojure/clojure ~clj-version]
-                         [org.clojure/tools.logging "0.2.6"]
+                         [org.clojure/tools.logging "0.3.1"]
                          [org.clojure/tools.cli "0.3.3"]
                          [org.clojure/tools.nrepl "0.2.6"]
-                         [org.clojure/tools.macro "0.1.2"]
+                         [org.clojure/tools.macro "0.1.5"]
                          [org.clojure/java.jmx "0.3.1"]
                          [org.clojure/core.async "0.2.391"]
                          [org.clojure/tools.reader "1.0.0-beta2"]
@@ -25,6 +25,7 @@
                          [ch.qos.logback/logback-classic ~logback-version]
                          [ch.qos.logback/logback-core ~logback-version]
                          [ch.qos.logback/logback-access ~logback-version]
+                         [net.logstash.logback/logstash-logback-encoder "4.7"]
                          [org.codehaus.janino/janino "2.7.8"]
                          [com.fasterxml.jackson.core/jackson-core "2.7.3"]
 
