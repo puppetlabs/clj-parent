@@ -56,7 +56,7 @@
                          [puppetlabs/http-client "0.5.0"]
                          [puppetlabs/jdbc-util "0.4.15"]
                          [puppetlabs/typesafe-config "0.1.5"]
-                         [puppetlabs/ssl-utils "0.8.1"]
+                         [puppetlabs/ssl-utils "0.8.2"]
                          [puppetlabs/kitchensink ~ks-version]
                          [puppetlabs/kitchensink ~ks-version :classifier "test"]
                          [puppetlabs/trapperkeeper ~tk-version]
