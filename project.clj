@@ -30,7 +30,7 @@
                          [com.fasterxml.jackson.core/jackson-core "2.7.3"]
 
                          [org.apache.commons/commons-exec "1.3"]
-                         [commons-codec "1.9"]
+                         [commons-codec "1.10"]
                          [commons-lang "2.6"]
                          [commons-io "2.4"]
                          [joda-time "2.8.2"]
@@ -41,7 +41,7 @@
                          [slingshot "0.12.2"]
                          [cheshire "5.6.1"]
                          [compojure "1.5.0"]
-                         [ring/ring-servlet "1.4.0"]
+                         [ring/ring-servlet "1.5.0"]
                          [ring/ring-core "1.4.0"]
                          [ring/ring-codec "1.0.0"]
                          [ring-basic-authentication "1.0.5"]
