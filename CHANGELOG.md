@@ -1,3 +1,7 @@
+## [0.1.8] - 2016-11-1
+- Updated jdbc-util to 0.5.0
+- Update dujour-version-check to 0.1.8
+
 ## [0.1.7] - 2016-10-26
 - Updated jvm-ssl-utils to 0.8.2.
 

@@ -54,7 +54,7 @@
                          [prismatic/schema "1.1.1"]
 
                          [puppetlabs/http-client "0.5.0"]
-                         [puppetlabs/jdbc-util "0.4.15"]
+                         [puppetlabs/jdbc-util "0.5.0"]
                          [puppetlabs/typesafe-config "0.1.5"]
                          [puppetlabs/ssl-utils "0.8.2"]
                          [puppetlabs/kitchensink ~ks-version]
@@ -67,7 +67,7 @@
                          [puppetlabs/trapperkeeper-scheduler "0.0.1"]
                          [puppetlabs/trapperkeeper-status "0.5.0"]
                          [puppetlabs/ring-middleware "1.0.0"]
-                         [puppetlabs/dujour-version-check "0.1.2"]
+                         [puppetlabs/dujour-version-check "0.1.8"]
                          [puppetlabs/comidi "0.3.1"]
                          [puppetlabs/i18n "0.4.3"]
                          ]
