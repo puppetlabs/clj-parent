@@ -50,7 +50,7 @@
                          [ring/ring-servlet "1.5.0"]
                          [ring/ring-core "1.4.0"]
                          [ring/ring-codec "1.0.0"]
-                         [ring/ring-json "0.3.1"]
+                         [ring/ring-json "0.4.0"]
                          [ring-basic-authentication "1.0.5"]
                          [ring-mock "0.1.5"]
                          [beckon "0.1.1"]
