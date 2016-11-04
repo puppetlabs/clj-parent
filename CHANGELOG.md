@@ -1,4 +1,21 @@
-## [0.1.8] - 2016-11-1
+## [0.1.9] - 2016-11-04
+
+Adds the following new dependencies:
+
+- pe-trapperkeeper-metrics 0.2.1
+- org.clojure/data.json 0.2.6
+- org.yaml/snakeyaml 1.13
+- org.apache.maven.wagon/wagon-provider-api 2.10
+- org.apache.httpcomponents/httpclient 4.5.1
+- clj-stacktrace 0.2.8
+- ring/ring-json 0.3.1
+- org.tcrawley/dynapath 0.2.4
+- trptcolin/versioneer 0.2.0
+- trapperkeeper-filesystem-watcher 1.0.1
+- trapperkeeper-comidi-metrics 0.1.1
+- cljs-dashboard-widgets 0.1.0
+
+## [0.1.8] - 2016-11-01
 - Updated jdbc-util to 0.5.0
 - Update dujour-version-check to 0.1.8
 
