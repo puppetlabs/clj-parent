@@ -2,6 +2,7 @@
 (def ks-version "1.4.0")
 (def tk-version "1.5.2")
 (def tk-jetty-version "1.5.11")
+(def pe-tk-metrics-version "0.2.1")
 (def logback-version "1.1.7")
 
 (defproject puppetlabs/clj-parent "0.1.9-SNAPSHOT"
@@ -19,6 +20,7 @@
                          [org.clojure/core.async "0.2.391"]
                          [org.clojure/tools.reader "1.0.0-beta2"]
                          [org.clojure/tools.namespace "0.2.10"]
+                         [org.clojure/data.json "0.2.6"]
 
                          [org.slf4j/log4j-over-slf4j "1.7.20"]
                          [org.slf4j/slf4j-api "1.7.20"]
@@ -28,8 +30,11 @@
                          [net.logstash.logback/logstash-logback-encoder "4.7"]
                          [org.codehaus.janino/janino "2.7.8"]
                          [com.fasterxml.jackson.core/jackson-core "2.7.3"]
+                         [org.yaml/snakeyaml "1.13"]
 
+                         [org.apache.maven.wagon/wagon-provider-api "2.10"]
                          [org.apache.commons/commons-exec "1.3"]
+                         [org.apache.httpcomponents/httpclient  "4.5.1"]
                          [commons-codec "1.10"]
                          [commons-lang "2.6"]
                          [commons-io "2.4"]
@@ -37,6 +42,7 @@
 
                          [clj-time "0.11.0"]
                          [clj-yaml "0.4.0"]
+                         [clj-stacktrace "0.2.8"]
                          [me.raynes/fs "1.4.6"]
                          [slingshot "0.12.2"]
                          [cheshire "5.6.1"]
@@ -44,11 +50,14 @@
                          [ring/ring-servlet "1.5.0"]
                          [ring/ring-core "1.4.0"]
                          [ring/ring-codec "1.0.0"]
+                         [ring/ring-json "0.3.1"]
                          [ring-basic-authentication "1.0.5"]
                          [ring-mock "0.1.5"]
                          [beckon "0.1.1"]
                          [hiccup "1.0.5"]
                          [liberator "0.12.0"]
+                         [org.tcrawley/dynapath "0.2.4"]
+                         [trptcolin/versioneer "0.2.0"]
 
                          [prismatic/plumbing "0.4.2"]
                          [prismatic/schema "1.1.1"]
@@ -63,13 +72,18 @@
                          [puppetlabs/trapperkeeper ~tk-version :classifier "test"]
                          [puppetlabs/trapperkeeper-webserver-jetty9 ~tk-jetty-version]
                          [puppetlabs/trapperkeeper-webserver-jetty9 ~tk-jetty-version :classifier "test"]
+                         [puppetlabs/pe-trapperkeeper-metrics ~pe-tk-metrics-version]
+                         [puppetlabs/pe-trapperkeeper-metrics ~pe-tk-metrics-version :classifier "test"]
                          [puppetlabs/trapperkeeper-authorization "0.7.0"]
                          [puppetlabs/trapperkeeper-scheduler "0.0.1"]
                          [puppetlabs/trapperkeeper-status "0.5.0"]
+                         [puppetlabs/trapperkeeper-filesystem-watcher "1.0.1"]
                          [puppetlabs/ring-middleware "1.0.0"]
                          [puppetlabs/dujour-version-check "0.1.8"]
                          [puppetlabs/comidi "0.3.1"]
+                         [puppetlabs/trapperkeeper-comidi-metrics "0.1.1"]
                          [puppetlabs/i18n "0.4.3"]
+                         [puppetlabs/cljs-dashboard-widgets "0.1.0"]
                          ]
 
   :dependencies [[org.clojure/clojure]]
