@@ -1,3 +1,12 @@
+## [0.2.0] - 2016-11-07
+
+- Updates puppetlabs/kitchensink to 2.1.0; this is a major version
+  bump of kitchensink due to the change in the schema of the slingshot
+  exceptions (from 'type'/'message' to 'kind'/'msg', to match other PL
+  HTTP APIs).
+- Updates org.clojure/tools.cli from 0.3.3 to 0.3.4
+- Updates ring/ring-json from 0.3.1 to 0.4.0
+
 ## [0.1.9] - 2016-11-04
 
 Adds the following new dependencies:
