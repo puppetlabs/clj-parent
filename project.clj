@@ -80,7 +80,7 @@
                          [puppetlabs/trapperkeeper-status "0.5.0"]
                          [puppetlabs/trapperkeeper-filesystem-watcher "1.0.1"]
                          [puppetlabs/ring-middleware "1.0.0"]
-                         [puppetlabs/dujour-version-check "0.1.8"]
+                         [puppetlabs/dujour-version-check "0.2.1"]
                          [puppetlabs/comidi "0.3.1"]
                          [puppetlabs/trapperkeeper-comidi-metrics "0.1.1"]
                          [puppetlabs/i18n "0.4.3"]

@@ -1,3 +1,7 @@
+## [0.2.2] - 2016-11-08
+
+- Updates puppetlabs/dujour-version-check to 0.2.1.
+
 ## [0.2.1] - 2016-11-07
 
 - Adds org.apache.commons/commons-compress, at version 1.8.
