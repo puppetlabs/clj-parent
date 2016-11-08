@@ -1,3 +1,7 @@
+## [0.2.1] - 2016-11-07
+
+- Adds org.apache.commons/commons-compress, at version 1.8.
+
 ## [0.2.0] - 2016-11-07
 
 - Updates puppetlabs/kitchensink to 2.1.0; this is a major version
