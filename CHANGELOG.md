@@ -1,3 +1,7 @@
+## [0.2.3] - 2016-11-08
+
+- Adds org.clojure/clojurescript at version 1.7.122.
+
 ## [0.2.2] - 2016-11-08
 
 - Updates puppetlabs/dujour-version-check to 0.2.1.
