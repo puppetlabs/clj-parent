@@ -34,6 +34,7 @@
 
                          [org.apache.maven.wagon/wagon-provider-api "2.10"]
                          [org.apache.commons/commons-exec "1.3"]
+                         [org.apache.commons/commons-compress "1.8"]
                          [org.apache.httpcomponents/httpclient  "4.5.1"]
                          [commons-codec "1.10"]
                          [commons-lang "2.6"]
