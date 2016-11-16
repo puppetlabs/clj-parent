@@ -1,3 +1,7 @@
+## [0.2.4] - 2016-11-16
+
+- Updates jvm-ssl-utils to version 0.8.3.
+
 ## [0.2.3] - 2016-11-08
 
 - Adds org.clojure/clojurescript at version 1.7.122.
