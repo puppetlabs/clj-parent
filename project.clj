@@ -55,6 +55,13 @@
                          [ring/ring-json "0.4.0"]
                          [ring-basic-authentication "1.0.5"]
                          [ring-mock "0.1.5"]
+                         ;; ring-defaults brings in a bad, old version of the servlet-api, which
+                         ;; now has a new artifact name (javax.servlet/javax.servlet-api).  If we
+                         ;; don't exclude the old one here, they'll both be brought in, and consumers
+                         ;; will be subject to the whims of which one shows up on the classpath first.
+                         ;; thus, we need to use exclusions here, even though we'd normally resolve
+                         ;; this type of thing by just specifying a fixed dependency version.
+                         [ring/ring-defaults "0.2.0" :exclusions [javax.servlet/servlet-api]]
                          [beckon "0.1.1"]
                          [hiccup "1.0.5"]
                          [liberator "0.12.0"]
@@ -78,6 +85,7 @@
                          [puppetlabs/pe-trapperkeeper-metrics ~pe-tk-metrics-version :classifier "test"]
                          [puppetlabs/trapperkeeper-authorization "0.7.0"]
                          [puppetlabs/trapperkeeper-scheduler "0.0.1"]
+                         [puppetlabs/trapperkeeper-metrics "0.4.2"]
                          [puppetlabs/trapperkeeper-status "0.5.0"]
                          [puppetlabs/trapperkeeper-filesystem-watcher "1.0.1"]
                          [puppetlabs/ring-middleware "1.0.0"]
