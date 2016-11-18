@@ -1,6 +1,8 @@
 ## [0.2.4] - 2016-11-16
 
 - Updates jvm-ssl-utils to version 0.8.3.
+- Introduces ring/ring-defaults at 0.2.0.
+- Introduces puppetlabs/trapperkeeper-metrics at 0.4.2.
 
 ## [0.2.3] - 2016-11-08
 
