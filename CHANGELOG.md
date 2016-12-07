@@ -1,3 +1,7 @@
+## [0.2.5] - 2016-12-07
+
+- Updates clj-http-client to version 0.7.0.
+
 ## [0.2.4] - 2016-11-16
 
 - Updates jvm-ssl-utils to version 0.8.3.
