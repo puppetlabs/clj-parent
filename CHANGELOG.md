@@ -1,3 +1,9 @@
+## [0.3.0] - 2016-12-16
+
+- Updates `trapperkeeper-metrics` to 0.5.0.
+- Updates `trapperkeeper-status` to 0.7.0.
+- Updates `puppetlabs/i18n` to 0.5.1.
+
 ## [0.2.5] - 2016-12-07
 
 - Updates clj-http-client to version 0.7.0.
