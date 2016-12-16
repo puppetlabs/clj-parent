@@ -5,7 +5,7 @@
 (def pe-tk-metrics-version "0.2.1")
 (def logback-version "1.1.7")
 
-(defproject puppetlabs/clj-parent "0.2.6-SNAPSHOT"
+(defproject puppetlabs/clj-parent "0.3.0-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.
@@ -85,14 +85,14 @@
                          [puppetlabs/pe-trapperkeeper-metrics ~pe-tk-metrics-version :classifier "test"]
                          [puppetlabs/trapperkeeper-authorization "0.7.0"]
                          [puppetlabs/trapperkeeper-scheduler "0.0.1"]
-                         [puppetlabs/trapperkeeper-metrics "0.4.2"]
-                         [puppetlabs/trapperkeeper-status "0.6.0"]
+                         [puppetlabs/trapperkeeper-metrics "0.5.0"]
+                         [puppetlabs/trapperkeeper-status "0.7.0"]
                          [puppetlabs/trapperkeeper-filesystem-watcher "1.0.1"]
                          [puppetlabs/ring-middleware "1.0.0"]
                          [puppetlabs/dujour-version-check "0.2.1"]
                          [puppetlabs/comidi "0.3.1"]
                          [puppetlabs/trapperkeeper-comidi-metrics "0.1.1"]
-                         [puppetlabs/i18n "0.4.3"]
+                         [puppetlabs/i18n "0.5.1"]
                          [puppetlabs/cljs-dashboard-widgets "0.1.0"]
                          ]
 
