@@ -42,7 +42,7 @@
                          [org.apache.commons/commons-exec "1.3"]
                          [org.apache.commons/commons-compress "1.8"]
                          [org.apache.commons/commons-lang3 "3.4"]
-                         [org.apache.httpcomponents/httpclient  "4.5.1"]
+                         [org.apache.httpcomponents/httpclient  "4.5.2"]
                          [org.apache.httpcomponents/httpcore  "4.4.5"]
                          [commons-codec "1.10"]
                          [commons-lang "2.6"]
