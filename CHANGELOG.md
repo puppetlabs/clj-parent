@@ -1,3 +1,19 @@
+## [0.3.1] - 2017-01-05
+
+- Updates org.apache.httpcomponents/http-client to 4.5.2.
+
+Adds the following new dependencies:
+
+- java.classpath 0.2.3
+- java.jdbc 0.6.2-alpha3
+- core.cache 0.6.5
+- core.memoize 0.5.9
+- data.priority-map 0.0.7
+- org.apache.commons/commons-lang3 3.4
+- org.apache.httpcomponents/httpcore 4.4.5
+- quoin 0.1.2
+- stencil 0.5.0
+
 ## [0.3.0] - 2016-12-16
 
 - Updates `trapperkeeper-metrics` to 0.5.0.
