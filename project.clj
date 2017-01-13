@@ -93,7 +93,7 @@
                          [puppetlabs/pe-trapperkeeper-metrics ~pe-tk-metrics-version]
                          [puppetlabs/pe-trapperkeeper-metrics ~pe-tk-metrics-version :classifier "test"]
                          [puppetlabs/trapperkeeper-authorization "0.7.0"]
-                         [puppetlabs/trapperkeeper-scheduler "0.0.1"]
+                         [puppetlabs/trapperkeeper-scheduler "0.1.0"]
                          [puppetlabs/trapperkeeper-metrics "0.5.0"]
                          [puppetlabs/trapperkeeper-status "0.7.0"]
                          [puppetlabs/trapperkeeper-filesystem-watcher "1.0.1"]
