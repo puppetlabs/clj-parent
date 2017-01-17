@@ -1,3 +1,9 @@
+## [0.3.2] - 2017-01-17
+
+- Updates 'trapperkeeper-webserver-jetty9' to 1.6.0.
+- Updates 'trapperkeeper-scheduler' to 0.1.0.
+- Updates 'trapperkeeper-status' to 0.7.1.
+
 ## [0.3.1] - 2017-01-05
 
 - Updates org.apache.httpcomponents/http-client to 4.5.2.
