@@ -95,7 +95,7 @@
                          [puppetlabs/trapperkeeper-authorization "0.7.0"]
                          [puppetlabs/trapperkeeper-scheduler "0.1.0"]
                          [puppetlabs/trapperkeeper-metrics "0.5.0"]
-                         [puppetlabs/trapperkeeper-status "0.7.0"]
+                         [puppetlabs/trapperkeeper-status "0.7.1"]
                          [puppetlabs/trapperkeeper-filesystem-watcher "1.0.1"]
                          [puppetlabs/ring-middleware "1.0.0"]
                          [puppetlabs/dujour-version-check "0.2.1"]
