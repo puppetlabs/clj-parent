@@ -1,3 +1,8 @@
+## [0.3.3] - 2017-01-24
+
+- Updates `trapperkeeper-webserver-jetty9` to 1.7.0.
+- Updates `clj-i18n` to 0.6.0.
+
 ## [0.3.2] - 2017-01-17
 
 - Updates 'trapperkeeper-webserver-jetty9' to 1.6.0.
