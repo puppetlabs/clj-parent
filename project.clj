@@ -3,7 +3,7 @@
 (def tk-version "1.5.2")
 (def tk-jetty-version "1.7.0")
 (def pe-tk-metrics-version "0.2.1")
-(def logback-version "1.1.7")
+(def logback-version "1.1.9")
 
 (defproject puppetlabs/clj-parent "0.3.4-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
