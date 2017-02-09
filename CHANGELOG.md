@@ -1,3 +1,7 @@
+## [0.4.1] - 2017-02-10
+
+- Updates `puppetlabs/http-client` to 0.8.0.
+
 ## [0.4.0] - 2017-02-08
 
 - Updates `logback` to 1.1.9.
