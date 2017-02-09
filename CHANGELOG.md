@@ -1,3 +1,10 @@
+## [0.4.0] - 2017-02-08
+
+- Updates `logback` to 1.1.9.
+- Updates `clj-kitchensink` to 2.2.0.
+- Updates `trapperkeeper-metrics` to 0.6.0.
+- Updates `pe-trapperkeeper-metrics` to 0.3.0.
+
 ## [0.3.3] - 2017-01-24
 
 - Updates `trapperkeeper-webserver-jetty9` to 1.7.0.
