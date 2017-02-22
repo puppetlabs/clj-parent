@@ -101,7 +101,7 @@
                          [puppetlabs/dujour-version-check "0.2.1"]
                          [puppetlabs/comidi "0.3.1"]
                          [puppetlabs/trapperkeeper-comidi-metrics "0.1.1"]
-                         [puppetlabs/i18n "0.6.0"]
+                         [puppetlabs/i18n "0.7.0"]
                          [puppetlabs/cljs-dashboard-widgets "0.1.0"]
                          ]
 
