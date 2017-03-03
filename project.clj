@@ -50,7 +50,7 @@
                          [joda-time "2.8.2"]
 
                          [clj-time "0.11.0"]
-                         [clj-yaml "0.4.0"]
+                         [circleci/clj-yaml "0.5.5"]
                          [clj-stacktrace "0.2.8"]
                          [me.raynes/fs "1.4.6"]
                          [slingshot "0.12.2"]
