@@ -2,7 +2,7 @@
 (def ks-version "2.2.0")
 (def tk-version "1.5.2")
 (def tk-jetty-version "1.7.0")
-(def pe-tk-metrics-version "0.3.0")
+(def tk-metrics-version "1.0.0")
 (def logback-version "1.1.9")
 
 (defproject puppetlabs/clj-parent "0.4.2-SNAPSHOT"
@@ -76,6 +76,7 @@
                          [liberator "0.12.0"]
                          [org.tcrawley/dynapath "0.2.4"]
                          [trptcolin/versioneer "0.2.0"]
+                         [io.dropwizard.metrics/metrics-core "3.1.2"]
 
                          [prismatic/plumbing "0.4.2"]
                          [prismatic/schema "1.1.1"]
@@ -90,11 +91,10 @@
                          [puppetlabs/trapperkeeper ~tk-version :classifier "test"]
                          [puppetlabs/trapperkeeper-webserver-jetty9 ~tk-jetty-version]
                          [puppetlabs/trapperkeeper-webserver-jetty9 ~tk-jetty-version :classifier "test"]
-                         [puppetlabs/pe-trapperkeeper-metrics ~pe-tk-metrics-version]
-                         [puppetlabs/pe-trapperkeeper-metrics ~pe-tk-metrics-version :classifier "test"]
+                         [puppetlabs/trapperkeeper-metrics ~tk-metrics-version]
+                         [puppetlabs/trapperkeeper-metrics ~tk-metrics-version :classifier "test"]
                          [puppetlabs/trapperkeeper-authorization "0.7.0"]
                          [puppetlabs/trapperkeeper-scheduler "0.1.0"]
-                         [puppetlabs/trapperkeeper-metrics "0.6.0"]
                          [puppetlabs/trapperkeeper-status "0.7.1"]
                          [puppetlabs/trapperkeeper-filesystem-watcher "1.0.1"]
                          [puppetlabs/ring-middleware "1.0.0"]
