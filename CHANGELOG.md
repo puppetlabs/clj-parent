@@ -1,3 +1,16 @@
+## [0.5.0] - 2017-03-13
+
+- Adds dependency for `io.dropwizard.metrics/metrics-core` 3.1.2
+- Updates `puppetlabs/trapperkeeper-metrics` to 1.0.0
+- Updates `puppetlabs/i18n` to 0.7.0
+- Removes dependency on `puppetlabs/pe-trapperkeeper-metrics`
+
+It should be noted that `puppetlabs/trapperkeeper-metrics` 1.0.0 introduces
+some breaking changes in the `metrics` section of its trapperkeeper
+configuration. Projects which require `trapperkeeper-metrics` will need to be
+updated. See the [documentation](https://github.com/puppetlabs/trapperkeeper-metrics/blob/1.0.0/documentation/configuration.md)
+for details
+
 ## [0.4.1] - 2017-02-10
 
 - Updates `puppetlabs/http-client` to 0.8.0.
