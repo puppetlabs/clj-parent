@@ -1,3 +1,7 @@
+## [0.4.2] - 2017-03-17
+
+- Backports `puppetlabs/i18n` 0.7.0 to clj-parent `0.4.x` line.
+
 ## [0.4.1] - 2017-02-10
 
 - Updates `puppetlabs/http-client` to 0.8.0.
