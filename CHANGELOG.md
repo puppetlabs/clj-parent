@@ -1,3 +1,7 @@
+## [0.4.3] - 2017-03-20
+
+- Updates `puppetlabs/i18n` to 0.7.1.
+
 ## [0.4.2] - 2017-03-17
 
 - Backports `puppetlabs/i18n` 0.7.0 to clj-parent `0.4.x` line.
