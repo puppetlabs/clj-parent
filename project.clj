@@ -82,7 +82,7 @@
                          [prismatic/schema "1.1.1"]
 
                          [puppetlabs/http-client "0.8.0"]
-                         [puppetlabs/jdbc-util "0.5.0"]
+                         [puppetlabs/jdbc-util "0.6.0"]
                          [puppetlabs/typesafe-config "0.1.5"]
                          [puppetlabs/ssl-utils "0.8.3"]
                          [puppetlabs/kitchensink ~ks-version]
