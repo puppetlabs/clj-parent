@@ -1,3 +1,13 @@
+## [0.6.0] - 2017-03-22
+
+- Updates `puppetlabs/i18n` to 0.8.0
+- Adds `circleci/clj-yaml` 0.5.5
+- Updates `puppetlabs/jdbc-util` to 0.6.0
+- Adds `puppetlabs/rbac-client` 0.6.1
+
+This is a Y release due to the replacement of `clj-yaml` with
+`circleci/clj-yaml`.
+
 ## [0.5.0] - 2017-03-13
 
 - Adds dependency for `io.dropwizard.metrics/metrics-core` 3.1.2
