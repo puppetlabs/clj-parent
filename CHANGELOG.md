@@ -11,6 +11,10 @@ configuration. Projects which require `trapperkeeper-metrics` will need to be
 updated. See the [documentation](https://github.com/puppetlabs/trapperkeeper-metrics/blob/1.0.0/documentation/configuration.md)
 for details
 
+## [0.4.4] - 2017-03-22
+
+- Updates `puppetlabs/i18n` to 0.8.0.
+
 ## [0.4.3] - 2017-03-20
 
 - Updates `puppetlabs/i18n` to 0.7.1.

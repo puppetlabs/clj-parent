@@ -101,8 +101,9 @@
                          [puppetlabs/dujour-version-check "0.2.1"]
                          [puppetlabs/comidi "0.3.1"]
                          [puppetlabs/trapperkeeper-comidi-metrics "0.1.1"]
-                         [puppetlabs/i18n "0.7.1"]
+                         [puppetlabs/i18n "0.8.0"]
                          [puppetlabs/cljs-dashboard-widgets "0.1.0"]
+                         [puppetlabs/rbac-client "0.6.1"]
                          ]
 
   :dependencies [[org.clojure/clojure]]
