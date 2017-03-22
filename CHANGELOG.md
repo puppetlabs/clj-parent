@@ -1,3 +1,7 @@
+## [0.4.4] - 2017-03-22
+
+- Updates `puppetlabs/i18n` to 0.8.0.
+
 ## [0.4.3] - 2017-03-20
 
 - Updates `puppetlabs/i18n` to 0.7.1.
