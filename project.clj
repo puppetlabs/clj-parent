@@ -5,7 +5,7 @@
 (def tk-metrics-version "1.0.0")
 (def logback-version "1.1.9")
 
-(defproject puppetlabs/clj-parent "0.5.1-SNAPSHOT"
+(defproject puppetlabs/clj-parent "0.6.0-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.
@@ -101,8 +101,9 @@
                          [puppetlabs/dujour-version-check "0.2.1"]
                          [puppetlabs/comidi "0.3.1"]
                          [puppetlabs/trapperkeeper-comidi-metrics "0.1.1"]
-                         [puppetlabs/i18n "0.7.1"]
+                         [puppetlabs/i18n "0.8.0"]
                          [puppetlabs/cljs-dashboard-widgets "0.1.0"]
+                         [puppetlabs/rbac-client "0.6.1"]
                          ]
 
   :dependencies [[org.clojure/clojure]]

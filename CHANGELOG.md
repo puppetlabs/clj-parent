@@ -1,3 +1,13 @@
+## [0.6.0] - 2017-03-22
+
+- Updates `puppetlabs/i18n` to 0.8.0
+- Adds `circleci/clj-yaml` 0.5.5
+- Updates `puppetlabs/jdbc-util` to 0.6.0
+- Adds `puppetlabs/rbac-client` 0.6.1
+
+This is a Y release due to the replacement of `clj-yaml` with
+`circleci/clj-yaml`.
+
 ## [0.5.0] - 2017-03-13
 
 - Adds dependency for `io.dropwizard.metrics/metrics-core` 3.1.2
@@ -10,6 +20,10 @@ some breaking changes in the `metrics` section of its trapperkeeper
 configuration. Projects which require `trapperkeeper-metrics` will need to be
 updated. See the [documentation](https://github.com/puppetlabs/trapperkeeper-metrics/blob/1.0.0/documentation/configuration.md)
 for details
+
+## [0.4.4] - 2017-03-22
+
+- Updates `puppetlabs/i18n` to 0.8.0.
 
 ## [0.4.3] - 2017-03-20
 
