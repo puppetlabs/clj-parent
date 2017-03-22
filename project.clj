@@ -103,6 +103,7 @@
                          [puppetlabs/trapperkeeper-comidi-metrics "0.1.1"]
                          [puppetlabs/i18n "0.7.1"]
                          [puppetlabs/cljs-dashboard-widgets "0.1.0"]
+                         [puppetlabs/rbac-client "0.6.1"]
                          ]
 
   :dependencies [[org.clojure/clojure]]
