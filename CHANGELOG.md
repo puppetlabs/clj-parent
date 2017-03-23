@@ -21,6 +21,11 @@ configuration. Projects which require `trapperkeeper-metrics` will need to be
 updated. See the [documentation](https://github.com/puppetlabs/trapperkeeper-metrics/blob/1.0.0/documentation/configuration.md)
 for details
 
+## [0.4.5] - 2017-03-23
+
+- Updates `puppetlabs/rbac-client` to 0.6.2.
+- Updates `puppetlabs/jdbc-util` to 0.6.1.
+
 ## [0.4.4] - 2017-03-22
 
 - Updates `puppetlabs/i18n` to 0.8.0.
