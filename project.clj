@@ -82,7 +82,7 @@
                          [prismatic/schema "1.1.1"]
 
                          [puppetlabs/http-client "0.8.0"]
-                         [puppetlabs/jdbc-util "0.6.0"]
+                         [puppetlabs/jdbc-util "0.6.1"]
                          [puppetlabs/typesafe-config "0.1.5"]
                          [puppetlabs/ssl-utils "0.8.3"]
                          [puppetlabs/kitchensink ~ks-version]
@@ -103,7 +103,7 @@
                          [puppetlabs/trapperkeeper-comidi-metrics "0.1.1"]
                          [puppetlabs/i18n "0.8.0"]
                          [puppetlabs/cljs-dashboard-widgets "0.1.0"]
-                         [puppetlabs/rbac-client "0.6.1"]
+                         [puppetlabs/rbac-client "0.6.2"]
                          ]
 
   :dependencies [[org.clojure/clojure]]
