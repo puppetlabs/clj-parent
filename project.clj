@@ -5,7 +5,7 @@
 (def tk-metrics-version "1.0.0")
 (def logback-version "1.1.9")
 
-(defproject puppetlabs/clj-parent "0.6.1"
+(defproject puppetlabs/clj-parent "0.6.2-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.
