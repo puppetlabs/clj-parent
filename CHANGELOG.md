@@ -1,3 +1,9 @@
+## [0.6.1] - 2017-03-23
+
+Merges up 0.4.5:
+- Updates `puppetlabs/rbac-client` to 0.6.2.
+- Updates `puppetlabs/jdbc-util` to 0.6.1.
+
 ## [0.6.0] - 2017-03-22
 
 - Updates `puppetlabs/i18n` to 0.8.0
