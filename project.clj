@@ -4,6 +4,7 @@
 (def tk-jetty-version "1.7.0")
 (def tk-metrics-version "1.0.0")
 (def logback-version "1.1.9")
+(def rbac-client-version "0.6.2")
 
 (defproject puppetlabs/clj-parent "0.6.2-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
@@ -103,7 +104,8 @@
                          [puppetlabs/trapperkeeper-comidi-metrics "0.1.1"]
                          [puppetlabs/i18n "0.8.0"]
                          [puppetlabs/cljs-dashboard-widgets "0.1.0"]
-                         [puppetlabs/rbac-client "0.6.2"]
+                         [puppetlabs/rbac-client ~rbac-client-version]
+                         [puppetlabs/rbac-client ~rbac-client-version :classifier "test"]
                          ]
 
   :dependencies [[org.clojure/clojure]]
