@@ -1,3 +1,12 @@
+## [0.7.0] - 2017-04-12
+
+- Update `clj-kitchensink` to 2.3.0
+- Update `snakeyaml` to 1.18
+- Add a test jar for `puppetlabs/rbac-client`
+
+Note that the snakeyaml bump contains some minor breaking changes, which may
+affect users who use snakeyaml without clj-yaml.
+
 ## [0.6.1] - 2017-03-23
 
 Merges up 0.4.5:
