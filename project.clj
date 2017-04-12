@@ -1,5 +1,5 @@
 (def clj-version "1.8.0")
-(def ks-version "2.2.0")
+(def ks-version "2.3.0")
 (def tk-version "1.5.2")
 (def tk-jetty-version "1.7.0")
 (def tk-metrics-version "1.0.0")

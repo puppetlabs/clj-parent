@@ -1,3 +1,7 @@
+## [0.6.2] - 2017-04-12
+
+- Updates `clj-kitchensink' to 2.3.0
+
 ## [0.6.1] - 2017-03-23
 
 Merges up 0.4.5:
