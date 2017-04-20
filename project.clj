@@ -4,7 +4,7 @@
 (def tk-jetty-version "1.7.0")
 (def tk-metrics-version "1.0.0")
 (def logback-version "1.1.9")
-(def rbac-client-version "0.6.2")
+(def rbac-client-version "0.7.0")
 
 (defproject puppetlabs/clj-parent "0.7.1-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
