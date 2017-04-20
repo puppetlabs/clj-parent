@@ -36,7 +36,7 @@
                          [ch.qos.logback/logback-access ~logback-version]
                          [net.logstash.logback/logstash-logback-encoder "4.7"]
                          [org.codehaus.janino/janino "2.7.8"]
-                         [com.fasterxml.jackson.core/jackson-core "2.7.3"]
+                         [com.fasterxml.jackson.core/jackson-core "2.8.6"]
                          [org.yaml/snakeyaml "1.18"]
 
                          [org.apache.maven.wagon/wagon-provider-api "2.10"]
@@ -55,7 +55,7 @@
                          [clj-stacktrace "0.2.8"]
                          [me.raynes/fs "1.4.6"]
                          [slingshot "0.12.2"]
-                         [cheshire "5.6.1"]
+                         [cheshire "5.7.1"]
                          [compojure "1.5.0"]
                          [quoin "0.1.2"]
                          [ring/ring-servlet "1.5.0"]
