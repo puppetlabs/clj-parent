@@ -1,3 +1,11 @@
+## [0.7.1] - 2017-04-20
+- Update `cheshire` to 5.7.1
+- Update `jackson-core` to 2.8.6
+- Update `jdbc-util` to 0.6.2
+- Update `rbac-client` to 0.7.0
+
+Cheshire had a bug that was fixed: https://github.com/dakrone/cheshire/issues/112 .  The updates to jdbc-util include some new functions to create databases.
+
 ## [0.7.0] - 2017-04-12
 
 - Update `clj-kitchensink` to 2.3.0
