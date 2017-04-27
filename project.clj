@@ -6,7 +6,7 @@
 (def logback-version "1.1.9")
 (def rbac-client-version "0.7.0")
 
-(defproject puppetlabs/clj-parent "0.7.2-SNAPSHOT"
+(defproject puppetlabs/clj-parent "0.8.0-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.
@@ -53,6 +53,7 @@
                          [clj-time "0.11.0"]
                          [circleci/clj-yaml "0.5.5"]
                          [clj-stacktrace "0.2.8"]
+                         [com.zaxxer/HikariCP "2.6.1"]
                          [me.raynes/fs "1.4.6"]
                          [slingshot "0.12.2"]
                          [cheshire "5.7.1"]
@@ -83,7 +84,7 @@
                          [prismatic/schema "1.1.1"]
 
                          [puppetlabs/http-client "0.8.0"]
-                         [puppetlabs/jdbc-util "0.6.2"]
+                         [puppetlabs/jdbc-util "1.0.0"]
                          [puppetlabs/typesafe-config "0.1.5"]
                          [puppetlabs/ssl-utils "0.8.3"]
                          [puppetlabs/kitchensink ~ks-version]
