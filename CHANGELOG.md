@@ -1,3 +1,9 @@
+## [0.8.0] - 2017-04-27 
+- Update `jdbc-util` to 1.0.0
+- Add `com.zaxxer/HikariCP` at version 2.6.1
+
+*Note*: jdbc-util requires jdk8
+
 ## [0.7.1] - 2017-04-20
 - Update `cheshire` to 5.7.1
 - Update `jackson-core` to 2.8.6
