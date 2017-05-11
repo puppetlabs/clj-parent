@@ -1,3 +1,12 @@
+## [0.8.1] - 2017-05-11
+
+- Add `structured-logging` at version 0.2.0
+- Add `instaparse` at version 1.4.1
+- Add `bidi` at version 2.0.12
+- Add `commons-logging` at version 1.2
+- Add `commons-beanutils` at version 1.9.2
+- Add `commons-collections` at version 3.2.2
+
 ## [0.8.0] - 2017-04-27 
 - Update `jdbc-util` to 1.0.0
 - Add `com.zaxxer/HikariCP` at version 2.6.1
