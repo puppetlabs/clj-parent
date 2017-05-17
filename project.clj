@@ -1,12 +1,12 @@
 (def clj-version "1.8.0")
 (def ks-version "2.3.0")
 (def tk-version "1.5.2")
-(def tk-jetty-version "1.7.0")
+(def tk-jetty-version "2.0.1")
 (def tk-metrics-version "1.0.0")
 (def logback-version "1.1.9")
 (def rbac-client-version "0.7.0")
 
-(defproject puppetlabs/clj-parent "0.8.2-SNAPSHOT"
+(defproject puppetlabs/clj-parent "1.0.0-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.
@@ -52,6 +52,8 @@
                          [commons-logging "1.2"]
                          [commons-io "2.4"]
                          [joda-time "2.8.2"]
+
+                         [com.taoensso/nippy "2.10.0"]
 
                          [bidi "2.0.12"]
                          [clj-time "0.11.0"]
