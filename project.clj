@@ -6,7 +6,7 @@
 (def logback-version "1.1.9")
 (def rbac-client-version "0.7.0")
 
-(defproject puppetlabs/clj-parent "1.0.1-SNAPSHOT"
+(defproject puppetlabs/clj-parent "1.1.0-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.
@@ -86,6 +86,7 @@
                          [org.tcrawley/dynapath "0.2.4"]
                          [trptcolin/versioneer "0.2.0"]
                          [io.dropwizard.metrics/metrics-core "3.1.2"]
+                         [metrics-clojure "2.6.1"]
 
                          [prismatic/plumbing "0.4.2"]
                          [prismatic/schema "1.1.1"]
