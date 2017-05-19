@@ -87,6 +87,7 @@
                          [trptcolin/versioneer "0.2.0"]
                          [io.dropwizard.metrics/metrics-core "3.1.2"]
                          [metrics-clojure "2.6.1"]
+                         [org.ow2.asm/asm-all "5.0.3"]
 
                          [prismatic/plumbing "0.4.2"]
                          [prismatic/schema "1.1.1"]
