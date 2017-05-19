@@ -1,3 +1,13 @@
+## [1.1.0] - 2017-05-19
+
+- Add `metrics-clojure` at version 2.6.1.
+- Add `org.ow2.asm/asm-all` at version 5.0.3.
+
+## [1.0.0] - 2017-05-17
+
+- Add `com.taoensso/nippy` at version 2.10.0.
+- Update `trapperkeeper-webserver-jetty9` to version 2.0.1.
+
 ## [0.8.1] - 2017-05-11
 
 - Add `structured-logging` at version 0.2.0
