@@ -8,6 +8,10 @@
 - Add `com.taoensso/nippy` at version 2.10.0.
 - Update `trapperkeeper-webserver-jetty9` to version 2.0.1.
 
+*Note*: The `trapperkeeper-webserver-jetty9` bump also bumps the underlying
+Jetty version from 9.2.10 to 9.4.4.  Both tk-webserver-jetty9 and Jetty
+9.4.x are built using JDK 8 whereas earlier versions were built using JDK 7.
+
 ## [0.8.1] - 2017-05-11
 
 - Add `structured-logging` at version 0.2.0
