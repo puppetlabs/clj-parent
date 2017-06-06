@@ -85,7 +85,7 @@
                          [liberator "0.12.0"]
                          [org.tcrawley/dynapath "0.2.4"]
                          [trptcolin/versioneer "0.2.0"]
-                         [io.dropwizard.metrics/metrics-core "3.1.2"]
+                         [io.dropwizard.metrics/metrics-core "3.2.2"]
                          [metrics-clojure "2.6.1"]
                          [org.ow2.asm/asm-all "5.0.3"]
 
