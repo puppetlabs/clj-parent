@@ -5,6 +5,7 @@
 (def tk-metrics-version "1.0.0")
 (def logback-version "1.1.9")
 (def rbac-client-version "0.7.0")
+(def dropwizard-metrics-version "3.2.2")
 
 (defproject puppetlabs/clj-parent "1.1.1-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
@@ -85,7 +86,8 @@
                          [liberator "0.12.0"]
                          [org.tcrawley/dynapath "0.2.4"]
                          [trptcolin/versioneer "0.2.0"]
-                         [io.dropwizard.metrics/metrics-core "3.1.2"]
+                         [io.dropwizard.metrics/metrics-core ~dropwizard-metrics-version]
+                         [io.dropwizard.metrics/metrics-graphite ~dropwizard-metrics-version]
                          [metrics-clojure "2.6.1"]
                          [org.ow2.asm/asm-all "5.0.3"]
 
