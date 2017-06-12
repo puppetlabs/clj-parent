@@ -1,3 +1,9 @@
+## [1.2.0] - 2017-06-12
+
+- Update io.dropwizard.metrics/metrics-core to version 3.2.2
+- Add io.dropwizard.metrics/metrics-graphite locked to the same version as metrics-core
+- Update puppetlabs/jdbc-util to version 1.0.1
+
 ## [1.1.0] - 2017-05-19
 
 - Add `metrics-clojure` at version 2.6.1.
