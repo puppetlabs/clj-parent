@@ -1,3 +1,9 @@
+## [1.2.1] - 2017-06-14
+
+- Update puppetlabs/http-client to version 0.9.0
+- Update trapperkeeper-metrics to version 1.1.0
+- Update puppetlabs/jdbc-util to version 1.0.2
+
 ## [1.2.0] - 2017-06-12
 
 - Update io.dropwizard.metrics/metrics-core to version 3.2.2
