@@ -73,13 +73,7 @@
                          [ring/ring-json "0.4.0"]
                          [ring-basic-authentication "1.0.5"]
                          [ring-mock "0.1.5"]
-                         ;; ring-defaults brings in a bad, old version of the servlet-api, which
-                         ;; now has a new artifact name (javax.servlet/javax.servlet-api).  If we
-                         ;; don't exclude the old one here, they'll both be brought in, and consumers
-                         ;; will be subject to the whims of which one shows up on the classpath first.
-                         ;; thus, we need to use exclusions here, even though we'd normally resolve
-                         ;; this type of thing by just specifying a fixed dependency version.
-                         [ring/ring-defaults "0.2.0" :exclusions [javax.servlet/servlet-api]]
+                         [ring/ring-defaults "0.3.0"]
                          [stencil "0.5.0"]
                          [beckon "0.1.1"]
                          [hiccup "1.0.5"]
