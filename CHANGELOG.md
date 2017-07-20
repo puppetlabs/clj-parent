@@ -1,3 +1,7 @@
+## [1.3.0] - 2017-07-24
+
+- Add `honeysql` at version 0.6.3
+
 ## [1.2.1] - 2017-06-14
 
 - Update puppetlabs/http-client to version 0.9.0
