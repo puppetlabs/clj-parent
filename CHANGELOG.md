@@ -1,6 +1,7 @@
 ## [1.3.0] - 2017-07-24
 
 - Add `honeysql` at version 0.6.3
+- Update ring/ring-defaults to version 0.3.0. Projects no longer need to exclude `javax.servlet/servlet-api`.
 
 ## [1.2.1] - 2017-06-14
 
@@ -49,7 +50,8 @@ Jetty version from 9.2.10 to 9.4.4.  Both tk-webserver-jetty9 and Jetty
 - Update `jdbc-util` to 0.6.2
 - Update `rbac-client` to 0.7.0
 
-Cheshire had a bug that was fixed: https://github.com/dakrone/cheshire/issues/112 .  The updates to jdbc-util include some new functions to create databases.
+Cheshire had a bug that was fixed: https://github.com/dakrone/cheshire/issues/112.
+The updates to jdbc-util include some new functions to create databases.
 
 ## [0.7.0] - 2017-04-12
 
