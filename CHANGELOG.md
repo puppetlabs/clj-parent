@@ -1,3 +1,7 @@
+## [1.3.1]
+
+- Update puppetlabs/ssl-utils to version 0.9.0
+
 ## [1.3.0] - 2017-07-24
 
 - Add `honeysql` at version 0.6.3
