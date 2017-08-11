@@ -92,7 +92,7 @@
                          [puppetlabs/http-client "0.9.0"]
                          [puppetlabs/jdbc-util "1.0.2"]
                          [puppetlabs/typesafe-config "0.1.5"]
-                         [puppetlabs/ssl-utils "0.8.3"]
+                         [puppetlabs/ssl-utils "0.9.0"]
                          [puppetlabs/kitchensink ~ks-version]
                          [puppetlabs/kitchensink ~ks-version :classifier "test"]
                          [puppetlabs/trapperkeeper ~tk-version]
