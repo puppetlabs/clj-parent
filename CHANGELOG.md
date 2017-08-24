@@ -1,3 +1,7 @@
+## [1.4.1]
+
+- Update puppetlabs/jvm-ssl-utils to version 0.9.1
+
 ## [1.4.0]
 
 - Update puppetlabs/clj-kitchensink to version 2.4.0
