@@ -1,3 +1,7 @@
+## [1.4.0]
+
+- Update puppetlabs/clj-kitchensink to version 2.4.0
+
 ## [1.3.1]
 
 - Update puppetlabs/ssl-utils to version 0.9.0
