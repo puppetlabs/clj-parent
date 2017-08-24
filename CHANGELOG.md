@@ -2,6 +2,7 @@
 
 - Update `cheshire` to 5.8.0
 - Update `jackson-core` to 2.9.0
+- Update trapperkeeper-filesystem-watcher to version 1.1.0
 
 ## [1.3.2]
 
