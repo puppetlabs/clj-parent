@@ -7,7 +7,7 @@
 (def rbac-client-version "0.7.0")
 (def dropwizard-metrics-version "3.2.2")
 
-(defproject puppetlabs/clj-parent "1.3.3-SNAPSHOT"
+(defproject puppetlabs/clj-parent "1.4.0-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.
@@ -37,7 +37,7 @@
                          [ch.qos.logback/logback-access ~logback-version]
                          [net.logstash.logback/logstash-logback-encoder "4.7"]
                          [org.codehaus.janino/janino "2.7.8"]
-                         [com.fasterxml.jackson.core/jackson-core "2.8.6"]
+                         [com.fasterxml.jackson.core/jackson-core "2.9.0"]
                          [org.yaml/snakeyaml "1.18"]
 
                          [org.apache.maven.wagon/wagon-provider-api "2.10"]
@@ -64,7 +64,7 @@
                          [me.raynes/fs "1.4.6"]
                          [instaparse "1.4.1"]
                          [slingshot "0.12.2"]
-                         [cheshire "5.7.1"]
+                         [cheshire "5.8.0"]
                          [compojure "1.5.0"]
                          [quoin "0.1.2"]
                          [ring/ring-servlet "1.5.0"]
