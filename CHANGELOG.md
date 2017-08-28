@@ -1,3 +1,8 @@
+## [1.4.0]
+
+- Update `cheshire` to 5.8.0
+- Update `jackson-core` to 2.9.0
+
 ## [1.3.2]
 
 - Update puppetlabs/clj-kitchensink to version 2.4.0
