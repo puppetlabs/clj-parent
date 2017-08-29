@@ -1,3 +1,7 @@
+## [1.4.1]
+
+- Update `trapperkeeper-webserver-jetty9` to version 2.1.0
+
 ## [1.4.0]
 
 - Update `cheshire` to 5.8.0
