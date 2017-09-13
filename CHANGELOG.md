@@ -1,3 +1,7 @@
+## [1.4.2]
+
+- Add `jackson-databind` at version 2.9.0
+
 ## [1.4.1]
 
 - Update `trapperkeeper-webserver-jetty9` to version 2.1.0
