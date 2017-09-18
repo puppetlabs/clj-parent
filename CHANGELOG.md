@@ -1,6 +1,7 @@
 ## [1.4.2]
 
 - Add `jackson-databind` at version 2.9.0
+- Update `puppetlabs/rbac-client` to version 0.7.1
 
 ## [1.4.1]
 
