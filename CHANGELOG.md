@@ -1,3 +1,7 @@
+## [1.4.2]
+
+- Update `puppetlabs/rbac-client` to version 0.7.1
+
 ## [1.4.1]
 
 - Update `trapperkeeper-webserver-jetty9` to version 2.1.0
