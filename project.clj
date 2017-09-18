@@ -38,6 +38,7 @@
                          [net.logstash.logback/logstash-logback-encoder "4.7"]
                          [org.codehaus.janino/janino "2.7.8"]
                          [com.fasterxml.jackson.core/jackson-core "2.9.0"]
+                         [com.fasterxml.jackson.core/jackson-databind "2.9.0"]
                          [org.yaml/snakeyaml "1.18"]
 
                          [org.apache.maven.wagon/wagon-provider-api "2.10"]
