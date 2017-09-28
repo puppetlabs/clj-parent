@@ -1,3 +1,8 @@
+## [1.4.3]
+
+- Update `puppetlabs/clj-kitchensink` to version 2.5.0
+- Update `puppetlabs/trapperkeeper` to version 1.5.3
+
 ## [1.4.2]
 
 - Add `jackson-databind` at version 2.9.0
