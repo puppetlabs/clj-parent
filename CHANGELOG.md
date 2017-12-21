@@ -1,3 +1,8 @@
+## [1.5.0]
+
+- Update `puppetlabs/rbac-client-version` to version 0.8.1
+- Breaking change: the new version of the rbac client includes a new method within the RbacConsumerService protocol, and dependent projects will require updating to accommodate for it.
+
 ## [1.4.3]
 
 - Update `puppetlabs/clj-kitchensink` to version 2.5.0
@@ -67,7 +72,7 @@ Jetty version from 9.2.10 to 9.4.4.  Both tk-webserver-jetty9 and Jetty
 - Add `commons-beanutils` at version 1.9.2
 - Add `commons-collections` at version 3.2.2
 
-## [0.8.0] - 2017-04-27 
+## [0.8.0] - 2017-04-27
 - Update `jdbc-util` to 1.0.0
 - Add `com.zaxxer/HikariCP` at version 2.6.1
 
