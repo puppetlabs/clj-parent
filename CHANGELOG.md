@@ -1,3 +1,8 @@
+## [1.5.1]
+
+- update `puppetlabs/jdbc-util` to version 1.0.3 which includes updates for the postgres driver and HikariCP
+- add a depdendecy to 'org.postgres/postgres' version 42.1.4
+
 ## [1.5.0]
 
 - Update `puppetlabs/rbac-client-version` to version 0.8.1
