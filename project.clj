@@ -86,12 +86,13 @@
                          [metrics-clojure "2.6.1"]
                          [org.ow2.asm/asm-all "5.0.3"]
                          [honeysql "0.6.3"]
+                         [org.postgresql/postgresql "42.1.4"]
 
                          [prismatic/plumbing "0.4.2"]
                          [prismatic/schema "1.1.1"]
 
                          [puppetlabs/http-client "0.9.0"]
-                         [puppetlabs/jdbc-util "1.0.2"]
+                         [puppetlabs/jdbc-util "1.0.3"]
                          [puppetlabs/typesafe-config "0.1.5"]
                          [puppetlabs/ssl-utils "0.9.1"]
                          [puppetlabs/kitchensink ~ks-version]
