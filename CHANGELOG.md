@@ -1,3 +1,8 @@
+## [1.6.0]
+
+- update `puppetlabs/trapperkeeper-status` to version 1.0.0 which includes additional metrics reporting
+- update `puppetlabs/trapperkeeper-webserver-jetty9` to version 2.1.1 which appropriately denies content renegotiation.
+
 ## [1.5.1]
 
 - update `puppetlabs/jdbc-util` to version 1.0.3 which includes updates for the postgres driver and HikariCP
