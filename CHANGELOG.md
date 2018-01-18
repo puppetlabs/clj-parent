@@ -1,3 +1,7 @@
+## [1.6.1]
+
+- update `com.fasterxml.jackson.core/jackson-databind` to 2.9.1 which remediates CVE-2017-15095
+
 ## [1.6.0]
 
 - update `puppetlabs/trapperkeeper-status` to version 1.0.0 which includes additional metrics reporting
