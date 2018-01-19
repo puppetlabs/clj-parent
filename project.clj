@@ -57,7 +57,7 @@
 
                          [com.taoensso/nippy "2.10.0"]
 
-                         [bidi "2.0.12"]
+                         [bidi "2.1.3"]
                          [clj-time "0.11.0"]
                          [circleci/clj-yaml "0.5.5"]
                          [clj-stacktrace "0.2.8"]
@@ -110,7 +110,7 @@
                          [puppetlabs/structured-logging "0.2.0"]
                          [puppetlabs/ring-middleware "1.0.0"]
                          [puppetlabs/dujour-version-check "0.2.1"]
-                         [puppetlabs/comidi "0.3.1"]
+                         [puppetlabs/comidi "0.3.2"]
                          [puppetlabs/trapperkeeper-comidi-metrics "0.1.1"]
                          [puppetlabs/i18n "0.8.0"]
                          [puppetlabs/cljs-dashboard-widgets "0.1.0"]
