@@ -1,13 +1,13 @@
 (def clj-version "1.8.0")
 (def ks-version "2.5.2")
-(def tk-version "1.5.4")
+(def tk-version "1.5.5")
 (def tk-jetty-version "2.1.1")
 (def tk-metrics-version "1.1.0")
 (def logback-version "1.1.9")
 (def rbac-client-version "0.8.1")
 (def dropwizard-metrics-version "3.2.2")
 
-(defproject puppetlabs/clj-parent "1.6.3-SNAPSHOT"
+(defproject puppetlabs/clj-parent "1.7.0-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.
@@ -20,7 +20,7 @@
                          [org.clojure/tools.nrepl "0.2.6"]
                          [org.clojure/tools.macro "0.1.5"]
                          [org.clojure/java.classpath "0.2.3"]
-                         [org.clojure/java.jdbc "0.6.2-alpha3"]
+                         [org.clojure/java.jdbc "0.7.5"]
                          [org.clojure/java.jmx "0.3.1"]
                          [org.clojure/core.async "0.2.391"]
                          [org.clojure/core.cache "0.6.5"]
@@ -61,7 +61,7 @@
                          [clj-time "0.11.0"]
                          [circleci/clj-yaml "0.5.5"]
                          [clj-stacktrace "0.2.8"]
-                         [com.zaxxer/HikariCP "2.6.1"]
+                         [com.zaxxer/HikariCP "2.7.4"]
                          [me.raynes/fs "1.4.6"]
                          [instaparse "1.4.1"]
                          [slingshot "0.12.2"]
@@ -86,13 +86,13 @@
                          [metrics-clojure "2.6.1"]
                          [org.ow2.asm/asm-all "5.0.3"]
                          [honeysql "0.6.3"]
-                         [org.postgresql/postgresql "42.1.4"]
+                         [org.postgresql/postgresql "42.2.0"]
 
                          [prismatic/plumbing "0.4.2"]
                          [prismatic/schema "1.1.1"]
 
                          [puppetlabs/http-client "0.9.0"]
-                         [puppetlabs/jdbc-util "1.0.3"]
+                         [puppetlabs/jdbc-util "1.1.0"]
                          [puppetlabs/typesafe-config "0.1.5"]
                          [puppetlabs/ssl-utils "0.9.1"]
                          [puppetlabs/kitchensink ~ks-version]
