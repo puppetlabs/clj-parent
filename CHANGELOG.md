@@ -1,3 +1,8 @@
+## [1.6.3]
+
+- Update `puppetlabs/clj-kitchensink` to version 2.5.2 for Java 9 compatibility.
+- Update `puppetlabs/trapperkeeper` to version 1.5.4 for Java 9 compatibility.
+
 ## [1.6.2]
 
 - update bidi to 2.1.3, which avoids a bug when parsing URIs with spaces. Also update comidi to 0.3.2, to be compatible with the new bidi.
