@@ -1,7 +1,12 @@
-## [1.6.3]
+## [1.7.0]
 
-- Update `puppetlabs/clj-kitchensink` to version 2.5.2 for Java 9 compatibility.
-- Update `puppetlabs/trapperkeeper` to version 1.5.4 for Java 9 compatibility.
+- Update for Java 9 compatibility, minor version bump because some of these are feature releases
+- Update `puppetlabs/jdbc-util` to version 1.1.0
+- Update `org.postgresql/postgresql` to version 42.2.0
+- Update `com.zaxxer/HikariCP` to version 2.7.4
+- Update `org.cojure/java.jdbc` to version 0.7.5
+- Update `puppetlabs/trapperkeeper` to version 1.5.5
+- Update `puppetlabs/clj-kitchensink` to version 2.5.2
 
 ## [1.6.2]
 
