@@ -1,3 +1,7 @@
+## [1.7.1]
+
+- Update trapperkeeper-webserver-jetty9 to 2.1.2, which enables gzipping of POST request responses
+
 ## [1.7.0]
 
 - Update for Java 9 compatibility, minor version bump because some of these are feature releases
