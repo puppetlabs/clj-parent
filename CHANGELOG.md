@@ -1,3 +1,7 @@
+## [1.7.2]
+
+- update jdbc-util to 1.1.1 to fix issue with pglogical activated during migrations.
+
 ## [1.7.1]
 
 - Update trapperkeeper-webserver-jetty9 to 2.1.2, which enables gzipping of POST request responses
