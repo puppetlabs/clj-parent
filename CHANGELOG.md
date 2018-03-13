@@ -1,6 +1,10 @@
+## [1.7.3]
+
+- Update Jackson to 2.9.4 and pull in the Jackson Afterburner module for use with JrJackson.
+
 ## [1.7.2]
 
-- update jdbc-util to 1.1.1 to fix issue with pglogical activated during migrations.
+- Update jdbc-util to 1.1.1 to fix issue with pglogical activated during migrations.
 
 ## [1.7.1]
 
