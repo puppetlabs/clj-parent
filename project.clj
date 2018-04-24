@@ -1,13 +1,13 @@
-(def clj-version "1.8.0")
+(def clj-version "1.9.0")
 (def ks-version "2.5.2")
 (def tk-version "1.5.5")
 (def tk-jetty-version "2.1.2")
 (def tk-metrics-version "1.1.0")
-(def logback-version "1.1.9")
+(def logback-version "1.2.3")
 (def rbac-client-version "0.8.1")
 (def dropwizard-metrics-version "3.2.2")
 
-(defproject puppetlabs/clj-parent "1.7.6-SNAPSHOT"
+(defproject puppetlabs/clj-parent "2.0.0-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.
@@ -15,27 +15,27 @@
 
   :managed-dependencies [[org.clojure/clojure ~clj-version]
                          [org.clojure/clojurescript "1.7.122"]
-                         [org.clojure/tools.logging "0.3.1"]
-                         [org.clojure/tools.cli "0.3.4"]
-                         [org.clojure/tools.nrepl "0.2.6"]
+                         [org.clojure/tools.logging "0.4.0"]
+                         [org.clojure/tools.cli "0.3.6"]
+                         [org.clojure/tools.nrepl "0.2.13"]
                          [org.clojure/tools.macro "0.1.5"]
                          [org.clojure/java.classpath "0.2.3"]
                          [org.clojure/java.jdbc "0.7.5"]
-                         [org.clojure/java.jmx "0.3.1"]
-                         [org.clojure/core.async "0.2.391"]
-                         [org.clojure/core.cache "0.6.5"]
-                         [org.clojure/core.memoize "0.5.9"]
-                         [org.clojure/tools.reader "1.0.0-beta2"]
-                         [org.clojure/tools.namespace "0.2.10"]
+                         [org.clojure/java.jmx "0.3.4"]
+                         [org.clojure/core.async "0.4.474"]
+                         [org.clojure/core.cache "0.7.1"]
+                         [org.clojure/core.memoize "0.7.1"]
+                         [org.clojure/tools.reader "1.2.1"]
+                         [org.clojure/tools.namespace "0.2.11"]
                          [org.clojure/data.json "0.2.6"]
-                         [org.clojure/data.priority-map "0.0.7"]
+                         [org.clojure/data.priority-map "0.0.9"]
 
                          [org.slf4j/log4j-over-slf4j "1.7.20"]
                          [org.slf4j/slf4j-api "1.7.20"]
                          [ch.qos.logback/logback-classic ~logback-version]
                          [ch.qos.logback/logback-core ~logback-version]
                          [ch.qos.logback/logback-access ~logback-version]
-                         [net.logstash.logback/logstash-logback-encoder "4.7"]
+                         [net.logstash.logback/logstash-logback-encoder "5.0"]
                          [org.codehaus.janino/janino "2.7.8"]
                          [com.fasterxml.jackson.core/jackson-core "2.9.4"]
                          [com.fasterxml.jackson.core/jackson-databind "2.9.4"]
@@ -74,8 +74,8 @@
                          [ring/ring-codec "1.0.0"]
                          [ring/ring-json "0.4.0"]
                          [ring-basic-authentication "1.0.5"]
-                         [ring-mock "0.1.5"]
-                         [ring/ring-defaults "0.3.0"]
+                         [ring/ring-mock "0.3.2"]
+                         [ring/ring-defaults "0.3.1"]
                          [stencil "0.5.0"]
                          [beckon "0.1.1"]
                          [hiccup "1.0.5"]
@@ -87,7 +87,7 @@
                          [metrics-clojure "2.6.1"]
                          [org.ow2.asm/asm-all "5.0.3"]
                          [honeysql "0.6.3"]
-                         [org.postgresql/postgresql "42.2.0"]
+                         [org.postgresql/postgresql "42.2.2"]
 
                          [prismatic/plumbing "0.4.2"]
                          [prismatic/schema "1.1.1"]
