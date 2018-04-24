@@ -1,3 +1,14 @@
+## [2.0.0]
+
+Breaking changes -- new version of clojure and changes to ring-mock.
+
+- update clojure to 1.9 
+- update logback to 1.2.3
+- update org.clojure namespaced dependencies to the latest versions
+- move from ring-mock to the new namespaced ring/ring-mock version
+- update ring-defaults to the latest version
+- update postgresql to latest patch version
+
 ## [1.7.3]
 
 - Update Jackson to 2.9.4 and pull in the Jackson Afterburner module for use with JrJackson.
