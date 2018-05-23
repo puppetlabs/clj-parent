@@ -95,7 +95,7 @@
                          [puppetlabs/http-client "0.9.0"]
                          [puppetlabs/jdbc-util "1.1.1"]
                          [puppetlabs/typesafe-config "0.1.5"]
-                         [puppetlabs/ssl-utils "0.9.1"]
+                         [puppetlabs/ssl-utils "1.0.0"]
                          [puppetlabs/clj-ldap "0.1.6"]
                          [puppetlabs/kitchensink ~ks-version]
                          [puppetlabs/kitchensink ~ks-version :classifier "test"]
