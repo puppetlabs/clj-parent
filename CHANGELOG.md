@@ -1,3 +1,8 @@
+## [2.0.1]
+
+- Update `janino` to version 3.0.8
+- Update `ssl-utils` to version 1.0.0
+
 ## [2.0.0]
 
 Breaking changes -- new version of clojure and changes to ring-mock.
