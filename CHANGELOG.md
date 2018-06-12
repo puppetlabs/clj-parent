@@ -1,3 +1,15 @@
+## [1.7.6]
+
+- Update trapperkeeper to 1.5.6, which causes SIGHUP to be logged at INFO level instead of debug
+
+## [1.7.5]
+
+- Update clj-ldap to 0.1.6
+
+## [1.7.4]
+
+- Add the clj-ldap library
+
 ## [1.7.3]
 
 - Update Jackson to 2.9.4 and pull in the Jackson Afterburner module for use with JrJackson.
