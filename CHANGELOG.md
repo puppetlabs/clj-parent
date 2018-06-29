@@ -1,3 +1,6 @@
+## [1.7.7]
+- Update clj-rbac-client with list-permitted-for method
+
 ## [1.7.6]
 
 - Update trapperkeeper to 1.5.6, which causes SIGHUP to be logged at INFO level instead of debug
