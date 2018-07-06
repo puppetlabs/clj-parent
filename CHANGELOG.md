@@ -1,3 +1,11 @@
+## [2.0.3]
+
+- Update `trapperkeeper-status` to version 1.1.0
+
+## [2.0.2]
+
+- Update  `rbac-client-version` to 0.9.0
+
 ## [2.0.1]
 
 - Update `janino` to version 3.0.8
