@@ -1,3 +1,11 @@
+## [2.0.3]
+
+- Update `trapperkeeper-status` to 1.1.0
+
+## [2.0.2]
+
+- Update `puppetlabs/rbac-client-version` to 0.9.0
+
 ## [2.0.1]
 
 - Update `janino` to version 3.0.8
@@ -7,12 +15,20 @@
 
 Breaking changes -- new version of clojure and changes to ring-mock.
 
-- update clojure to 1.9 
+- update clojure to 1.9
 - update logback to 1.2.3
 - update org.clojure namespaced dependencies to the latest versions
 - move from ring-mock to the new namespaced ring/ring-mock version
 - update ring-defaults to the latest version
 - update postgresql to latest patch version
+
+## [1.7.8]
+
+- Update trapperkeeper-status to 1.1.0
+
+## [1.7.7]
+
+- Update clj-rbac-client with list-permitted-for method
 
 ## [1.7.6]
 
