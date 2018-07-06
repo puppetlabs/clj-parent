@@ -1,4 +1,9 @@
+## [1.7.8]
+
+- Update trapperkeeper-status to 1.1.0
+
 ## [1.7.7]
+
 - Update clj-rbac-client with list-permitted-for method
 
 ## [1.7.6]
