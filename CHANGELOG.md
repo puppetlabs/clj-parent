@@ -1,3 +1,6 @@
+## [2.0.4]
+
+- Update `jdbc-util` to 1.2.0
 ## [2.0.3]
 
 - Update `trapperkeeper-status` to 1.1.0
