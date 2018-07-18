@@ -1,3 +1,8 @@
+## [2.0.6]
+
+- Update `jdbc-util` to 1.2.2
+- update `org.clojure/java.jdbc` to 0.7.7
+
 ## [2.0.5]
 
 - Update `jdbc-util` to 1.2.1
