@@ -1,3 +1,7 @@
+## [1.7.10]
+
+- update jdbc-util to 1.2.2, and java-jdbc to 0.7.7
+
 ## [1.7.9]
 
 - Update clj-rbac-client to add `subject` to the consumer service protocol
