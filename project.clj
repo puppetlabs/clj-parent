@@ -20,7 +20,7 @@
                          [org.clojure/tools.nrepl "0.2.6"]
                          [org.clojure/tools.macro "0.1.5"]
                          [org.clojure/java.classpath "0.2.3"]
-                         [org.clojure/java.jdbc "0.7.5"]
+                         [org.clojure/java.jdbc "0.7.7"]
                          [org.clojure/java.jmx "0.3.1"]
                          [org.clojure/core.async "0.2.391"]
                          [org.clojure/core.cache "0.6.5"]
@@ -93,7 +93,7 @@
                          [prismatic/schema "1.1.1"]
 
                          [puppetlabs/http-client "0.9.0"]
-                         [puppetlabs/jdbc-util "1.1.1"]
+                         [puppetlabs/jdbc-util "1.2.2"]
                          [puppetlabs/typesafe-config "0.1.5"]
                          [puppetlabs/ssl-utils "0.9.1"]
                          [puppetlabs/clj-ldap "0.1.6"]
