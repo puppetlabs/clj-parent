@@ -1,3 +1,7 @@
+## [1.7.9]
+
+- Update clj-rbac-client to add `subject` to the consumer service protocol
+
 ## [1.7.8]
 
 - Update trapperkeeper-status to 1.1.0
