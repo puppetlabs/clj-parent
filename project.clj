@@ -4,7 +4,7 @@
 (def tk-jetty-version "2.1.2")
 (def tk-metrics-version "1.1.0")
 (def logback-version "1.2.3")
-(def rbac-client-version "0.9.0")
+(def rbac-client-version "0.9.1")
 (def dropwizard-metrics-version "3.2.2")
 
 (defproject puppetlabs/clj-parent "2.0.7-SNAPSHOT"
