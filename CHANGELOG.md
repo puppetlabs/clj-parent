@@ -1,3 +1,7 @@
+## [2.0.7]
+
+- Update `rbac-client` to 0.9.1 that adds a new function `subject` to the consumer protocol and remote implementation
+
 ## [2.0.6]
 
 - Update `jdbc-util` to 1.2.2
