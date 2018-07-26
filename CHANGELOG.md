@@ -1,3 +1,8 @@
+## [2.1.0]
+
+- Update `trapperkeeper-webserver-jetty9` to 2.2.0
+  (updates Jetty to 9.4.11-20180605)
+
 ## [2.0.7]
 
 - Update `rbac-client` to 0.9.1 that adds a new function `subject` to the consumer protocol and remote implementation
