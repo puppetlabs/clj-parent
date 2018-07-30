@@ -2,6 +2,7 @@
 
 - Update `trapperkeeper-webserver-jetty9` to 2.2.0
   (updates Jetty to 9.4.11-20180605)
+- Update jdbc-util to 1.2.3 to fix some migration / restart issues seen in testing
 
 ## [2.0.7]
 
