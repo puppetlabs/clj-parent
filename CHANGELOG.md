@@ -1,3 +1,7 @@
+## [1.7.11]
+
+- update jdbc-util to 1.2.3 to prevent partial migration failure
+
 ## [1.7.10]
 
 - update jdbc-util to 1.2.2, and java-jdbc to 0.7.7
