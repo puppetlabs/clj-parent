@@ -90,7 +90,7 @@
                          [org.postgresql/postgresql "42.2.2"]
 
                          [prismatic/plumbing "0.4.2"]
-                         [prismatic/schema "1.1.1"]
+                         [prismatic/schema "1.1.9"]
 
                          [puppetlabs/http-client "0.9.0"]
                          [puppetlabs/jdbc-util "1.2.3"]

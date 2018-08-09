@@ -1,3 +1,7 @@
+## [2.1.x]
+
+- Update `prismatic/schema` from 1.1.1 to 1.1.9.
+
 ## [2.1.1]
 
 - update clj-ldap to 0.2.0 to bring in some new versions of dependencies.
