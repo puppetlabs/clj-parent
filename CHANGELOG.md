@@ -1,3 +1,7 @@
+## [1.7.12]
+
+- update clj-ldap to 0.2.0 to bring in new versions of dependencies
+
 ## [1.7.11]
 
 - update jdbc-util to 1.2.3 to prevent partial migration failure
