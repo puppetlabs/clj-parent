@@ -1,3 +1,8 @@
+## [2.1.x]
+
+- Update `org.apache.commons/commons-compress` from 1.8 to 1.17.
+- Update `prismatic/schema` from 1.1.1 to 1.1.9.
+
 ## [2.1.1]
 
 - update clj-ldap to 0.2.0 to bring in some new versions of dependencies.

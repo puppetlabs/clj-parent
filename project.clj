@@ -44,7 +44,7 @@
 
                          [org.apache.maven.wagon/wagon-provider-api "2.10"]
                          [org.apache.commons/commons-exec "1.3"]
-                         [org.apache.commons/commons-compress "1.8"]
+                         [org.apache.commons/commons-compress "1.17"]
                          [org.apache.commons/commons-lang3 "3.4"]
                          [org.apache.httpcomponents/httpclient  "4.5.2"]
                          [org.apache.httpcomponents/httpcore  "4.4.5"]
@@ -90,7 +90,7 @@
                          [org.postgresql/postgresql "42.2.2"]
 
                          [prismatic/plumbing "0.4.2"]
-                         [prismatic/schema "1.1.1"]
+                         [prismatic/schema "1.1.9"]
 
                          [puppetlabs/http-client "0.9.0"]
                          [puppetlabs/jdbc-util "1.2.3"]
