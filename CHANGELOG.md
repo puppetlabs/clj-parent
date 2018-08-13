@@ -1,3 +1,7 @@
+## [2.1.1]
+
+- update clj-ldap to 0.2.0 to bring in some new versions of dependencies.
+
 ## [2.1.0]
 
 - Update `trapperkeeper-webserver-jetty9` to 2.2.0
