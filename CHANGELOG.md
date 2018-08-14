@@ -1,7 +1,8 @@
-## [2.1.x]
+## [2.2.0]
 
-- Update `org.apache.commons/commons-compress` from 1.8 to 1.17.
-- Update `prismatic/schema` from 1.1.1 to 1.1.9.
+- Update `org.apache.commons/commons-compress` from 1.8 to 1.17
+- Update `prismatic/schema` from 1.1.1 to 1.1.9
+- Update `liberator` from 0.12.0 to 0.15.2
 
 ## [2.1.1]
 
