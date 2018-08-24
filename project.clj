@@ -88,6 +88,7 @@
                          [org.ow2.asm/asm-all "5.0.3"]
                          [honeysql "0.6.3"]
                          [org.postgresql/postgresql "42.2.2"]
+                         [medley "1.0.0"]
 
                          [prismatic/plumbing "0.4.2"]
                          [prismatic/schema "1.1.9"]
