@@ -1,6 +1,8 @@
-## [2.2.1]
+## [2.3.0]
 
 - Update `metrics-clojure` from 2.6.1 to 2.10.0
+- Update `tk-jetty-version` from 2.2.0 to 2.3.0
+- Add `medley` at version 1.0.0
 
 ## [2.2.0]
 
