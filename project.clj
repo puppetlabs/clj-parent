@@ -84,7 +84,7 @@
                          [trptcolin/versioneer "0.2.0"]
                          [io.dropwizard.metrics/metrics-core ~dropwizard-metrics-version]
                          [io.dropwizard.metrics/metrics-graphite ~dropwizard-metrics-version]
-                         [metrics-clojure "2.6.1"]
+                         [metrics-clojure "2.10.0"]
                          [org.ow2.asm/asm-all "5.0.3"]
                          [honeysql "0.6.3"]
                          [org.postgresql/postgresql "42.2.2"]

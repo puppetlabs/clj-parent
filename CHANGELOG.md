@@ -1,3 +1,7 @@
+## [2.2.1]
+
+- Update `metrics-clojure` from 2.6.1 to 2.10.0
+
 ## [2.2.0]
 
 - Update `org.apache.commons/commons-compress` from 1.8 to 1.17
