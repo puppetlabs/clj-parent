@@ -1,3 +1,7 @@
+## [1.7.13]
+
+- update clj-http client to 1.0.0 to take advantage of the new persistent client options
+
 ## [1.7.12]
 
 - update clj-ldap to 0.2.0 to bring in new versions of dependencies
