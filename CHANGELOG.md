@@ -1,3 +1,7 @@
+## [2.3.1]
+
+- Update `ssl-utils` to 1.0.1
+
 ## [2.3.0]
 
 - Update `metrics-clojure` from 2.6.1 to 2.10.0
@@ -60,6 +64,26 @@ Breaking changes -- new version of clojure and changes to ring-mock.
 - move from ring-mock to the new namespaced ring/ring-mock version
 - update ring-defaults to the latest version
 - update postgresql to latest patch version
+
+## [1.7.13]
+
+- update clj-http client to 1.0.0 to take advantage of the new persistent client options
+
+## [1.7.12]
+
+- update clj-ldap to 0.2.0 to bring in new versions of dependencies
+
+## [1.7.11]
+
+- update jdbc-util to 1.2.3 to prevent partial migration failure
+
+## [1.7.10]
+
+- update jdbc-util to 1.2.2, and java-jdbc to 0.7.7
+
+## [1.7.9]
+
+- Update clj-rbac-client to add `subject` to the consumer service protocol
 
 ## [1.7.8]
 
