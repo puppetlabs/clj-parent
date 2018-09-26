@@ -1,3 +1,8 @@
+## [1.7.14]
+
+- update tk-metrics to 1.2.0 for new jolokia version
+- update ssl-utils to 1.0.1 for new SAN ext. parsing
+
 ## [1.7.13]
 
 - update clj-http client to 1.0.0 to take advantage of the new persistent client options
