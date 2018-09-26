@@ -1,3 +1,7 @@
+## [2.3.2]
+
+- update tk-metrics to 1.2.0 for new jolokia version
+
 ## [2.3.1]
 
 - Update `ssl-utils` to 1.0.1
@@ -64,6 +68,12 @@ Breaking changes -- new version of clojure and changes to ring-mock.
 - move from ring-mock to the new namespaced ring/ring-mock version
 - update ring-defaults to the latest version
 - update postgresql to latest patch version
+
+
+## [1.7.14]
+
+- update tk-metrics to 1.2.0 for new jolokia version
+- update ssl-utils to 1.0.1 for new SAN ext. parsing
 
 ## [1.7.13]
 
