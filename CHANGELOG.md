@@ -1,3 +1,7 @@
+## [2.3.3]
+
+- update ring-middleware to 1.0.1 for better logging of uncaught exceptions
+
 ## [2.3.2]
 
 - update tk-metrics to 1.2.0 for new jolokia version
