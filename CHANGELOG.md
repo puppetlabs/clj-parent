@@ -1,3 +1,7 @@
+## [2.3.3]
+
+- update ring-middleware to 1.0.1 for better logging of uncaught exceptions
+
 ## [2.3.2]
 
 - update tk-metrics to 1.2.0 for new jolokia version
@@ -69,6 +73,9 @@ Breaking changes -- new version of clojure and changes to ring-mock.
 - update ring-defaults to the latest version
 - update postgresql to latest patch version
 
+## [1.7.15]
+
+- update ring-middleware to 1.0.1 for better logging of uncaught exceptions
 
 ## [1.7.14]
 
