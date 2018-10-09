@@ -1,3 +1,7 @@
+## [2.3.4]
+
+- update trapperkeeper-scheduler to 1.0.0 to use the quartz scheduler instead of at-at internally.
+
 ## [2.3.3]
 
 - update ring-middleware to 1.0.1 for better logging of uncaught exceptions
