@@ -1,3 +1,7 @@
+## [2.3.5]
+
+- update clj-rbac-client to 0.9.2 to increase the number of concurrent request the client will make to activity and rbac services
+
 ## [2.3.4]
 
 - update trapperkeeper-scheduler to 1.0.0 to use the quartz scheduler instead of at-at internally.
