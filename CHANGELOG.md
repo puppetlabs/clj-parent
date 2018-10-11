@@ -1,3 +1,7 @@
+## [1.7.16]
+
+- update clj-rbac-client to 0.8.4 to increase the maximum number of simultaneous connections
+
 ## [1.7.15]
 
 - update ring-middleware to 1.0.1 for better logging of uncaught exceptions
