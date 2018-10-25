@@ -1,3 +1,7 @@
+## [2.4.0]
+
+- update trapperkeeper-scheduler to 1.1.0 which adds support for interval based scheduling
+
 ## [2.3.6]
 
 - update trapperkeeper-scheduler to 1.0.1 to exclude c3p0 dependency
