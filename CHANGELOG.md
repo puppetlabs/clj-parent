@@ -1,3 +1,7 @@
+## [2.4.1]
+
+- update trapperkeeper-webserver-jetty9 to 2.3.1 which suppresses Jetty's default behavior of reporting it's version in the server headers.
+
 ## [2.4.0]
 
 - update trapperkeeper-scheduler to 1.1.0 which adds support for interval based scheduling
