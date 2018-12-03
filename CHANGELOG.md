@@ -1,6 +1,7 @@
 ## [2.4.1]
 
-- update trapperkeeper-webserver-jetty9 to 2.3.1 which suppresses Jetty's default behavior of reporting it's version in the server headers.
+- update trapperkeeper-webserver-jetty9 to 2.3.1 which suppresses Jetty's default behavior of reporting its version in the server headers.
+- update clj-rbac-client to 0.9.3, the first public release of the library
 
 ## [2.4.0]
 
