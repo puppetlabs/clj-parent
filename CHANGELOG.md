@@ -1,3 +1,7 @@
+## [1.7.17]
+
+- update trapperkeeper-webserver-jetty9 to 2.3.1 which suppresses Jetty's default behavior of reporting it's version in the server headers.
+
 ## [1.7.16]
 
 - update clj-rbac-client to 0.8.4 to increase the maximum number of simultaneous connections
