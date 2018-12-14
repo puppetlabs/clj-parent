@@ -1,3 +1,7 @@
+## [2.4.2]
+
+- update clj-rbac-client to 0.9.4 for wrap-cert-only-access authentication middleware.
+
 ## [2.4.1]
 
 - update trapperkeeper-webserver-jetty9 to 2.3.1 which suppresses Jetty's default behavior of reporting its version in the server headers.
