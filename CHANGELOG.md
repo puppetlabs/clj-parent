@@ -1,3 +1,7 @@
+## [2.5.0]
+
+- update dynapath to allow compilation on jdk8 but operation on later java versions.
+
 ## [2.4.2]
 
 - update clj-rbac-client to 0.9.4 for wrap-cert-only-access authentication middleware.

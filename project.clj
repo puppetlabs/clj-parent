@@ -7,7 +7,7 @@
 (def rbac-client-version "0.9.4")
 (def dropwizard-metrics-version "3.2.2")
 
-(defproject puppetlabs/clj-parent "2.4.3-SNAPSHOT"
+(defproject puppetlabs/clj-parent "2.5.0-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.
@@ -80,7 +80,7 @@
                          [beckon "0.1.1"]
                          [hiccup "1.0.5"]
                          [liberator "0.15.2"]
-                         [org.tcrawley/dynapath "0.2.4"]
+                         [org.tcrawley/dynapath "1.0.0"]
                          [trptcolin/versioneer "0.2.0"]
                          [io.dropwizard.metrics/metrics-core ~dropwizard-metrics-version]
                          [io.dropwizard.metrics/metrics-graphite ~dropwizard-metrics-version]
