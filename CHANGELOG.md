@@ -1,5 +1,6 @@
 ## [2.5.0]
 
+- update clojure to 1.10.0.
 - update dynapath to allow compilation on jdk8 but operation on later java versions.
 
 ## [2.4.2]
