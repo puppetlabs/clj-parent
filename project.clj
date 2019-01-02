@@ -22,7 +22,7 @@
                          [org.clojure/java.classpath "0.2.3"]
                          [org.clojure/java.jdbc "0.7.7"]
                          [org.clojure/java.jmx "0.3.4"]
-                         [org.clojure/core.async "0.4.474"]
+                         [org.clojure/core.async "0.4.490"]
                          [org.clojure/core.cache "0.7.1"]
                          [org.clojure/core.memoize "0.7.1"]
                          [org.clojure/tools.reader "1.2.1"]
