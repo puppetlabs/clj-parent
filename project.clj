@@ -1,4 +1,4 @@
-(def clj-version "1.9.0")
+(def clj-version "1.10.0")
 (def ks-version "2.5.2")
 (def tk-version "1.5.6")
 (def tk-jetty-version "2.3.1")
@@ -7,7 +7,7 @@
 (def rbac-client-version "0.9.4")
 (def dropwizard-metrics-version "3.2.2")
 
-(defproject puppetlabs/clj-parent "2.4.3-SNAPSHOT"
+(defproject puppetlabs/clj-parent "2.5.0-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.
@@ -22,7 +22,7 @@
                          [org.clojure/java.classpath "0.2.3"]
                          [org.clojure/java.jdbc "0.7.7"]
                          [org.clojure/java.jmx "0.3.4"]
-                         [org.clojure/core.async "0.4.474"]
+                         [org.clojure/core.async "0.4.490"]
                          [org.clojure/core.cache "0.7.1"]
                          [org.clojure/core.memoize "0.7.1"]
                          [org.clojure/tools.reader "1.2.1"]
@@ -80,7 +80,7 @@
                          [beckon "0.1.1"]
                          [hiccup "1.0.5"]
                          [liberator "0.15.2"]
-                         [org.tcrawley/dynapath "0.2.4"]
+                         [org.tcrawley/dynapath "1.0.0"]
                          [trptcolin/versioneer "0.2.0"]
                          [io.dropwizard.metrics/metrics-core ~dropwizard-metrics-version]
                          [io.dropwizard.metrics/metrics-graphite ~dropwizard-metrics-version]
