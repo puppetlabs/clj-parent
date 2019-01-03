@@ -2,6 +2,7 @@
 
 - update clojure to 1.10.0.
 - update dynapath to allow compilation on jdk8 but operation on later java versions.
+- update jackson-databind to 2.9.8, fixing several security vulnerabilities
 
 ## [2.4.2]
 
@@ -102,6 +103,22 @@ Breaking changes -- new version of clojure and changes to ring-mock.
 - move from ring-mock to the new namespaced ring/ring-mock version
 - update ring-defaults to the latest version
 - update postgresql to latest patch version
+
+## [1.7.19]
+
+- update jackson-databind to 2.9.8, fixing several security issues
+
+## [1.7.18]
+
+- update trapperkeeper-webserver-jetty9 to 2.3.1 which suppresses Jetty's default behavior of reporting its version in the server headers.
+
+## [1.7.17]
+
+- update trapperkeeper-webserver-jetty9 to 2.3.0, which fixes some security vulnerabilities
+
+## [1.7.16]
+
+- update clj-rbac-client to 0.8.4 to increase the maximum number of simultaneous connections
 
 ## [1.7.15]
 
