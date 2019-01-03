@@ -1,10 +1,14 @@
-## [1.7.18]
+## [1.7.19]
 
 - update jackson-databind to 2.9.8, fixing several security issues
 
+## [1.7.18]
+
+- update trapperkeeper-webserver-jetty9 to 2.3.1 which suppresses Jetty's default behavior of reporting its version in the server headers.
+
 ## [1.7.17]
 
-- update trapperkeeper-webserver-jetty9 to 2.3.1 which suppresses Jetty's default behavior of reporting it's version in the server headers.
+- update trapperkeeper-webserver-jetty9 to 2.3.0, which fixes some security vulnerabilities
 
 ## [1.7.16]
 
