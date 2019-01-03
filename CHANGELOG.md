@@ -2,6 +2,7 @@
 
 - update clojure to 1.10.0.
 - update dynapath to allow compilation on jdk8 but operation on later java versions.
+- update jackson-databind to 2.9.8, fixing several security vulnerabilities
 
 ## [2.4.2]
 
