@@ -38,7 +38,7 @@
                          [net.logstash.logback/logstash-logback-encoder "4.7"]
                          [org.codehaus.janino/janino "2.7.8"]
                          [com.fasterxml.jackson.core/jackson-core "2.9.4"]
-                         [com.fasterxml.jackson.core/jackson-databind "2.9.4"]
+                         [com.fasterxml.jackson.core/jackson-databind "2.9.8"]
                          [com.fasterxml.jackson.module/jackson-module-afterburner "2.9.4"]
                          [org.yaml/snakeyaml "1.18"]
 
