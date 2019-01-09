@@ -1,3 +1,7 @@
+## [2.5.1]
+
+ - downgrade dynapath from 1.0.0 to 0.2.5 (See SERVER-2421).
+
 ## [2.5.0]
 
 - update clojure to 1.10.0.
