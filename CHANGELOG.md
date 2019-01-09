@@ -1,6 +1,7 @@
-## [2.5.1]
+## [2.6.0]
 
- - downgrade dynapath from 1.0.0 to 0.2.5 (See SERVER-2421).
+- downgrade dynapath from 1.0.0 to 0.2.5 (See SERVER-2421).
+- update trapperkeeper-authorization to 1.0.0, which brings in the ability to specify rules based on RBAC permissions. NOTE: this is not a breaking update.
 
 ## [2.5.0]
 
