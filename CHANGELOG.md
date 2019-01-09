@@ -1,3 +1,7 @@
+## [1.7.20]
+
+- update trapperkeeper-authorization to 1.0.0, which brings in the ability to specify rules based on RBAC permissions. NOTE: this is not a breaking update.
+
 ## [1.7.19]
 
 - update jackson-databind to 2.9.8, fixing several security issues
