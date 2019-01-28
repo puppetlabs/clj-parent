@@ -1,3 +1,7 @@
+## [1.7.21]
+
+- Update jvm-ssl-utils to 1.0.2, which updates BouncyCastle, fixing a security issue
+
 ## [1.7.20]
 
 - update trapperkeeper-authorization to 1.0.0, which brings in the ability to specify rules based on RBAC permissions. NOTE: this is not a breaking update.
