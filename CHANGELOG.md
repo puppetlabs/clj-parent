@@ -1,3 +1,7 @@
+## [2.6.1]
+
+- Update jvm-ssl-utils to 1.0.2, which updates BouncyCastle, fixing a security issue
+
 ## [2.6.0]
 
 - downgrade dynapath from 1.0.0 to 0.2.5 (See SERVER-2421).
@@ -108,6 +112,10 @@ Breaking changes -- new version of clojure and changes to ring-mock.
 - move from ring-mock to the new namespaced ring/ring-mock version
 - update ring-defaults to the latest version
 - update postgresql to latest patch version
+
+## [1.7.21]
+
+- Update jvm-ssl-utils to 1.0.2, which updates BouncyCastle, fixing a security issue
 
 ## [1.7.20]
 
