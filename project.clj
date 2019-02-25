@@ -94,7 +94,7 @@
                          [prismatic/schema "1.1.9"]
 
                          [puppetlabs/http-client "1.0.0"]
-                         [puppetlabs/jdbc-util "1.2.3"]
+                         [puppetlabs/jdbc-util "1.2.4"]
                          [puppetlabs/typesafe-config "0.1.5"]
                          [puppetlabs/ssl-utils "1.0.2"]
                          [puppetlabs/clj-ldap "0.2.0"]
