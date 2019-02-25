@@ -1,3 +1,7 @@
+## [2.6.2]
+
+- Update jdbc-utils to 1.2.4, which includes methods for jsonb type PGObject transformations
+
 ## [2.6.1]
 
 - Update jvm-ssl-utils to 1.0.2, which updates BouncyCastle, fixing a security issue
