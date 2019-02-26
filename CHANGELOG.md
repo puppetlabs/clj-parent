@@ -1,3 +1,7 @@
+## [2.6.3]
+
+- update trapperkeeper-webserver-jetty9 to 2.4.0 which adds disconnect function for websockets
+
 ## [2.6.2]
 
 - Update jdbc-utils to 1.2.4, which includes methods for jsonb type PGObject transformations
