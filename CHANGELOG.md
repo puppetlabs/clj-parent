@@ -1,3 +1,7 @@
+## [2.6.4]
+
+- update trapperkeeper-webserver-jetty9 to 2.4.1 which only disconnects if the session is still open
+
 ## [2.6.3]
 
 - update trapperkeeper-webserver-jetty9 to 2.4.0 which adds disconnect function for websockets
