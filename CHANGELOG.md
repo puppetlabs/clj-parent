@@ -1,3 +1,7 @@
+## [1.7.22]
+
+- update trapperkeeper-webserver-jetty9 to 2.4.1 which includes a `disconnect` function for disconnecting websocket connections
+
 ## [1.7.21]
 
 - Update jvm-ssl-utils to 1.0.2, which updates BouncyCastle, fixing a security issue
