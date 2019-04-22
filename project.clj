@@ -119,6 +119,7 @@
                          [puppetlabs/cljs-dashboard-widgets "0.1.0"]
                          [puppetlabs/rbac-client ~rbac-client-version]
                          [puppetlabs/rbac-client ~rbac-client-version :classifier "test"]
+                         [puppetlabs/analytics-client "1.0.1"]
                          ]
 
   :dependencies [[org.clojure/clojure]]
