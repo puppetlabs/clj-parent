@@ -1,3 +1,8 @@
+## [1.7.24]
+
+- add nrepl/nrepl 0.6.0 to move to mainline development for nrepl
+- left org.clojure/tools.nrepl to maintain backwards compatibility
+
 ## [1.7.22]
 
 - update trapperkeeper-webserver-jetty9 to 2.4.1 which includes a `disconnect` function for disconnecting websocket connections

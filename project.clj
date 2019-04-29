@@ -58,6 +58,7 @@
 
                          [com.taoensso/nippy "2.10.0"]
 
+                         [nrepl/nrepl "0.6.0"]
                          [bidi "2.1.3"]
                          [clj-time "0.11.0"]
                          [circleci/clj-yaml "0.5.5"]
