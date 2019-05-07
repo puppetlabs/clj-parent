@@ -1,3 +1,8 @@
+## [2.6.6]
+
+- add nrepl/nrepl 0.6.0 to move to mainline development for nrepl
+- left org.clojure/tools.nrepl to maintain backwards compatibility
+
 ## [2.6.5]
 
 - add the analytics client to the managed dependencies
@@ -128,6 +133,10 @@ Breaking changes -- new version of clojure and changes to ring-mock.
 - move from ring-mock to the new namespaced ring/ring-mock version
 - update ring-defaults to the latest version
 - update postgresql to latest patch version
+
+## [1.7.22]
+
+- update trapperkeeper-webserver-jetty9 to 2.4.1 which includes a `disconnect` function for disconnecting websocket connections
 
 ## [1.7.21]
 

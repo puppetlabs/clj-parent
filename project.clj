@@ -1,6 +1,6 @@
 (def clj-version "1.10.0")
 (def ks-version "2.5.2")
-(def tk-version "1.5.6")
+(def tk-version "2.0.0")
 (def tk-jetty-version "2.4.1")
 (def tk-metrics-version "1.2.0")
 (def logback-version "1.2.3")
@@ -8,6 +8,7 @@
 (def dropwizard-metrics-version "3.2.2")
 
 (defproject puppetlabs/clj-parent "2.6.6-SNAPSHOT"
+
   ;; Abort when version ranges or version conflicts are detected in
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.
@@ -58,6 +59,7 @@
 
                          [com.taoensso/nippy "2.10.0"]
 
+                         [nrepl/nrepl "0.6.0"]
                          [bidi "2.1.3"]
                          [clj-time "0.11.0"]
                          [circleci/clj-yaml "0.5.5"]
