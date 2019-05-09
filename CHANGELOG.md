@@ -2,6 +2,7 @@
 
 - add nrepl/nrepl 0.6.0 to move to mainline development for nrepl
 - left org.clojure/tools.nrepl to maintain backwards compatibility
+- update to Trapperkeeper 2.0.0 to take advantage of nrepl/nrepl
 
 ## [2.6.5]
 
