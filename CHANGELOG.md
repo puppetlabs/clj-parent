@@ -1,3 +1,7 @@
+## [1.7.25]
+
+- update trapperkeeper to fix a bug with error handling
+
 ## [1.7.24]
 
 - add nrepl/nrepl 0.6.0 to move to mainline development for nrepl
