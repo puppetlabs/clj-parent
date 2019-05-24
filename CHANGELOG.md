@@ -1,6 +1,10 @@
-## [1.7.25]
+## [1.7.26]
 
 - update trapperkeeper to fix a bug with error handling
+
+## [1.7.25]
+
+- update trapperkeeper to 2.0.0, which makes use of the updated nrepl
 
 ## [1.7.24]
 
