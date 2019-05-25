@@ -1,3 +1,7 @@
+## [2.6.7]
+
+- update trapperkeeper to fix a bug with error handling
+
 ## [2.6.6]
 
 - add nrepl/nrepl 0.6.0 to move to mainline development for nrepl
@@ -134,6 +138,20 @@ Breaking changes -- new version of clojure and changes to ring-mock.
 - move from ring-mock to the new namespaced ring/ring-mock version
 - update ring-defaults to the latest version
 - update postgresql to latest patch version
+
+## [1.7.26]
+
+- update trapperkeeper to fix a bug with error handling
+
+## [1.7.25]
+
+- update trapperkeeper to 2.0.0, which makes use of the updated nrepl
+
+## [1.7.24]
+
+- add nrepl/nrepl 0.6.0 to move to mainline development for nrepl
+- left org.clojure/tools.nrepl to maintain backwards compatibility
+- update to Trapperkeeper 2.0.0 to take advantage of nrepl/nrepl
 
 ## [1.7.22]
 
