@@ -12,6 +12,7 @@
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.
   :pedantic? :abort
+  :packaging "pom"
 
   :managed-dependencies [[org.clojure/clojure ~clj-version]
                          [org.clojure/clojurescript "1.7.122"]
@@ -121,7 +122,9 @@
                          [puppetlabs/rbac-client ~rbac-client-version]
                          [puppetlabs/rbac-client ~rbac-client-version :classifier "test"]
                          [puppetlabs/analytics-client "1.0.1"]
-                         ]
+                         [org.bouncycastle/bcpkix-fips "1.0.3"]
+                         [org.bouncycastle/bc-fips "1.0.1"]
+                         [org.bouncycastle/bcpkix-jdk15on "1.60"]]
 
   :dependencies [[org.clojure/clojure]]
 
