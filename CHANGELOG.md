@@ -1,6 +1,8 @@
-## [2.6.7]
+## [2.7.0]
 
 - update trapperkeeper to fix a bug with error handling
+- use clojure 1.10.1
+- provide versions of bouncycastle with fips
 
 ## [2.6.6]
 
