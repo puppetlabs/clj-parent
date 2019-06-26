@@ -1,3 +1,9 @@
+## [3.0.0]
+
+Breaking changes - ssl-utils API change in `pem->ca-crl`
+
+- Update ssl-utils to 2.0.0 to allow unordered certificate bundle
+
 ## [2.7.0]
 
 - update trapperkeeper to fix a bug with error handling
