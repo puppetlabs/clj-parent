@@ -1,3 +1,7 @@
+## [3.1.0]
+
+- add clj-shell-utils extracted from puppetserver
+
 ## [3.0.0]
 
 Breaking changes - ssl-utils API change in `pem->ca-crl`
