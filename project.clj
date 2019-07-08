@@ -122,7 +122,7 @@
                          [puppetlabs/rbac-client ~rbac-client-version]
                          [puppetlabs/rbac-client ~rbac-client-version :classifier "test"]
                          [puppetlabs/analytics-client "1.0.1"]
-                         [puppetlabs/clj-shell-utils "1.0.0"]
+                         [puppetlabs/clj-shell-utils "1.0.2"]
                          [org.bouncycastle/bcpkix-fips "1.0.3"]
                          [org.bouncycastle/bc-fips "1.0.1"]
                          [org.bouncycastle/bcpkix-jdk15on "1.60"]]
