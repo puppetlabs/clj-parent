@@ -1,3 +1,7 @@
+## [3.1.1]
+
+- update clj-shell-utils to version built with openjdk8
+
 ## [3.1.0]
 
 - add clj-shell-utils extracted from puppetserver
