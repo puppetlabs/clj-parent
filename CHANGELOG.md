@@ -1,3 +1,7 @@
+## [1.7.27[
+
+- update clj-ldap to 0.2.1 to address an issue with base-64 encoded names
+
 ## [1.7.26]
 
 - update trapperkeeper to fix a bug with error handling
