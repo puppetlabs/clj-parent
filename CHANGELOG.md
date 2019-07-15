@@ -1,3 +1,7 @@
+## [1.7.27] (not present in 2.x, 3.x version until here)
+
+- update clj-ldap to 0.2.1 to address an issue with base-64 encoded names
+
 ## [3.1.1]
 
 - update clj-shell-utils to version built with openjdk8
