@@ -65,7 +65,7 @@
                          [circleci/clj-yaml "0.5.5"]
                          [clj-stacktrace "0.2.8"]
                          [com.zaxxer/HikariCP "2.7.4"]
-                         [me.raynes/fs "1.4.6"]
+                         [clj-commons/fs "1.5.1"]
                          [instaparse "1.4.1"]
                          [slingshot "0.12.2"]
                          [cheshire "5.8.0"]
