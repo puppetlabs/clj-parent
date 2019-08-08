@@ -1,3 +1,18 @@
+## [4.0.0]
+
+Potentially breaking changes for consumers listed below:
+
+- jvm-ssl-utils now supports FIPS bouncy castle, as a consequence it will
+  no longer bring in bouncycastle to consumers, they will have to specify
+  the bouncycastle they want (FIPS or FOSS) explicitly.
+- upgrade tk-jetty9 to use newer Jetty, changes default supported ciphers
+  and removes so-linger-seconds option.
+- replaced me.raynes/fs w/ maintained clj-commons/fs, all consumers will
+  need to update their dependencies.
+- replaced circleci/clj-yaml w/ maintained clj-commons/clj-yaml, all
+  consumers will need to update their dependencies.
+- update snakeyaml to 1.23, minor breaking changes to Java APIs.
+
 ## [1.7.27] (not present in 2.x, 3.x version until here)
 
 - update clj-ldap to 0.2.1 to address an issue with base-64 encoded names
