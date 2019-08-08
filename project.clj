@@ -62,7 +62,7 @@
                          [nrepl/nrepl "0.6.0"]
                          [bidi "2.1.3"]
                          [clj-time "0.11.0"]
-                         [circleci/clj-yaml "0.5.5"]
+                         [clj-commons/clj-yaml "0.7.0"]
                          [clj-stacktrace "0.2.8"]
                          [com.zaxxer/HikariCP "2.7.4"]
                          [clj-commons/fs "1.5.1"]
