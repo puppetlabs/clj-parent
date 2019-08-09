@@ -1,3 +1,7 @@
+## [4.0.1]
+
+- Update kitchensink to take advantage of clj-commons/fs
+
 ## [4.0.0]
 
 Potentially breaking changes for consumers listed below:
