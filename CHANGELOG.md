@@ -1,3 +1,9 @@
+## [4.0.2]
+
+- Update trapperkeeper to take advantage of new kitchensink, clj-commons/fs,
+  and clj-commons/clj-yaml.
+- Update clj-http-client to take advantage of FIPS enabled ssl-utils.
+
 ## [4.0.1]
 
 - Update kitchensink to take advantage of clj-commons/fs
