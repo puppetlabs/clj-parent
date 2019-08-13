@@ -1,3 +1,7 @@
+## [4.0.3]
+
+- Update tk-filesystem-watcher to take advantage of new clj-commons/fs.
+
 ## [4.0.2]
 
 - Update trapperkeeper to take advantage of new kitchensink, clj-commons/fs,
