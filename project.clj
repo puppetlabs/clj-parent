@@ -1,6 +1,6 @@
 (def clj-version "1.10.1")
 (def ks-version "3.0.0")
-(def tk-version "2.0.1")
+(def tk-version "3.0.0")
 (def tk-jetty-version "3.0.1")
 (def tk-metrics-version "1.2.0")
 (def logback-version "1.2.3")
@@ -95,7 +95,7 @@
                          [prismatic/plumbing "0.4.2"]
                          [prismatic/schema "1.1.9"]
 
-                         [puppetlabs/http-client "1.0.0"]
+                         [puppetlabs/http-client "1.1.1"]
                          [puppetlabs/jdbc-util "1.2.4"]
                          [puppetlabs/typesafe-config "0.1.5"]
                          [puppetlabs/ssl-utils "3.0.2"]
