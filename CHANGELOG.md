@@ -1,3 +1,7 @@
+## [4.0.4]
+
+- Update ssl-utils to allow loading private keys in pkcs8 format (see SERVER-2019).
+
 ## [4.0.3]
 
 - Update tk-filesystem-watcher to take advantage of new clj-commons/fs.
