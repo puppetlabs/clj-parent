@@ -1,7 +1,7 @@
 (def clj-version "1.10.1")
 (def ks-version "3.0.0")
 (def tk-version "3.0.0")
-(def tk-jetty-version "3.0.1")
+(def tk-jetty-version "3.0.2")
 (def tk-metrics-version "1.2.0")
 (def logback-version "1.2.3")
 (def rbac-client-version "0.9.4")
@@ -108,7 +108,7 @@
                          [puppetlabs/trapperkeeper-webserver-jetty9 ~tk-jetty-version :classifier "test"]
                          [puppetlabs/trapperkeeper-metrics ~tk-metrics-version]
                          [puppetlabs/trapperkeeper-metrics ~tk-metrics-version :classifier "test"]
-                         [puppetlabs/trapperkeeper-scheduler "1.1.0"]
+                         [puppetlabs/trapperkeeper-scheduler "1.1.1"]
                          [puppetlabs/trapperkeeper-authorization "1.0.0"]
                          [puppetlabs/trapperkeeper-status "1.1.0"]
                          [puppetlabs/trapperkeeper-filesystem-watcher "1.2.0"]

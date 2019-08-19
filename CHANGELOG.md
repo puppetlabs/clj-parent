@@ -1,3 +1,8 @@
+## [4.0.5]
+
+- Update tk-scheduler to create unique schedulers per service start
+- Update tk-jetty9 to suppress empty contextPath warnings
+
 ## [4.0.4]
 
 - Update ssl-utils to allow loading private keys in pkcs8 format (see SERVER-2019).
