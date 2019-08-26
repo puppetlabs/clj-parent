@@ -1,3 +1,7 @@
+## [4.1.0]
+
+- Add jruby-utils to managed dependencies
+
 ## [4.0.5]
 
 - Update tk-scheduler to create unique schedulers per service start
