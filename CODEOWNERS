@@ -1,6 +1,4 @@
 # This will cause the following groups to be assigned review
 # of any opened PRs against the branches containing this file.
 
-* @puppetlabs/puppetserver-maintainers
-* @puppetlabs/dumpling
-* @puppetlabs/skeletor
+* @puppetlabs/puppetserver-maintainers @puppetlabs/dumpling @puppetlabs/skeletor
