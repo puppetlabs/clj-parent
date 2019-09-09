@@ -2,6 +2,7 @@
 
 - (SERVER-2193) Update jruby-utils to 2.2.0, which adds an API for getting
   thread dumps of JRuby instances
+- Update tk-scheduler to work with Java 11
 
 ## [4.1.0]
 
