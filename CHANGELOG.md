@@ -1,3 +1,8 @@
+## [4.1.1]
+
+- (SERVER-2193) Update jruby-utils to 2.2.0, which adds an API for getting
+  thread dumps of JRuby instances
+
 ## [4.1.0]
 
 - Add jruby-utils to managed dependencies
