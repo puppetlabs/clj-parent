@@ -1,3 +1,8 @@
+## [4.2.0]
+
+- Update trapperkeeper-webserver-jetty9 to 4.0.0, which further restricts
+  the available cipher suites.
+
 ## [4.1.1]
 
 - (SERVER-2193) Update jruby-utils to 2.2.0, which adds an API for getting
