@@ -1,3 +1,9 @@
+## [4.2.1]
+## [2.7.1]
+## [1.7.28]
+
+- update jdbc-util to address issues with scheme-migration table being creaated on replicas
+
 ## [4.2.0]
 
 - Update trapperkeeper-webserver-jetty9 to 4.0.0, which further restricts
