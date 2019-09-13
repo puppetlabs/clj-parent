@@ -1,3 +1,4 @@
+## [2.7.1]
 ## [1.7.28]
 
 - update jdbc-util to address issues with scheme-migration table being creaated on replicas
