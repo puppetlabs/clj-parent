@@ -1,3 +1,23 @@
+## [4.2.4]
+
+- update clj-http-client to 1.1.2 to support running in fully restricted
+  FIPS mode.
+- update trapperkeeper-webserver-jetty9 to 4.0.1 to support running in fully
+  restricted FIPS mode. This will also install the SLF4JBridgeHandler at runtime, 
+  which will forward all java.util.logging calls to SLF4J automatically, meaning
+  they can be controlled via the logback configuration files (logback.xml, etc)
+
+## [4.2.3]
+
+- Adds jul-to-slf4j dependency definition for forwarding java.util.logging messages
+  to SLF4J. The bouncycastle FIPS provider logs exclusively through java.util.logging.
+- Adds httpasyncclient version, as opposed to specifying it directly in clj-http-client.
+
+## [4.2.2]
+
+- update bc-fips to version 1.0.2, which is certified for use with JDK 11.
+- adds bctls-fips to support TLS transactions via the bouncycastle provider.
+
 ## [4.2.1]
 ## [2.7.1]
 ## [1.7.28]
