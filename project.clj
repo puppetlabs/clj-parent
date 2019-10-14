@@ -126,6 +126,12 @@
                          [puppetlabs/analytics-client "1.0.1"]
                          [puppetlabs/clj-shell-utils "1.0.2"]
                          [puppetlabs/jruby-utils "2.2.0"]
+
+                         ;; When these versions change we need to also
+                         ;; promote the changes into the PE packaging repo
+                         ;; for BC (ie, clj-parent manages these versions for
+                         ;; dev and FOSS, PE is managed via packages):
+                         ;; https://github.com/puppetlabs/bouncy-castle-vanagon
                          [org.bouncycastle/bcpkix-fips "1.0.3"]
                          [org.bouncycastle/bc-fips "1.0.2"]
                          [org.bouncycastle/bctls-fips "1.0.9"]
