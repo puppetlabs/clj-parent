@@ -1,3 +1,7 @@
+## [4.2.5]
+
+- updates dujour-version-check and analytics-client for FIPS & Java 11 support
+
 ## [4.2.4]
 
 - update clj-http-client to 1.1.2 to support running in fully restricted
