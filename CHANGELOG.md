@@ -1,3 +1,7 @@
+## [4.2.7]
+
+- Update trapperkeeper-webserver-jetty9 to 4.0.2 for logging fixups & FIPS cipher-suite updates.
+
 ## [4.2.6]
 
 - updates tk-filesystem-watcher to 1.2.1, which has better error handling
