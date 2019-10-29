@@ -1,3 +1,7 @@
+## [1.7.29]
+
+- update jackson-xml to 2.10 (see PE-27458)
+
 ## [1.7.28]
 
 - update jdbc-util to address issues with scheme-migration table being creaated on replicas
