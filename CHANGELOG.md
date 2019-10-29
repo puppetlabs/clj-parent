@@ -1,6 +1,10 @@
-## [2.7.1]
+## [2.7.2]
 
 - update jackson-xml to 2.10 (see PE-27458)
+
+## [2.7.1]
+
+- merge up changes to jdbc-util and clj-ldap from 1.7.x
 
 ## [2.7.0]
 
