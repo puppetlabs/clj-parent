@@ -1,3 +1,7 @@
+## [4.2.6]
+
+- updates tk-filesystem-watcher to 1.2.1, which has better error handling
+
 ## [4.2.5]
 
 - updates dujour-version-check and analytics-client for FIPS & Java 11 support
