@@ -1,7 +1,7 @@
 (def clj-version "1.10.1")
 (def ks-version "3.0.0")
 (def tk-version "3.0.0")
-(def tk-jetty-version "4.0.1")
+(def tk-jetty-version "4.0.2")
 (def tk-metrics-version "1.2.0")
 (def logback-version "1.2.3")
 (def rbac-client-version "0.9.4")
@@ -39,9 +39,9 @@
                          [ch.qos.logback/logback-access ~logback-version]
                          [net.logstash.logback/logstash-logback-encoder "5.0"]
                          [org.codehaus.janino/janino "3.0.8"]
-                         [com.fasterxml.jackson.core/jackson-core "2.9.4"]
-                         [com.fasterxml.jackson.core/jackson-databind "2.9.8"]
-                         [com.fasterxml.jackson.module/jackson-module-afterburner "2.9.4"]
+                         [com.fasterxml.jackson.core/jackson-core "2.10.0"]
+                         [com.fasterxml.jackson.core/jackson-databind "2.10.0"]
+                         [com.fasterxml.jackson.module/jackson-module-afterburner "2.10.0"]
                          [org.yaml/snakeyaml "1.23"]
 
                          [org.apache.maven.wagon/wagon-provider-api "2.10"]
