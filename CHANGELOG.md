@@ -1,10 +1,9 @@
-## [4.2.7]
-
-- Update trapperkeeper-webserver-jetty9 to 4.0.2 for logging fixups & FIPS cipher-suite updates.
-
 ## [4.2.6]
 
 - updates tk-filesystem-watcher to 1.2.1, which has better error handling
+- updates jackson-xml to 2.10 (see PE-27458)
+- updates trapperkeeper-webserver-jetty9 to 4.0.2 for logging fixups &
+  FIPS cipher-suite changes
 
 ## [4.2.5]
 
@@ -31,10 +30,9 @@
 - adds bctls-fips to support TLS transactions via the bouncycastle provider.
 
 ## [4.2.1]
-## [2.7.1]
-## [1.7.28]
 
-- update jdbc-util to address issues with scheme-migration table being creaated on replicas
+- update jdbc-util to address issues with scheme-migration table
+  being creaated on replicas (merge up from 1.7.28 & 2.7.1)
 
 ## [4.2.0]
 
@@ -89,10 +87,6 @@ Potentially breaking changes for consumers listed below:
   consumers will need to update their dependencies.
 - update snakeyaml to 1.23, minor breaking changes to Java APIs.
 
-## [1.7.27] (not present in 2.x, 3.x version until here)
-
-- update clj-ldap to 0.2.1 to address an issue with base-64 encoded names
-
 ## [3.1.1]
 
 - update clj-shell-utils to version built with openjdk8
@@ -106,6 +100,14 @@ Potentially breaking changes for consumers listed below:
 Breaking changes - ssl-utils API change in `pem->ca-crl`
 
 - Update ssl-utils to 2.0.0 to allow unordered certificate bundle
+
+## [2.7.2]
+
+- update jackson-xml to 2.10 (see PE-27458)
+
+## [2.7.1]
+
+- merge up changes to jdbc-util and clj-ldap from 1.7.x
 
 ## [2.7.0]
 
@@ -249,6 +251,18 @@ Breaking changes -- new version of clojure and changes to ring-mock.
 - move from ring-mock to the new namespaced ring/ring-mock version
 - update ring-defaults to the latest version
 - update postgresql to latest patch version
+
+## [1.7.29]
+
+- update jackson-xml to 2.10 (see PE-27458)
+
+## [1.7.28]
+
+- update jdbc-util to address issues with scheme-migration table being creaated on replicas
+
+## [1.7.27]
+
+- update clj-ldap to 0.2.1 to address an issue with base-64 encoded names
 
 ## [1.7.26]
 
