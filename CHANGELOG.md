@@ -1,3 +1,7 @@
+## [2.7.3]
+
+- update tk-filesystem-watcher to 1.1.1, which has improved error handling
+
 ## [2.7.2]
 
 - update jackson-xml to 2.10 (see PE-27458)
@@ -148,6 +152,10 @@ Breaking changes -- new version of clojure and changes to ring-mock.
 - move from ring-mock to the new namespaced ring/ring-mock version
 - update ring-defaults to the latest version
 - update postgresql to latest patch version
+
+## [1.7.30]
+
+- update tk-filesystem-watcher to 1.1.1, which has improved error handling
 
 ## [1.7.29]
 
