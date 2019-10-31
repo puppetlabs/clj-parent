@@ -1,3 +1,7 @@
+## [1.7.30]
+
+- update tk-filesystem-watcher to 1.1.1, which has improved error handling
+
 ## [1.7.29]
 
 - update jackson-xml to 2.10 (see PE-27458)
