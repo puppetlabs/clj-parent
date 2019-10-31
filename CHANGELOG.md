@@ -12,6 +12,18 @@ Breaking changes - ssl-utils API change in `pem->ca-crl`
 
 - Update ssl-utils to 2.0.0 to allow unordered certificate bundle
 
+## [2.7.3]
+
+- update tk-filesystem-watcher to 1.1.1, which has improved error handling
+
+## [2.7.2]
+
+- update jackson-xml to 2.10 (see PE-27458)
+
+## [2.7.1]
+
+- merge up changes to jdbc-util and clj-ldap from 1.7.x
+
 ## [2.7.0]
 
 - update trapperkeeper to fix a bug with error handling
@@ -154,6 +166,22 @@ Breaking changes -- new version of clojure and changes to ring-mock.
 - move from ring-mock to the new namespaced ring/ring-mock version
 - update ring-defaults to the latest version
 - update postgresql to latest patch version
+
+## [1.7.30]
+
+- update tk-filesystem-watcher to 1.1.1, which has improved error handling
+
+## [1.7.29]
+
+- update jackson-xml to 2.10 (see PE-27458)
+
+## [1.7.28]
+
+- update jdbc-util to address issues with scheme-migration table being creaated on replicas
+
+## [1.7.27]
+
+- update clj-ldap to 0.2.1 to address an issue with base-64 encoded names
 
 ## [1.7.26]
 
