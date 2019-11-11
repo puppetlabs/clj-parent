@@ -1,3 +1,7 @@
+## [4.2.7]
+
+- update jruby-utils to 2.3.1 to support usage of the multithreaded key for JRubyConfig
+
 ## [4.2.6]
 
 - updates tk-filesystem-watcher to 1.2.1, which has better error handling
