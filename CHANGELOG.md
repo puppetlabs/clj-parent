@@ -1,3 +1,16 @@
+## [4.2.10]
+
+- update com.taoensso/nippy to 2.14.0 in order to address some clojure warnings
+- update com.taoensso/encore to 2.115.0 
+
+## [4.2.9]
+
+- update org.postgresql/postgresql to 42.2.8 to address a connection closure issue
+
+## [4.2.8]
+
+- update jruby-utils to 2.3.2 to downgrade JRuby to 9.2.8.0 to avoid a bug in 9.2.9.0.
+
 ## [4.2.7]
 
 - update jruby-utils to 2.3.1 to support usage of the multithreaded key for JRubyConfig
