@@ -1,7 +1,9 @@
+## [Unreleased]
+
 ## [4.2.10]
 
 - update com.taoensso/nippy to 2.14.0 in order to address some clojure warnings
-- update com.taoensso/encore to 2.115.0 
+- update com.taoensso/encore to 2.115.0
 
 ## [4.2.9]
 
