@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+- update org.postgresql/postgresql to 42.2.8 to address a connection closure issue
+
 ## [3.1.1]
 
 - update clj-shell-utils to version built with openjdk8
