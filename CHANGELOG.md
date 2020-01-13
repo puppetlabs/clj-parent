@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [4.2.11]
+
+- update http-client to 1.1.3 to remove ambiguity around RequestObject construction under java 11
+
 ## [4.2.10]
 
 - update com.taoensso/nippy to 2.14.0 in order to address some clojure warnings
