@@ -7,7 +7,7 @@
 (def rbac-client-version "0.9.4")
 (def dropwizard-metrics-version "3.2.2")
 
-(defproject puppetlabs/clj-parent "4.2.12-SNAPSHOT"
+(defproject puppetlabs/clj-parent "4.3.0-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.
@@ -126,7 +126,7 @@
                          [puppetlabs/rbac-client ~rbac-client-version :classifier "test"]
                          [puppetlabs/analytics-client "1.0.2"]
                          [puppetlabs/clj-shell-utils "1.0.2"]
-                         [puppetlabs/jruby-utils "2.3.2"]
+                         [puppetlabs/jruby-utils "3.0.4"]
 
                          ;; When these versions change we need to also
                          ;; promote the changes into the PE packaging repo

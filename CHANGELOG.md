@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [4.3.0]
+- update jruby-utils to 3.0.4 to include the new single-instance jruby pool in support of thread-safe puppet.
+
 ## [4.2.11]
 
 - update http-client to 1.1.3 to remove ambiguity around RequestObject construction under java 11
