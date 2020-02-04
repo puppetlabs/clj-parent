@@ -114,7 +114,7 @@
                          [puppetlabs/trapperkeeper-scheduler "1.1.2"]
                          [puppetlabs/trapperkeeper-authorization "1.0.0"]
                          [puppetlabs/trapperkeeper-status "1.1.0"]
-                         [puppetlabs/trapperkeeper-filesystem-watcher "1.2.1"]
+                         [puppetlabs/trapperkeeper-filesystem-watcher "1.2.2"]
                          [puppetlabs/structured-logging "0.2.0"]
                          [puppetlabs/ring-middleware "1.0.1"]
                          [puppetlabs/dujour-version-check "0.2.3"]

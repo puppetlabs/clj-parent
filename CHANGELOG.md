@@ -1,6 +1,11 @@
 ## [Unreleased]
 
+## [4.3.1]
+
+- update tk-filesystem-watcher to ignore lock directories that disappear when registering.
+
 ## [4.3.0]
+
 - update jruby-utils to 3.0.4 to include the new single-instance jruby pool in support of thread-safe puppet.
 
 ## [4.2.11]
@@ -113,6 +118,11 @@ Potentially breaking changes for consumers listed below:
   consumers will need to update their dependencies.
 - update snakeyaml to 1.23, minor breaking changes to Java APIs.
 
+## [3.1.2]
+
+- update tk-filesystem-watcher to ignore lock directories that disappear when registering.
+- update org.postgresql/postgresql to 42.2.8 to address a connection closure issue
+
 ## [3.1.1]
 
 - update clj-shell-utils to version built with openjdk8
@@ -126,6 +136,9 @@ Potentially breaking changes for consumers listed below:
 Breaking changes - ssl-utils API change in `pem->ca-crl`
 
 - Update ssl-utils to 2.0.0 to allow unordered certificate bundle
+
+## [2.7.4]
+- update tk-filesystem-watcher to ignore lock directories that disappear when registering.
 
 ## [2.7.3]
 
@@ -281,6 +294,9 @@ Breaking changes -- new version of clojure and changes to ring-mock.
 - move from ring-mock to the new namespaced ring/ring-mock version
 - update ring-defaults to the latest version
 - update postgresql to latest patch version
+
+## [1.7.31]
+- update tk-filesystem-watcher to ignore lock directories that disappear when registering.
 
 ## [1.7.30]
 
