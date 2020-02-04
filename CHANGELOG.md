@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [1.7.31]
+- update tk-filesystem-watcher to ignore lock directories that disappear when registering.
+
 ## [1.7.30]
 
 - update tk-filesystem-watcher to 1.1.1, which has improved error handling
