@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [2.7.4]
+- update tk-filesystem-watcher to ignore lock directories that disappear when registering.
+
 ## [2.7.3]
 
 - update tk-filesystem-watcher to 1.1.1, which has improved error handling
@@ -154,6 +157,9 @@ Breaking changes -- new version of clojure and changes to ring-mock.
 - move from ring-mock to the new namespaced ring/ring-mock version
 - update ring-defaults to the latest version
 - update postgresql to latest patch version
+
+## [1.7.31]
+- update tk-filesystem-watcher to ignore lock directories that disappear when registering.
 
 ## [1.7.30]
 
