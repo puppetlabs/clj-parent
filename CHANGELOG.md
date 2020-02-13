@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [4.3.2]
+
+- update tk-jetty9 to fix a type inference ambiguity in Java 11
+
 ## [4.3.1]
 
 - update tk-filesystem-watcher to ignore lock directories that disappear when registering.
