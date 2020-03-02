@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [4.3.3]
+
+- update trapperkeeper-metrics to 1.2.1, fixes CVE-2020-7943
+
 ## [4.3.2]
 
 - update tk-jetty9 to fix a type inference ambiguity in Java 11
@@ -298,6 +302,10 @@ Breaking changes -- new version of clojure and changes to ring-mock.
 - move from ring-mock to the new namespaced ring/ring-mock version
 - update ring-defaults to the latest version
 - update postgresql to latest patch version
+
+## [1.7.32]
+
+- update trapperkeeper-metrics to 1.2.1, fixes CVE-2020-7943
 
 ## [1.7.31]
 - update tk-filesystem-watcher to ignore lock directories that disappear when registering.
