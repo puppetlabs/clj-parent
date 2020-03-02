@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [1.7.32]
+
+- update trapperkeeper-metrics to 1.2.1, fixes CVE-2020-7943
+
 ## [1.7.31]
 - update tk-filesystem-watcher to ignore lock directories that disappear when registering.
 
