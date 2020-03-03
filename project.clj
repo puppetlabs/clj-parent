@@ -2,7 +2,7 @@
 (def ks-version "2.5.2")
 (def tk-version "2.0.1")
 (def tk-jetty-version "2.4.1")
-(def tk-metrics-version "1.2.0")
+(def tk-metrics-version "1.2.1")
 (def logback-version "1.1.9")
 (def rbac-client-version "0.9.4")
 (def dropwizard-metrics-version "3.2.2")

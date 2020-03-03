@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [1.7.32]
+- update tk-metrics to 1.2.1
+
 ## [1.7.31]
 - update tk-filesystem-watcher to ignore lock directories that disappear when registering.
 
