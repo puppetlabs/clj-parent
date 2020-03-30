@@ -3,6 +3,7 @@
 ## [4.4.0]
 
 - update jruby-utils to 3.1.1, which updates JRuby to 9.2.11.1. See commit history for details about the impact of this update on gem installs and docs.
+- update trapperkeeper to 3.1.0, which contains support for custom exit statuses
 
 ## [4.3.3]
 

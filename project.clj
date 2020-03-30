@@ -1,6 +1,6 @@
 (def clj-version "1.10.1")
 (def ks-version "3.0.0")
-(def tk-version "3.0.0")
+(def tk-version "3.1.0")
 (def tk-jetty-version "4.0.3")
 (def tk-metrics-version "1.2.1")
 (def logback-version "1.2.3")
