@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [4.4.0]
+
+- update jruby-utils to 3.1.1, which updates JRuby to 9.2.11.1. See commit history for details about the impact of this update on gem installs and docs.
+
 ## [4.3.3]
 
 - update trapperkeeper-metrics to 1.2.1, fixes CVE-2020-7943
