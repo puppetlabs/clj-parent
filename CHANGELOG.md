@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [1.7.34]
+
+- update tk-metrics to 1.2.2, which is available on clojars. tk-metrics 1.2.1 was an internal-only release
+
 ## [1.7.32]
 
 - update tk-metrics to 1.2.1
