@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [4.4.1]
+
+- update tk-metrics to 1.2.2, which is available on clojars. tk-metrics 1.2.1 was an internal-only release
+
 ## [4.4.0]
 
 - update jruby-utils to 3.1.1, which updates JRuby to 9.2.11.1. See commit history for details about the impact of this update on gem installs and docs.
