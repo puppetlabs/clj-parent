@@ -2,7 +2,7 @@
 (def ks-version "3.0.0")
 (def tk-version "3.1.0")
 (def tk-jetty-version "4.0.3")
-(def tk-metrics-version "1.2.1")
+(def tk-metrics-version "1.2.2")
 (def logback-version "1.2.3")
 (def rbac-client-version "0.9.4")
 (def dropwizard-metrics-version "3.2.2")
@@ -140,8 +140,8 @@
 
   :dependencies [[org.clojure/clojure]]
 
-  :deploy-repositories [["releases" {:url "https://artifactory.delivery.puppetlabs.net/artifactory/clojure-releases__local/"
-                                     :username :env/nexus_jenkins_username
-                                     :password :env/nexus_jenkins_password
+  :deploy-repositories [["releases" {:url "https://clojars.org/repo"
+                                     :username :env/clojars_jenkins_username
+                                     :password :env/clojars_jenkins_password
                                      :sign-releases false}]
                         ["snapshots" "https://artifactory.delivery.puppetlabs.net/artifactory/list/clojure-snapshots__local/"]])
