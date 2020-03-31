@@ -123,8 +123,8 @@
 
   :dependencies [[org.clojure/clojure]]
 
-  :deploy-repositories [["releases" {:url "https://artifactory.delivery.puppetlabs.net/artifactory/clojure-releases__local/"
-                                     :username :env/nexus_jenkins_username
-                                     :password :env/nexus_jenkins_password
+  :deploy-repositories [["releases" {:url "https://clojars.org/repo"
+                                     :username :env/clojars_jenkins_username
+                                     :password :env/clojars_jenkins_password
                                      :sign-releases false}]
                         ["snapshots" "http://nexus.delivery.puppetlabs.net/content/repositories/snapshots/"]])
