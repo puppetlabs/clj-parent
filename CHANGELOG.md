@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [4.4.2]
+
+- update kitchensink to 3.1.0, which contains a function for doing atomic file writes
+
 ## [4.4.1]
 
 - update tk-metrics to 1.2.2, which is available on clojars. tk-metrics 1.2.1 was an internal-only release
