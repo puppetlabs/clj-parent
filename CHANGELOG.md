@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [4.4.3]
+
+- update clj-ldap to 0.3.0, which allows passing an array of trust-managers in the connection options
+
 ## [4.4.2]
 
 - update kitchensink to 3.1.0, which contains a function for doing atomic file writes
@@ -66,7 +70,7 @@
 - update clj-http-client to 1.1.2 to support running in fully restricted
   FIPS mode.
 - update trapperkeeper-webserver-jetty9 to 4.0.1 to support running in fully
-  restricted FIPS mode. This will also install the SLF4JBridgeHandler at runtime, 
+  restricted FIPS mode. This will also install the SLF4JBridgeHandler at runtime,
   which will forward all java.util.logging calls to SLF4J automatically, meaning
   they can be controlled via the logback configuration files (logback.xml, etc)
 
