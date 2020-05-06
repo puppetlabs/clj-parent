@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [4.4.4]
+
+- update jruby-utils to 3.1.2, which downgrades JRuby to 9.2.8.0 to avoid a potential bug in 9.2.11.1
+
 ## [4.4.3]
 
 - update clj-ldap to 0.3.0, which allows passing an array of trust-managers in the connection options
