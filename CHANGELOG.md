@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [4.4.5]
+
+- update jruby-utils to 3.1.3, which reverts the JRuby downgrade and brings back 9.2.11.1
+
 ## [4.4.4]
 
 - update jruby-utils to 3.1.2, which downgrades JRuby to 9.2.8.0 to avoid a potential bug in 9.2.11.1
