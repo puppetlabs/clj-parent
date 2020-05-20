@@ -1,5 +1,11 @@
 ## [Unreleased]
 
+## [4.5.0]
+
+- update trapperkeeper-webserver-jetty9 to 4.1.0, which bumps jetty to 9.4.28 to
+  ensure we are on the latest supported version.
+- update trapperkeeper-metrics to 1.2.3, which deprecates the v1 metrics endpoint.
+
 ## [4.4.5]
 
 - update jruby-utils to 3.1.3, which reverts the JRuby downgrade and brings back 9.2.11.1
