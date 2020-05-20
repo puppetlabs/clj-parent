@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [1.7.35]
+
+- update tk-metrics to 1.2.3, which deprecates the v1 metrics endpoint.
+
 ## [1.7.34]
 
 - update tk-metrics to 1.2.2, which is available on clojars. tk-metrics 1.2.1 was an internal-only release
