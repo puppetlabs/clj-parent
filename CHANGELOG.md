@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+## [4.5.0]
+
 - update trapperkeeper-webserver-jetty9 to 4.1.0, which bumps jetty to 9.4.28 to
   ensure we are on the latest supported version.
 
