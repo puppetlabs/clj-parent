@@ -120,13 +120,13 @@
                          [puppetlabs/dujour-version-check "0.2.3"]
                          [puppetlabs/comidi "0.3.2"]
                          [puppetlabs/trapperkeeper-comidi-metrics "0.1.1"]
-                         [puppetlabs/i18n "0.9.0"]
+                         [puppetlabs/i18n "0.8.0"]
                          [puppetlabs/cljs-dashboard-widgets "0.1.0"]
                          [puppetlabs/rbac-client ~rbac-client-version]
                          [puppetlabs/rbac-client ~rbac-client-version :classifier "test"]
                          [puppetlabs/analytics-client "1.0.2"]
                          [puppetlabs/clj-shell-utils "1.0.2"]
-                         [puppetlabs/jruby-utils "3.1.3"]
+                         [puppetlabs/jruby-utils "3.1.4"]
 
                          ;; When these versions change we need to also
                          ;; promote the changes into the PE packaging repo
