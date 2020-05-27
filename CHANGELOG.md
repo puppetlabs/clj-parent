@@ -1,5 +1,15 @@
 ## [Unreleased]
 
+## [4.5.2]
+
+- update jruby-utils to 3.1.4 which disables invokedynamic.yield
+- revert i18n to 0.8.0 as it appeared to be causing problems with
+  reloading trapperkeeper
+
+## [4.5.1]
+
+- update i18n to 0.9.0, which removes the plugin hook.
+
 ## [4.5.0]
 
 - update trapperkeeper-webserver-jetty9 to 4.1.0, which bumps jetty to 9.4.28 to
