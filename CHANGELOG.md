@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+- update postgres jdbc driver to 4.2.14, which has security fixes
+
 ## [4.5.2]
 
 - update jruby-utils to 3.1.4 which disables invokedynamic.yield
