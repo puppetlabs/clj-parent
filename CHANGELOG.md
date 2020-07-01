@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+- update postgres jdbc driver to 4.2.14, which has security fixes
+
 ## [1.7.35]
 
 - update tk-metrics to 1.2.3, which deprecates the v1 metrics endpoint.
