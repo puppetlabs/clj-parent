@@ -88,7 +88,7 @@
                          [metrics-clojure "2.6.1"]
                          [org.ow2.asm/asm-all "5.0.3"]
                          [honeysql "0.6.3"]
-                         [org.postgresql/postgresql "42.2.0"]
+                         [org.postgresql/postgresql "42.2.14"]
 
                          [prismatic/plumbing "0.4.2"]
                          [prismatic/schema "1.1.1"]
