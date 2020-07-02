@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+## [4.5.3]
+
 - update postgres jdbc driver to 4.2.14, which has security fixes
 
 ## [4.5.2]
