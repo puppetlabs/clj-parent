@@ -1,5 +1,10 @@
 ## [Unreleased]
 
+## [4.5.5]
+
+- update ring-middleware to 1.1.0, which adds
+  new wrappers for use in console-ui.
+
 ## [4.5.4]
 
 - update trapperkeeper-metrics to 1.3.1, which adds tk-authorization
