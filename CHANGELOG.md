@@ -1,5 +1,10 @@
 ## [Unreleased]
 
+## [4.5.4]
+
+- update trapperkeeper-metrics to 1.3.1, which adds tk-authorization
+  support
+
 ## [4.5.3]
 
 - update postgres jdbc driver to 4.2.14, which has security fixes
