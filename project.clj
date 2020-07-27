@@ -135,7 +135,7 @@
                          ;; https://github.com/puppetlabs/bouncy-castle-vanagon
                          [org.bouncycastle/bcpkix-fips "1.0.3"]
                          [org.bouncycastle/bc-fips "1.0.2"]
-                         [org.bouncycastle/bctls-fips "1.0.9"]
+                         [org.bouncycastle/bctls-fips "1.0.10"]
                          [org.bouncycastle/bcpkix-jdk15on "1.60"]]
 
   :dependencies [[org.clojure/clojure]]

@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+- update bctls-fips to 1.0.10
+
 ## [4.5.5]
 
 - update ring-middleware to 1.1.0, which adds
