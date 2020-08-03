@@ -101,7 +101,7 @@
                          [puppetlabs/http-client "1.1.3"]
                          [puppetlabs/jdbc-util "1.2.5"]
                          [puppetlabs/typesafe-config "0.1.5"]
-                         [puppetlabs/ssl-utils "3.0.4"]
+                         [puppetlabs/ssl-utils "3.0.5"]
                          [puppetlabs/clj-ldap "0.3.0"]
                          [puppetlabs/kitchensink ~ks-version]
                          [puppetlabs/kitchensink ~ks-version :classifier "test"]
@@ -136,7 +136,7 @@
                          [org.bouncycastle/bcpkix-fips "1.0.3"]
                          [org.bouncycastle/bc-fips "1.0.2"]
                          [org.bouncycastle/bctls-fips "1.0.10"]
-                         [org.bouncycastle/bcpkix-jdk15on "1.60"]]
+                         [org.bouncycastle/bcpkix-jdk15on "1.66"]]
 
   :dependencies [[org.clojure/clojure]]
 
