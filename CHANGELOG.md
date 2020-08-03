@@ -1,7 +1,10 @@
 ## [Unreleased]
 
+## [4.6.0]
+
 - update bctls-fips to 1.0.10
-- update jvm-ssl-utils to 3.0.5, fixing a bug with BC 1.65
+- update non-FIPS Bouncy Castle to 1.66
+- update jvm-ssl-utils to 3.0.5, fixing a bug introduced in BC 1.64
 
 ## [4.5.5]
 
