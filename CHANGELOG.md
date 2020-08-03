@@ -5,6 +5,8 @@
 - update bctls-fips to 1.0.10
 - update non-FIPS Bouncy Castle to 1.66
 - update jvm-ssl-utils to 3.0.5, fixing a bug introduced in BC 1.64
+- update ring-middleware to 1.2.0, which includes `wrap-params`,
+  which used to live in the puppetserver repo.
 
 ## [4.5.5]
 
