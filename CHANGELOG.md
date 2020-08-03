@@ -1,6 +1,7 @@
 ## [Unreleased]
 
 - update bctls-fips to 1.0.10
+- update jvm-ssl-utils to 3.0.5, fixing a bug with BC 1.65
 
 ## [4.5.5]
 
