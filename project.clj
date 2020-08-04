@@ -7,7 +7,7 @@
 (def rbac-client-version "0.9.4")
 (def dropwizard-metrics-version "3.2.2")
 
-(defproject puppetlabs/clj-parent "4.5.6-SNAPSHOT"
+(defproject puppetlabs/clj-parent "4.6.0-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.
@@ -116,7 +116,7 @@
                          [puppetlabs/trapperkeeper-status "1.1.0"]
                          [puppetlabs/trapperkeeper-filesystem-watcher "1.2.2"]
                          [puppetlabs/structured-logging "0.2.0"]
-                         [puppetlabs/ring-middleware "1.1.0"]
+                         [puppetlabs/ring-middleware "1.2.0"]
                          [puppetlabs/dujour-version-check "0.2.3"]
                          [puppetlabs/comidi "0.3.2"]
                          [puppetlabs/trapperkeeper-comidi-metrics "0.1.1"]
