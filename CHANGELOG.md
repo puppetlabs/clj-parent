@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [4.6.1]
+- update clj-rbac-client to 1.0.0 to add support for the activity service v2 submission endpoint
+
 ## [4.6.0]
 
 - update bctls-fips to 1.0.10
