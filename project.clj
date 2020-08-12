@@ -96,7 +96,7 @@
                          [medley "1.0.0"]
 
                          [prismatic/plumbing "0.4.2"]
-                         [prismatic/schema "1.1.9"]
+                         [prismatic/schema "1.1.12"]
 
                          [puppetlabs/http-client "1.1.3"]
                          [puppetlabs/jdbc-util "1.2.5"]
