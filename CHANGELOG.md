@@ -1,4 +1,5 @@
 ## [Unreleased]
+- update prismatic-schema to 1.1.12, which has a few bug fixes
 
 ## [4.6.1]
 - update clj-rbac-client to 1.0.0 to add support for the activity service v2 submission endpoint
