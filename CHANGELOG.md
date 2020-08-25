@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [1.7.37]
+
+- update jvm-ssl-utils to 1.1.0, which adds a method for revoking multiple certs
+
 ## [1.7.36]
 
 - update postgres jdbc driver to 4.2.14, which has security fixes
