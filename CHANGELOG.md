@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [4.6.3]
+
+- update jvm-ssl-utils to 3.1.0, which contains a function to revoke multiple certs at once
+
 ## [4.6.2]
 
 - update prismatic-schema to 1.1.12, which has a few bug fixes
