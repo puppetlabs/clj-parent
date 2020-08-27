@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [1.7.38]
+
+- update clj-kitchensink to 2.6.0, which adds an function to atomically write files
+
 ## [1.7.37]
 
 - update jvm-ssl-utils to 1.1.0, which adds a method for revoking multiple certs
