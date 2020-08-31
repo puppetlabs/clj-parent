@@ -1,4 +1,5 @@
 ## [Unreleased]
+- update tk-status to 1.1.1 which includes additional java memory info
 
 ## [1.7.38]
 
