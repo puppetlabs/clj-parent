@@ -108,7 +108,7 @@
                          [puppetlabs/trapperkeeper-metrics ~tk-metrics-version :classifier "test"]
                          [puppetlabs/trapperkeeper-authorization "1.0.0"]
                          [puppetlabs/trapperkeeper-scheduler "0.1.0"]
-                         [puppetlabs/trapperkeeper-status "1.1.0"]
+                         [puppetlabs/trapperkeeper-status "1.1.1"]
                          [puppetlabs/trapperkeeper-filesystem-watcher "1.1.2"]
                          [puppetlabs/structured-logging "0.2.0"]
                          [puppetlabs/ring-middleware "1.0.1"]
