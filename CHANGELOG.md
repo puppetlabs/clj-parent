@@ -1,4 +1,5 @@
 ## [Unreleased]
+- update tk-status to 1.1.1 which includes additional java memory info
 
 ## [4.6.3]
 
@@ -378,6 +379,22 @@ Breaking changes -- new version of clojure and changes to ring-mock.
 - move from ring-mock to the new namespaced ring/ring-mock version
 - update ring-defaults to the latest version
 - update postgresql to latest patch version
+
+## [1.7.38]
+
+- update clj-kitchensink to 2.6.0, which adds an function to atomically write files
+
+## [1.7.37]
+
+- update jvm-ssl-utils to 1.1.0, which adds a method for revoking multiple certs
+
+## [1.7.36]
+
+- update postgres jdbc driver to 4.2.14, which has security fixes
+
+## [1.7.35]
+
+- update tk-metrics to 1.2.3, which deprecates the v1 metrics endpoint.
 
 ## [1.7.34]
 
