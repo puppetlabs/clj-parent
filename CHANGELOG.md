@@ -1,4 +1,5 @@
 ## [Unreleased]
+- update clj-rbac-client to 1.1.0 to remove harmful language and add a method to the rbac consumer protocol
 - update tk-status to 1.1.1 which includes additional java memory info
 
 ## [4.6.3]
