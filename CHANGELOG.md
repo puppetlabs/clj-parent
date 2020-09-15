@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [4.6.5]
+
+- update clj-rbac-client to 1.1.1 to fix a bug introduced in 1.1.0
+
 ## [4.6.4]
 
 - update clj-rbac-client to 1.1.0 to remove harmful language and add a method to the rbac consumer protocol
