@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [4.6.6]
+
+- update clj-http-client to 1.2.0, which allows retrieving the message from a response status
+
 ## [4.6.5]
 
 - update clj-rbac-client to 1.1.1 to fix a bug introduced in 1.1.0

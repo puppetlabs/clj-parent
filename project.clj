@@ -98,7 +98,7 @@
                          [prismatic/plumbing "0.4.2"]
                          [prismatic/schema "1.1.12"]
 
-                         [puppetlabs/http-client "1.1.3"]
+                         [puppetlabs/http-client "1.2.0"]
                          [puppetlabs/jdbc-util "1.2.5"]
                          [puppetlabs/typesafe-config "0.1.5"]
                          [puppetlabs/ssl-utils "3.1.0"]
