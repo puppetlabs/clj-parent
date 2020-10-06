@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+## [4.6.7]
+
 - update clj-kitchensink to 3.1.1, which changes the open-port-num function to select a port
   in the 16384 - 32767 range. This should decrease port binding collisions in some cases.
 
