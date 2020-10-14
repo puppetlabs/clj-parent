@@ -1,5 +1,10 @@
 ## [Unreleased]
 
+## [4.6.8]
+
+- update ring-middleware to 1.3.0, which updates `wrap-add-cache-headers` to use
+  the "no-store" cache-control directive instead of "private, max-age=0, no-cache"
+
 ## [4.6.7]
 
 - update clj-kitchensink to 3.1.1, which changes the open-port-num function to select a port
