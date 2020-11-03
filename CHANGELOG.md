@@ -1,5 +1,10 @@
 ## [Unreleased]
 
+## [4.6.9]
+
+- update tk-scheduler to 1.1.3, which updates the quartz library to the latest z, and adds checks to
+  prevent null functions from being passed to the scheduler
+
 ## [4.6.8]
 
 - update ring-middleware to 1.3.0, which updates `wrap-add-cache-headers` to use
