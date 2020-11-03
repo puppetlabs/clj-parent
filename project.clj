@@ -111,7 +111,7 @@
                          [puppetlabs/trapperkeeper-webserver-jetty9 ~tk-jetty-version :classifier "test"]
                          [puppetlabs/trapperkeeper-metrics ~tk-metrics-version]
                          [puppetlabs/trapperkeeper-metrics ~tk-metrics-version :classifier "test"]
-                         [puppetlabs/trapperkeeper-scheduler "1.1.2"]
+                         [puppetlabs/trapperkeeper-scheduler "1.1.3"]
                          [puppetlabs/trapperkeeper-authorization "1.0.0"]
                          [puppetlabs/trapperkeeper-status "1.1.1"]
                          [puppetlabs/trapperkeeper-filesystem-watcher "1.2.2"]
