@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [4.6.10]
+
+ - update jruby-utils to 3.2.1 bringing in JRuby 9.2.14.0, a minor update that resolves a webrick CVE.
+
 ## [4.6.9]
 
 - update tk-scheduler to 1.1.3, which updates the quartz library to the latest z, and adds checks to
