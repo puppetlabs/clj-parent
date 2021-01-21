@@ -1,5 +1,10 @@
 ## [Unreleased]
 
+## [4.6.11]
+
+- update clj-typesafe-config to 0.2.0 bringing in typesafe/config 1.4.1, an ABI-compatible feature update from the previous release of 1.2.0.
+- update ring dependencies to current latest releases
+
 ## [4.6.10]
 
  - update jruby-utils to 3.2.1 bringing in JRuby 9.2.14.0, a minor update that resolves a webrick CVE.
