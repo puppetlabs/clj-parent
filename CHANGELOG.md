@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [4.6.13]
+
+- update jackson-core, jackson-databind and jackson-module-afterburner to 2.12.1 for security fixes
 ## [4.6.12]
 
 - update tk-jetty9 to 4.1.1, which contains jetty 9.4.36, a maintenance update with some security fixes
