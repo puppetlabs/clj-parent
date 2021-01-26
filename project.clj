@@ -42,7 +42,7 @@
                          [com.fasterxml.jackson.core/jackson-core "2.12.1"]
                          [com.fasterxml.jackson.core/jackson-databind "2.12.1"]
                          [com.fasterxml.jackson.module/jackson-module-afterburner "2.12.1"]
-                         [org.yaml/snakeyaml "1.23"]
+                         [org.yaml/snakeyaml "1.27"]
 
                          [org.apache.maven.wagon/wagon-provider-api "2.10"]
                          [org.apache.commons/commons-exec "1.3"]
@@ -65,7 +65,7 @@
                          [nrepl/nrepl "0.6.0"]
                          [bidi "2.1.3"]
                          [clj-time "0.11.0"]
-                         [clj-commons/clj-yaml "0.7.0"]
+                         [clj-commons/clj-yaml "0.7.2"]
                          [clj-stacktrace "0.2.8"]
                          [com.zaxxer/HikariCP "2.7.4"]
                          [clj-commons/fs "1.5.1"]
