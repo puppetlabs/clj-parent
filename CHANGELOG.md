@@ -1,5 +1,10 @@
 ## [Unreleased]
 
+## [4.6.12]
+
+- update tk-jetty9 to 4.1.1, which contains jetty 9.4.36, a maintenance update with some security fixes
+- update bouncy-castle to 1.68, which contains some security fixes
+
 ## [4.6.11]
 
 - update clj-typesafe-config to 0.2.0 bringing in typesafe/config 1.4.1, an ABI-compatible feature update from the previous release of 1.2.0.
