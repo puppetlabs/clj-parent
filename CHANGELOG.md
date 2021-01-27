@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [4.6.15]
+
+- pin ring-servlet back to 1.5.1 until we figure out what is causing binary file test failures
+
 ## [4.6.14]
 
 - update tk-jetty9 to 4.1.3, which updates a dependency pin to avoid conflicts with other libs
