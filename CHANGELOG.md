@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [4.6.14]
+
+- update tk-jetty9 to 4.1.3, which updates a dependency pin to avoid conflicts with other libs
+
 ## [4.6.13]
 
 - update jackson-core, jackson-databind and jackson-module-afterburner to 2.12.1 for security fixes
