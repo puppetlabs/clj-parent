@@ -1,8 +1,8 @@
 (def clj-version "1.10.1")
 (def ks-version "3.1.1")
 (def tk-version "3.1.0")
-(def tk-jetty-version "4.1.1")
-(def tk-metrics-version "1.3.1")
+(def tk-jetty-version "4.1.2")
+(def tk-metrics-version "1.4.0")
 (def logback-version "1.2.3")
 (def rbac-client-version "1.1.1")
 (def dropwizard-metrics-version "3.2.2")
@@ -42,7 +42,7 @@
                          [com.fasterxml.jackson.core/jackson-core "2.12.1"]
                          [com.fasterxml.jackson.core/jackson-databind "2.12.1"]
                          [com.fasterxml.jackson.module/jackson-module-afterburner "2.12.1"]
-                         [org.yaml/snakeyaml "1.23"]
+                         [org.yaml/snakeyaml "1.27"]
 
                          [org.apache.maven.wagon/wagon-provider-api "2.10"]
                          [org.apache.commons/commons-exec "1.3"]
@@ -65,7 +65,7 @@
                          [nrepl/nrepl "0.6.0"]
                          [bidi "2.1.3"]
                          [clj-time "0.11.0"]
-                         [clj-commons/clj-yaml "0.7.0"]
+                         [clj-commons/clj-yaml "0.7.2"]
                          [clj-stacktrace "0.2.8"]
                          [com.zaxxer/HikariCP "2.7.4"]
                          [clj-commons/fs "1.5.1"]

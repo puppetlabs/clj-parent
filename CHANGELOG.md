@@ -3,6 +3,11 @@
 ## [4.6.13]
 
 - update jackson-core, jackson-databind and jackson-module-afterburner to 2.12.1 for security fixes
+- update snakeyaml to 1.27, which contains some security fixes
+- update clj-yaml to 0.7.2, which will be most compatible with the above version of snakeyaml
+- update tk-metrics to 1.4.0, allows remote access to the metrics endpoint
+- update tk-jetty9 to 4.1.2, which fixes the artifacts built by the 4.1.1 tag
+
 ## [4.6.12]
 
 - update tk-jetty9 to 4.1.1, which contains jetty 9.4.36, a maintenance update with some security fixes
