@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+- update commons-beanutils to 1.9.4, which contains a security fix.
+
 ## [4.6.15]
 
 - pin ring-servlet back to 1.5.1 until we figure out what is causing binary file test failures

@@ -51,7 +51,7 @@
                          [org.apache.httpcomponents/httpclient  "4.5.2"]
                          [org.apache.httpcomponents/httpcore  "4.4.5"]
                          [org.apache.httpcomponents/httpasyncclient "4.1.4"]
-                         [commons-beanutils "1.9.2"]
+                         [commons-beanutils "1.9.4"]
                          [commons-codec "1.10"]
                          [commons-collections "3.2.2"]
                          [commons-lang "2.6"]
