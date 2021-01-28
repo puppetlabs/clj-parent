@@ -59,8 +59,8 @@
                          [commons-io "2.4"]
                          [joda-time "2.8.2"]
 
-                         [com.taoensso/nippy "2.14.0"]
-                         [com.taoensso/encore "2.115.0"]
+                         [com.taoensso/nippy "3.1.1"]
+                         [com.taoensso/encore "3.9.2"]
 
                          [nrepl/nrepl "0.6.0"]
                          [bidi "2.1.3"]
