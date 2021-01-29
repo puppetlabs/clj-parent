@@ -1,7 +1,10 @@
 ## [Unreleased]
 
+## [4.6.16]
+
 - update commons-beanutils to 1.9.4, which contains a security fix.
 - update nippy to 3.1.1, security fixes. May require adjustments to the usage of `thaw`
+- update ring-servlet back to 1.8.2 now that our failures have been resolved
 
 ## [4.6.15]
 
