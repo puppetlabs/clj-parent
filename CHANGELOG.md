@@ -1,5 +1,10 @@
 ## [Unreleased]
 
+## [4.6.17]
+
+- update commons-compress to 1.20, which contains a security fix.
+- update clj-commons/fs to 1.6.307, which contains a matching commons-compress version
+
 ## [4.6.16]
 
 - update commons-beanutils to 1.9.4, which contains a security fix.

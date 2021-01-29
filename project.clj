@@ -46,7 +46,7 @@
 
                          [org.apache.maven.wagon/wagon-provider-api "2.10"]
                          [org.apache.commons/commons-exec "1.3"]
-                         [org.apache.commons/commons-compress "1.17"]
+                         [org.apache.commons/commons-compress "1.20"]
                          [org.apache.commons/commons-lang3 "3.4"]
                          [org.apache.httpcomponents/httpclient  "4.5.2"]
                          [org.apache.httpcomponents/httpcore  "4.4.5"]
@@ -68,7 +68,7 @@
                          [clj-commons/clj-yaml "0.7.2"]
                          [clj-stacktrace "0.2.8"]
                          [com.zaxxer/HikariCP "2.7.4"]
-                         [clj-commons/fs "1.5.1"]
+                         [clj-commons/fs "1.6.307"]
                          [instaparse "1.4.1"]
                          [slingshot "0.12.2"]
                          [cheshire "5.8.0"]
