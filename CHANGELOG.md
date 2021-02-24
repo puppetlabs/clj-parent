@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+## [4.6.18]
+
 - update clj-kitchensink to bring in the addition of the base-type function for parsing Content-Type headers
 
 ## [4.6.17]
