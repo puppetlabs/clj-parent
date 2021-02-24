@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+- update clj-kitchensink to bring in the addition of the base-type function for parsing Content-Type headers
+
 ## [4.6.17]
 
 - update commons-compress to 1.20, which contains a security fix.
