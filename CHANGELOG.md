@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [4.6.19]
+
+- update tk-jetty9 to 4.1.5, which contains several security fixes
+
 ## [4.6.18]
 
 - update clj-kitchensink to bring in the addition of the base-type function for parsing Content-Type headers
