@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [4.6.21]
+
+- update jruby-utils to 3.2.2, which brings in JRuby 9.2.17.0
+
 ## [4.6.20]
 
 - update tk-jetty9 to 4.1.6, which contains a fix for a connection reset bug
