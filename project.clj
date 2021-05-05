@@ -56,7 +56,7 @@
                          [commons-collections "3.2.2"]
                          [commons-lang "2.6"]
                          [commons-logging "1.2"]
-                         [commons-io "2.4"]
+                         [commons-io "2.8.0"]
                          [joda-time "2.8.2"]
 
                          [com.taoensso/nippy "3.1.1"]

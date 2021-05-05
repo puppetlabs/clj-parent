@@ -2,6 +2,7 @@
 
 - update apache httpclient to 4.5.13 (CVE-2020-13956)
 - update apache httpcore to 4.4.13 to match httpclient
+- update commons-io to 2.8.0 (CVE-2021-29425)
 
 ## [4.6.21]
 
