@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+- update apache httpclient to 4.5.13 (CVE-2020-13956)
+- update apache httpcore to 4.4.13 to match httpclient
+
 ## [4.6.21]
 
 - update jruby-utils to 3.2.2, which brings in JRuby 9.2.17.0
