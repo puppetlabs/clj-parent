@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [4.6.23]
+
+- update jvm-ssl-utils to 3.2.0, which containts more advanced CRL utilities
+
 ## [4.6.22]
 
 - update apache httpclient to 4.5.13 (CVE-2020-13956)
