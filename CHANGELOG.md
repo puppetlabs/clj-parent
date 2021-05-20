@@ -1,8 +1,12 @@
 ## [Unreleased]
 
+## [4.6.24]
+
+- update jvm-ssl-utils to 3.2.2, which contains a fix to stay compatible with both FOSS and FIPS Bouncy Castle APIs and some new extension utilities.
+
 ## [4.6.23]
 
-- update jvm-ssl-utils to 3.2.0, which containts more advanced CRL utilities
+- update jvm-ssl-utils to 3.2.0, which contains more advanced CRL utilities
 
 ## [4.6.22]
 
