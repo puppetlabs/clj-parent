@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+- update clojurescript to 1.10.866, which resolves CVEs in several transitive dependencies
+
 ## [4.6.24]
 
 - update jvm-ssl-utils to 3.2.2, which contains a fix to stay compatible with both FOSS and FIPS Bouncy Castle APIs and some new extension utilities.
