@@ -15,7 +15,7 @@
   :packaging "pom"
 
   :managed-dependencies [[org.clojure/clojure ~clj-version]
-                         [org.clojure/clojurescript "1.7.122"]
+                         [org.clojure/clojurescript "1.10.866"]
                          [org.clojure/tools.logging "0.4.0"]
                          [org.clojure/tools.cli "0.3.6"]
                          [org.clojure/tools.nrepl "0.2.13"]
