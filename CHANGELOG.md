@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+## [4.6.25]
+
 - update clojurescript to 1.10.866, which resolves CVEs in several transitive dependencies
 
 ## [4.6.24]
