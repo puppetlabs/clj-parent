@@ -1,7 +1,7 @@
 (def clj-version "1.10.1")
 (def ks-version "3.1.3")
 (def tk-version "3.1.0")
-(def tk-jetty-version "4.1.6")
+(def tk-jetty-version "4.1.7")
 (def tk-metrics-version "1.4.0")
 (def logback-version "1.2.3")
 (def rbac-client-version "1.1.1")
@@ -101,7 +101,7 @@
                          [puppetlabs/http-client "1.2.0"]
                          [puppetlabs/jdbc-util "1.2.5"]
                          [puppetlabs/typesafe-config "0.2.0"]
-                         [puppetlabs/ssl-utils "3.2.2"]
+                         [puppetlabs/ssl-utils "3.3.0"]
                          [puppetlabs/clj-ldap "0.3.0"]
                          [puppetlabs/kitchensink ~ks-version]
                          [puppetlabs/kitchensink ~ks-version :classifier "test"]

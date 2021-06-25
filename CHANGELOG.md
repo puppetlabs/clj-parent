@@ -1,5 +1,11 @@
 ## [Unreleased]
 
+## [4.6.26]
+
+- update jvm-ssl-utils to 3.3.0, which now supports OpenSSL-formatted EC private keys
+- update tk-jetty9 to 4.1.7, which resolves CVE-2021-28169
+- update BC FIPS libraries to latest versions
+
 ## [4.6.25]
 
 - update clojurescript to 1.10.866, which resolves CVEs in several transitive dependencies
