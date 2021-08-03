@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [4.6.29]
+
+- update i18n to 0.9.2 which fixes some reflection issues.
+
 ## [4.6.28]
 
 - update trapperkeeper-webserver-jetty9 to 4.1.8 to bring in Jetty v9.4.43 to resolve CVE-2021-34429
