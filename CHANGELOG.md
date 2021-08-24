@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+## [4.6.30]
+
 - update tk-metrics to 1.4.1, which includes Jolokia 1.7.0, a routine maintenance bump that cleans up some reflective accesses that trigger warnings in Java 9 and newer.
 
 ## [4.6.29]
