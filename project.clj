@@ -7,7 +7,7 @@
 (def rbac-client-version "1.1.1")
 (def dropwizard-metrics-version "3.2.2")
 
-(defproject puppetlabs/clj-parent "4.6.31-SNAPSHOT"
+(defproject puppetlabs/clj-parent "4.7.0-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.
@@ -21,7 +21,7 @@
                          [org.clojure/tools.nrepl "0.2.13"]
                          [org.clojure/tools.macro "0.1.5"]
                          [org.clojure/java.classpath "0.2.3"]
-                         [org.clojure/java.jdbc "0.7.7"]
+                         [org.clojure/java.jdbc "0.7.11"]
                          [org.clojure/java.jmx "0.3.4"]
                          [org.clojure/core.async "0.4.490"]
                          [org.clojure/core.cache "0.7.1"]
@@ -99,7 +99,7 @@
                          [prismatic/schema "1.1.12"]
 
                          [puppetlabs/http-client "1.2.0"]
-                         [puppetlabs/jdbc-util "1.2.5"]
+                         [puppetlabs/jdbc-util "1.3.0"]
                          [puppetlabs/typesafe-config "0.2.0"]
                          [puppetlabs/ssl-utils "3.3.0"]
                          [puppetlabs/clj-ldap "0.3.0"]
