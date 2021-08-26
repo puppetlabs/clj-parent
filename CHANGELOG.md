@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [4.7.1]
+- revert update to tk-metrics, the updated jolokia caused issues in FIPS environments
+
 ## [4.7.0]
 - update jdbc to 0.7.11, update jdbc-util to 1.3.0, due to a change in version for migratus
 
