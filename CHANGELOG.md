@@ -1,7 +1,10 @@
 ## [Unreleased]
 
+## [4.7.2]
+- update tk-metrics to 1.4.3, which fixes an issue with its Bouncy Castle dependency that caused issues in FIPS mode. This also reintroduces the jolokia 1.7.0 bump (which was not implicated in the FIPS bug).
+
 ## [4.7.1]
-- revert update to tk-metrics, the updated jolokia caused issues in FIPS environments
+- revert update to tk-metrics, the previous update caused issues in FIPS environments
 
 ## [4.7.0]
 - update jdbc to 0.7.11, update jdbc-util to 1.3.0, due to a change in version for migratus
