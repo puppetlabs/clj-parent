@@ -1,4 +1,5 @@
 ## [Unreleased]
+- update ring-middleware to 1.3.1 to add support for referrer-policy headers to be added.
 
 ## [4.7.2]
 - update tk-metrics to 1.4.3, which fixes an issue with its Bouncy Castle dependency that caused issues in FIPS mode. This also reintroduces the jolokia 1.7.0 bump (which was not implicated in the FIPS bug).
