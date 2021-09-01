@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [4.8.0]
+- update tk-jetty9 to 4.2.0, which adds support for TLS 1.3 by default
+
 ## [4.7.3]
 - update ring-middleware to 1.3.1 to add support for referrer-policy headers to be added.
 
