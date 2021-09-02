@@ -1,4 +1,6 @@
 ## [Unreleased]
+
+## [4.7.3]
 - update ring-middleware to 1.3.1 to add support for referrer-policy headers to be added.
 
 ## [4.7.2]
