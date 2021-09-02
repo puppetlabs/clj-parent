@@ -116,7 +116,7 @@
                          [puppetlabs/trapperkeeper-status "1.1.1"]
                          [puppetlabs/trapperkeeper-filesystem-watcher "1.2.2"]
                          [puppetlabs/structured-logging "0.2.0"]
-                         [puppetlabs/ring-middleware "1.3.0"]
+                         [puppetlabs/ring-middleware "1.3.1"]
                          [puppetlabs/dujour-version-check "0.2.3"]
                          [puppetlabs/comidi "0.3.2"]
                          [puppetlabs/trapperkeeper-comidi-metrics "0.1.1"]
