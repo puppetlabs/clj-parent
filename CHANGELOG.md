@@ -1,4 +1,5 @@
 ## [Unreleased]
+- update comidi to 0.3.3, which doesn't include any new content, but should clear up false positives from the Snyk security scanner.
 
 ## [4.8.1]
 - update tk-jetty9 to 4.2.1, which adds TLS 1.3 support for FIPS
