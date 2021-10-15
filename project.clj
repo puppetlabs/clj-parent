@@ -98,7 +98,7 @@
                          [prismatic/plumbing "0.4.2"]
                          [prismatic/schema "1.1.12"]
 
-                         [puppetlabs/http-client "1.2.0"]
+                         [puppetlabs/http-client "1.2.3"]
                          [puppetlabs/jdbc-util "1.3.0"]
                          [puppetlabs/typesafe-config "0.2.0"]
                          [puppetlabs/ssl-utils "3.3.0"]
@@ -140,8 +140,8 @@
 
   :dependencies [[org.clojure/clojure]]
 
-  :deploy-repositories [["releases" {:url "https://clojars.org/repo"
-                                     :username :env/clojars_jenkins_username
-                                     :password :env/clojars_jenkins_password
+  :deploy-repositories [["releases" {:url "https://artifactory.delivery.puppetlabs.net/artifactory/clojure-releases__local/"
+                                     :username :env/nexus_jenkins_username
+                                     :password :env/nexus_jenkins_password
                                      :sign-releases false}]
                         ["snapshots" "https://artifactory.delivery.puppetlabs.net/artifactory/list/clojure-snapshots__local/"]])

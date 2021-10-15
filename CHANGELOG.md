@@ -1,4 +1,7 @@
 ## [Unreleased]
+
+## [4.8.2]
+- update puppetlabs/http-client to 1.2.3 to resolve minor security issue.
 - update comidi to 0.3.3, which doesn't include any new content, but should clear up false positives from the Snyk security scanner.
 
 ## [4.8.1]
