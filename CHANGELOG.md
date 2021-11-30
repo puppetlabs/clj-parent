@@ -1,4 +1,6 @@
 ## [Unreleased]
+
+## [4.8.4]
 - update cheshire to 5.10.1 to update the jackson dependencies
 
 ## [4.8.3]
