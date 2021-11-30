@@ -1,4 +1,5 @@
 ## [Unreleased]
+- update cheshire to 5.10.1 to update the jackson dependencies
 
 ## [4.8.3]
 - update puppetlabs/http-client to 1.2.4, which is the public version of the previous security release
