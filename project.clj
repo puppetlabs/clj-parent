@@ -91,7 +91,7 @@
                          [io.dropwizard.metrics/metrics-graphite ~dropwizard-metrics-version]
                          [metrics-clojure "2.10.0"]
                          [org.ow2.asm/asm-all "5.0.3"]
-                         [honeysql "0.6.3"]
+                         [honeysql "1.0.461"]
                          [org.postgresql/postgresql "42.2.14"]
                          [medley "1.0.0"]
 
