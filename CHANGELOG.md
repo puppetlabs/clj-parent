@@ -1,4 +1,6 @@
 ## [Unreleased]
+
+## [4.9.0]
 - update honeysql to 1.0.461 to address SQLi vulnerability and distribute latest version to all consuming projects
 - update logback to 1.2.7 to address https://security.snyk.io/vuln/SNYK-JAVA-CHQOSLOGBACK-1726923
 
