@@ -1,4 +1,5 @@
 ## [Unreleased]
+- update honeysql to 1.0.461 to address SQLi vulnerability and distribute latest version to all consuming projects
 
 ## [4.8.4]
 - update cheshire to 5.10.1 to update the jackson dependencies
