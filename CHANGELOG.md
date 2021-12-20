@@ -1,4 +1,5 @@
 ## [Unreleased]
+- update http-client to 2.0.0 to change default protocols to TLSv1.3 and TLSv1.2, remove TLSv1.1 and TLSv1.
 
 ## [4.10.1]
 - Update ssl-utils to 3.4.1, which makes public the `SSUtils.managerFactoriesToSSLContext` helper.
