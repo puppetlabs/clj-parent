@@ -1,4 +1,7 @@
 ## [Unreleased]
+- update httpasync-client to 4.1.5 to fix async issues seen in testing.  https://downloads.apache.org/httpcomponents/httpasyncclient/RELEASE_NOTES-4.1.x.txt
+- update httpasync-core to 4.4.15 to fix async issues seen in testing.  https://downloads.apache.org/httpcomponents/httpcore/RELEASE_NOTES-4.4.x.txt (HTTPCORE-687) and "Bug fix: Non-blocking TLSv1.3 connections can end up in an infinite event spin when closed
+  concurrently by the local and the remote endpoints." 
 
 ## [4.9.0]
 - update honeysql to 1.0.461 to address SQLi vulnerability and distribute latest version to all consuming projects
