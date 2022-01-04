@@ -1,4 +1,5 @@
 ## [Unreleased]
+- update jackson to 2.12.6 to address https://security.snyk.io/vuln/SNYK-JAVA-COMFASTERXMLJACKSONCORE-2326698
 
 ## [4.9.0]
 - update honeysql to 1.0.461 to address SQLi vulnerability and distribute latest version to all consuming projects
