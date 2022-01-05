@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [4.9.1]
+- update jackson to 2.12.6 to address https://security.snyk.io/vuln/SNYK-JAVA-COMFASTERXMLJACKSONCORE-2326698
+- update logback to 1.2.9 to address https://nvd.nist.gov/vuln/detail/CVE-2021-42550
+
 ## [4.9.0]
 - update honeysql to 1.0.461 to address SQLi vulnerability and distribute latest version to all consuming projects
 - update logback to 1.2.7 to address https://security.snyk.io/vuln/SNYK-JAVA-CHQOSLOGBACK-1726923
