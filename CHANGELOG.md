@@ -1,4 +1,5 @@
 ## [Unreleased]
+- update postgresql jdbc driver to 42.3.1-fipsfix-SNAPSHOT. This is a fork of pgjdbc that fixes the issue that causes problems with bouncycastle. Downstream projects will need to add the artifactory maven repository to their project.clj.
 
 ## [4.9.1]
 - update jackson to 2.12.6 to address https://security.snyk.io/vuln/SNYK-JAVA-COMFASTERXMLJACKSONCORE-2326698

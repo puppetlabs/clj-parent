@@ -92,7 +92,7 @@
                          [metrics-clojure "2.10.0"]
                          [org.ow2.asm/asm-all "5.0.3"]
                          [honeysql "1.0.461"]
-                         [org.postgresql/postgresql "42.2.14"]
+                         [org.postgresql/postgresql "42.3.1-fipsfix-SNAPSHOT"]
                          [medley "1.0.0"]
 
                          [prismatic/plumbing "0.4.2"]
