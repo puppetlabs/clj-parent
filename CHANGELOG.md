@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [4.9.2]
+- update bouncy-castle to 1.70, which includes improvements to TLS 1.3 support
+
 ## [4.9.1]
 - update jackson to 2.12.6 to address https://security.snyk.io/vuln/SNYK-JAVA-COMFASTERXMLJACKSONCORE-2326698
 - update logback to 1.2.9 to address https://nvd.nist.gov/vuln/detail/CVE-2021-42550
