@@ -1,5 +1,8 @@
 ## [Unreleased]
+
+## [4.9.3]
 - add honeysql 2.x dependency
+- update jruby-utils to 3.2.3, which pins a JRuby dependency to avoid a CVE
 
 ## [4.9.2]
 - update bouncy-castle to 1.70, which includes improvements to TLS 1.3 support
