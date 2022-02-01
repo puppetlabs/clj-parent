@@ -1,4 +1,5 @@
 ## [Unreleased]
+- add honeysql 2.x dependency
 
 ## [4.9.2]
 - update bouncy-castle to 1.70, which includes improvements to TLS 1.3 support
