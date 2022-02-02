@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [4.9.4]
+- update pgjdbc (org.postgresql/postgresql) to 42.3.2, which fixes a bug in choosing the correct signing algorithm when used with Bouncy Castle, and addresses CVE-2022-21724
+
 ## [4.9.3]
 - add honeysql 2.x dependency
 - update jruby-utils to 3.2.3, which pins a JRuby dependency to avoid a CVE
