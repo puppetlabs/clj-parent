@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+- Update ring-json to 0.5.1, which updates dependencies to avoid CVEs and has a small perf improvement
+
 ## [4.9.4]
 - update pgjdbc (org.postgresql/postgresql) to 42.3.2, which fixes a bug in choosing the correct signing algorithm when used with Bouncy Castle, and addresses CVE-2022-21724
 
