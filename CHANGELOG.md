@@ -1,4 +1,7 @@
 ## [Unreleased]
+- update httpasync-client to 4.1.5 to fix async issues seen in testing.  https://downloads.apache.org/httpcomponents/httpasyncclient/RELEASE_NOTES-4.1.x.txt
+- update httpasync-core to 4.4.15 to fix async issues seen in testing.  https://downloads.apache.org/httpcomponents/httpcore/RELEASE_NOTES-4.4.x.txt (HTTPCORE-687) and "Bug fix: Non-blocking TLSv1.3 connections can end up in an infinite event spin when closed
+  concurrently by the local and the remote endpoints." 
 
 ## [4.9.4]
 - update pgjdbc (org.postgresql/postgresql) to 42.3.2, which fixes a bug in choosing the correct signing algorithm when used with Bouncy Castle, and addresses CVE-2022-21724
