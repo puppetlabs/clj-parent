@@ -1,8 +1,10 @@
 ## [Unreleased]
+
+## [4.9.5]
+- update comidi to 1.0.0 to include PATCH macro.
 - update httpasync-client to 4.1.5 to fix async issues seen in testing.  https://downloads.apache.org/httpcomponents/httpasyncclient/RELEASE_NOTES-4.1.x.txt
 - update httpasync-core to 4.4.15 to fix async issues seen in testing.  https://downloads.apache.org/httpcomponents/httpcore/RELEASE_NOTES-4.4.x.txt (HTTPCORE-687) and "Bug fix: Non-blocking TLSv1.3 connections can end up in an infinite event spin when closed
   concurrently by the local and the remote endpoints." 
-
 - Update ring-json to 0.5.1, which updates dependencies to avoid CVEs and has a small perf improvement
 
 ## [4.9.4]
