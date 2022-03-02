@@ -1,4 +1,5 @@
 ## [Unreleased]
+- updates analytics components to use https://updates.puppet.com by default.
 
 ## [4.9.5]
 - update comidi to 1.0.0 to include PATCH macro.
