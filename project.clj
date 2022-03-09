@@ -103,7 +103,7 @@
                          [puppetlabs/http-client "1.2.4"]
                          [puppetlabs/jdbc-util "1.3.0"]
                          [puppetlabs/typesafe-config "0.2.0"]
-                         [puppetlabs/ssl-utils "3.3.0"]
+                         [puppetlabs/ssl-utils "3.4.0"]
                          [puppetlabs/clj-ldap "0.3.0"]
                          [puppetlabs/kitchensink ~ks-version]
                          [puppetlabs/kitchensink ~ks-version :classifier "test"]
