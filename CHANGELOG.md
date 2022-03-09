@@ -1,4 +1,6 @@
 ## [Unreleased]
+
+## [4.9.6]
 - updates analytics components to use https://updates.puppet.com by default.
 - updates ssl-utils to enable copying authority key identifiers from certificates during signing and revocation
 
