@@ -1,5 +1,6 @@
 ## [Unreleased]
 - update jackson to 2.13.2 to address https://security.snyk.io/vuln/SNYK-JAVA-COMFASTERXMLJACKSONCORE-2421244
+- update postgres sql jdbc driver to 42.3.3 to address https://security.snyk.io/vuln/SNYK-JAVA-ORGPOSTGRESQL-2401816
 
 ## [4.9.6]
 - update analytics components to use https://updates.puppet.com by default.
