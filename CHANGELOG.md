@@ -1,8 +1,9 @@
 ## [Unreleased]
+- update jackson to 2.13.2 to address https://security.snyk.io/vuln/SNYK-JAVA-COMFASTERXMLJACKSONCORE-2421244
 
 ## [4.9.6]
-- updates analytics components to use https://updates.puppet.com by default.
-- updates ssl-utils to enable copying authority key identifiers from certificates during signing and revocation
+- update analytics components to use https://updates.puppet.com by default.
+- update ssl-utils to enable copying authority key identifiers from certificates during signing and revocation
 
 ## [4.9.5]
 - update comidi to 1.0.0 to include PATCH macro.
