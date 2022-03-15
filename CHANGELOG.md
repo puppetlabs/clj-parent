@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+- add environ 1.1.0 to the managed dependencies
+
 ## [4.9.6]
 - updates analytics components to use https://updates.puppet.com by default.
 - updates ssl-utils to enable copying authority key identifiers from certificates during signing and revocation

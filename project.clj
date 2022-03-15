@@ -96,6 +96,7 @@
                          [com.github.seancorfield/honeysql "2.2.861"]
                          [org.postgresql/postgresql "42.3.2"]
                          [medley "1.0.0"]
+                         [environ "1.1.0"]
 
                          [prismatic/plumbing "0.4.2"]
                          [prismatic/schema "1.1.12"]
