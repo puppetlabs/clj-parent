@@ -71,7 +71,7 @@
                          [clj-commons/fs "1.6.307"]
                          [instaparse "1.4.1"]
                          [slingshot "0.12.2"]
-                         [cheshire "5.10.1"]
+                         [cheshire "5.10.2"]
                          [compojure "1.5.0"]
                          [quoin "0.1.2"]
                          [ring/ring-servlet "1.8.2"]

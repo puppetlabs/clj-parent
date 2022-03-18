@@ -1,4 +1,5 @@
 ## [Unreleased]
+- update cheshire to 5.10.2 to leverage the exclusion of jackson databind  https://github.com/dakrone/cheshire/pull/187
 
 ## [4.9.7]
 - update jackson to 2.13.2 to address https://security.snyk.io/vuln/SNYK-JAVA-COMFASTERXMLJACKSONCORE-2421244
