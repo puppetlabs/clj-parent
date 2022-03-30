@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [4.9.8]
+- update jackson-databind to 2.13.2.2 to fully address https://security.snyk.io/vuln/SNYK-JAVA-COMFASTERXMLJACKSONCORE-2421244, as the previous fix was not sufficient (see [jackson-databind issue](https://github.com/FasterXML/jackson-databind/issues/2816))
+
 ## [4.9.7]
 - update jackson to 2.13.2 to address https://security.snyk.io/vuln/SNYK-JAVA-COMFASTERXMLJACKSONCORE-2421244
 - update postgres sql jdbc driver to 42.3.3 to address https://security.snyk.io/vuln/SNYK-JAVA-ORGPOSTGRESQL-2401816
