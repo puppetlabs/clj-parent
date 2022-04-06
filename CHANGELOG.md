@@ -1,4 +1,7 @@
 ## [Unreleased]
+
+## [4.10.0]
+- update kitchensink to 3.2.0 to include the key->str function
 - update cheshire to 5.10.2 to leverage the exclusion of jackson databind  https://github.com/dakrone/cheshire/pull/187
 
 ## [4.9.8]
