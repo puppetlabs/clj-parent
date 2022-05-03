@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [4.10.1]
+- Update ssl-utils to 3.4.1, which makes public the `SSUtils.managerFactoriesToSSLContext` helper.
+
 ## [4.10.0]
 - update kitchensink to 3.2.0 to include the key->str function
 - update cheshire to 5.10.2 to leverage the exclusion of jackson databind  https://github.com/dakrone/cheshire/pull/187
