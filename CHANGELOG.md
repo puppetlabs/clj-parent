@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+- Update jruby-utils to 4.0.0, which updates JRuby to 9.3.4.0.
+
 ## [4.10.1]
 - Update ssl-utils to 3.4.1, which makes public the `SSUtils.managerFactoriesToSSLContext` helper.
 
