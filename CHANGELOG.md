@@ -1,6 +1,18 @@
 ## [Unreleased]
-- update http-client to 2.0.0 to change default protocols to TLSv1.3 and TLSv1.2, remove TLSv1.1 and TLSv1.
 
+- update clojure to 1.11 https://github.com/clojure/clojure/blob/master/changes.md#changes-to-clojure-in-version-1110
+- update clojure/tools.logging to 1.2.4 from 0.4.0 https://github.com/clojure/tools.logging/blob/master/CHANGELOG.md
+- update clojure/tools.cli to 1.0.206 from 0.3.6  https://github.com/clojure/tools.cli/blob/master/CHANGELOG.md
+- update clojure/tools.classpath to 1.0.0 from 0.2.3 https://github.com/clojure/java.classpath/blob/master/CHANGES.md
+- update clojure/java.jdbc to 0.7.12 from 0.7.11 https://github.com/clojure/java.jdbc/blob/master/CHANGES.md
+- update clojure/java.jmx to 1.0.0 from 0.3.4 https://github.com/clojure/java.jmx/commits/master
+- update clojure/core.async to 1.5.648 from 0.4.490 https://github.com/clojure/core.async#changelog
+- update clojure/core.cache to 1.0.225 from 0.7.1  https://github.com/clojure/core.cache#change-log
+- update clojure/core.memoize to 1.0.257 from 0.7.1  https://github.com/clojure/core.memoize#change-log
+- update clojure/tools/reader to 1.3.6 from 1.2.1  https://github.com/clojure/tools.reader/blob/master/CHANGELOG.md
+- update clojure/data.json to 2.4.0 from 0.2.6  https://github.com/clojure/data.json#change-log
+- update clojure/data.priority-map to 1.1.0 from 0.0.9  https://github.com/clojure/data.priority-map/commits/master
+- update http-client to 2.0.0 to change default protocols to TLSv1.3 and TLSv1.2, remove TLSv1.1 and TLSv1.
 - Update jruby-utils to 4.0.0, which updates JRuby to 9.3.4.0.
 
 ## [4.10.1]

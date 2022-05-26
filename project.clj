@@ -1,4 +1,4 @@
-(def clj-version "1.10.1")
+(def clj-version "1.11.1")
 (def ks-version "3.2.0")
 (def tk-version "3.1.0")
 (def tk-jetty-version "4.2.1")
@@ -16,20 +16,23 @@
 
   :managed-dependencies [[org.clojure/clojure ~clj-version]
                          [org.clojure/clojurescript "1.10.866"]
-                         [org.clojure/tools.logging "0.4.0"]
-                         [org.clojure/tools.cli "0.3.6"]
+                         [org.clojure/tools.logging "1.2.4"]
+                         [org.clojure/tools.cli "1.0.206"]
                          [org.clojure/tools.nrepl "0.2.13"]
                          [org.clojure/tools.macro "0.1.5"]
-                         [org.clojure/java.classpath "0.2.3"]
-                         [org.clojure/java.jdbc "0.7.11"]
-                         [org.clojure/java.jmx "0.3.4"]
-                         [org.clojure/core.async "0.4.490"]
-                         [org.clojure/core.cache "0.7.1"]
-                         [org.clojure/core.memoize "0.7.1"]
-                         [org.clojure/tools.reader "1.2.1"]
+                         [org.clojure/java.classpath "1.0.0"]
+                         [org.clojure/java.jdbc "0.7.12"]
+                         [org.clojure/java.jmx "1.0.0"]
+                         [org.clojure/core.async "1.5.648"]
+                         [org.clojure/core.cache "1.0.225"]
+                         [org.clojure/core.memoize "1.0.257"]
+                         [org.clojure/tools.reader "1.3.6"]
+                         ;; recent attempts to update this resulted in failures to build
+                         ;; Syntax error compiling at (clojure/tools/namespace/file.clj:65:26).
+                         ;; No such var: parse/name-from-ns-decl
                          [org.clojure/tools.namespace "0.2.11"]
-                         [org.clojure/data.json "0.2.6"]
-                         [org.clojure/data.priority-map "0.0.9"]
+                         [org.clojure/data.json "2.4.0"]
+                         [org.clojure/data.priority-map "1.1.0"]
 
                          [org.slf4j/log4j-over-slf4j "1.7.20"]
                          [org.slf4j/slf4j-api "1.7.20"]
