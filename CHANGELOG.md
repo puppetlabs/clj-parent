@@ -1,4 +1,5 @@
 ## [Unreleased]
+- update http-client to 2.0.0 to change default protocols to TLSv1.3 and TLSv1.2, remove TLSv1.1 and TLSv1.
 
 - Update jruby-utils to 4.0.0, which updates JRuby to 9.3.4.0.
 
