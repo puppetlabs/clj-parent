@@ -1,5 +1,6 @@
 ## [Unreleased]
 
+## [5.0.0]
 - update clojure to 1.11 https://github.com/clojure/clojure/blob/master/changes.md#changes-to-clojure-in-version-1110
 - update clojure/tools.logging to 1.2.4 from 0.4.0 https://github.com/clojure/tools.logging/blob/master/CHANGELOG.md
 - update clojure/tools.cli to 1.0.206 from 0.3.6  https://github.com/clojure/tools.cli/blob/master/CHANGELOG.md
