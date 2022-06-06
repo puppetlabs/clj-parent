@@ -1,4 +1,2 @@
-# This will cause the following groups to be assigned review
-# of any opened PRs against the branches containing this file.
-
-* @puppetlabs/puppetserver-maintainers @puppetlabs/dumpling @puppetlabs/skeletor @puppetlabs/puppetdb
+# This repo is owned by the dumpling team
+* @puppetlabs/dumpling
