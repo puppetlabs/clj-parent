@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [4.11.0]
+- Update tk-jetty9 to 4.3.0, which includes Jetty 9.4.44 and updates to the default cipher suites.
+
 ## [4.10.1]
 - Update ssl-utils to 3.4.1, which makes public the `SSUtils.managerFactoriesToSSLContext` helper.
 
