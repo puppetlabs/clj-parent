@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [5.1.0]
+- Update tk-jetty9 to 4.3.0, which includes Jetty 9.4.44 and updates to the default cipher suites.
+
 ## [5.0.1]
 - update jruby-utils to 4.0.1, which unpins jnr-posix in jruby-deps to resolve a pedantic dependency conflict
 
