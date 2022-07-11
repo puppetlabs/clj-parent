@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [4.11.1]
+- update tk-jetty9 to 4.3.1, which includes Jetty 9.4.48
+
 ## [4.11.0]
 - Update tk-jetty9 to 4.3.0, which includes Jetty 9.4.44 and updates to the default cipher suites.
 
