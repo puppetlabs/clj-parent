@@ -1,4 +1,5 @@
 ## [Unreleased]
+- Update clj-rbac-client to 1.1.3, which includes an updated parse-subject function
 
 ## [5.1.1]
 - update tk-jetty9 to 4.3.1 which includes Jetty 9.4.48
