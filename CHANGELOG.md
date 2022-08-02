@@ -1,4 +1,6 @@
 ## [Unreleased]
+
+## [5.2.0]
 - Update clj-rbac-client to 1.1.3, which includes an updated parse-subject function
 
 ## [5.1.1]
