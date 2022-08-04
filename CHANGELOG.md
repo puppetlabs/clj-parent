@@ -1,4 +1,5 @@
 ## [Unreleased]
+- update postgres driver to 42.4.1 to address CVE-2022-31197
 
 ## [5.2.0]
 - Update clj-rbac-client to 1.1.3, which includes an updated parse-subject function
