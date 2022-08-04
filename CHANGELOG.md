@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [4.11.2]
+- update postgres driver to 42.4.1 to address CVE-2022-31197
+
 ## [4.11.1]
 - update tk-jetty9 to 4.3.1, which includes Jetty 9.4.48
 
