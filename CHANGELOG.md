@@ -1,4 +1,6 @@
 ## [Unreleased]
+
+## [4.11.2]
 - update postgres driver to 42.4.1 to address CVE-2022-31197
 
 ## [4.11.1]
