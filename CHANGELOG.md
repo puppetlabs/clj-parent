@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+- Update honeysql (v2) to 2.3.911, which includes support for postgres json operators
+
 ## [5.2.1]
 - update postgres driver to 42.4.1 to address CVE-2022-31197
 
