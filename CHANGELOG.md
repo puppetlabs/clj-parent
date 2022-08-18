@@ -1,5 +1,6 @@
 ## [Unreleased]
 
+## [5.2.2]
 - Update honeysql (v2) to 2.3.911, which includes support for postgres json operators
 
 ## [5.2.1]
