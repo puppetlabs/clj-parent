@@ -1,4 +1,5 @@
 ## [Unreleased]
+- Update jruby-utils which brings in jruby-deps 9.3.8.0-1 & JRuby 9.3.8
 
 ## [5.2.5]
 - roll bouncycastle jdk18on dependencies back to 1.71 because 1.72 is not currently on maven central.
