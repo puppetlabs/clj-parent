@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [5.2.3]
+- Add org.bouncycastle/bctls-jdk15on, which was previously being managed per-project
+
 ## [5.2.2]
 - Update honeysql (v2) to 2.3.911, which includes support for postgres json operators
 

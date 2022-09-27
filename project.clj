@@ -141,7 +141,8 @@
                          [org.bouncycastle/bcpkix-fips "1.0.5"]
                          [org.bouncycastle/bc-fips "1.0.2.1"]
                          [org.bouncycastle/bctls-fips "1.0.11.4"]
-                         [org.bouncycastle/bcpkix-jdk15on "1.70"]]
+                         [org.bouncycastle/bcpkix-jdk15on "1.70"]
+                         [org.bouncycastle/bctls-jdk15on "1.70"]]
 
   :dependencies [[org.clojure/clojure]]
 
