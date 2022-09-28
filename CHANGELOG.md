@@ -1,5 +1,10 @@
 ## [Unreleased]
 
+## [5.2.4]
+- Add org.bouncycastle/bcpkix-jdk18on and org.bouncycastle/bctls-jdk18on which were recently added when they dropped support of jdk8
+- Add org.bouncycastle/bcprov-jdk18on and jdk15on for completeness
+- Add org.bouncycastle/bcutil-jdk18on and jdk15on for completeness
+
 ## [5.2.3]
 - Add org.bouncycastle/bctls-jdk15on, which was previously being managed per-project
 
@@ -59,7 +64,7 @@
 - update comidi to 1.0.0 to include PATCH macro.
 - update httpasync-client to 4.1.5 to fix async issues seen in testing.  https://downloads.apache.org/httpcomponents/httpasyncclient/RELEASE_NOTES-4.1.x.txt
 - update httpasync-core to 4.4.15 to fix async issues seen in testing.  https://downloads.apache.org/httpcomponents/httpcore/RELEASE_NOTES-4.4.x.txt (HTTPCORE-687) and "Bug fix: Non-blocking TLSv1.3 connections can end up in an infinite event spin when closed
-  concurrently by the local and the remote endpoints." 
+  concurrently by the local and the remote endpoints."
 - Update ring-json to 0.5.1, which updates dependencies to avoid CVEs and has a small perf improvement
 
 ## [4.9.4]
