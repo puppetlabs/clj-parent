@@ -1,4 +1,5 @@
 ## [Unreleased]
+- update the bouncycastle fips versions to bcpkix-fips 1.0.6, bc-fips 1.0.2.3, bctls-fips 1.0.13 so the FOSS builds match
 
 ## [5.2.5]
 - roll bouncycastle jdk18on dependencies back to 1.71 because 1.72 is not currently on maven central.
