@@ -142,7 +142,16 @@
                          [org.bouncycastle/bc-fips "1.0.2.1"]
                          [org.bouncycastle/bctls-fips "1.0.11.4"]
                          [org.bouncycastle/bcpkix-jdk15on "1.70"]
-                         [org.bouncycastle/bctls-jdk15on "1.70"]]
+                         [org.bouncycastle/bctls-jdk15on "1.70"]
+                         [org.bouncycastle/bcprov-jdk15on "1.70"]
+                         [org.bouncycastle/bcutil-jdk15on "1.70"]
+                         ;; bouncy castle renamed the libraries based on jdk8 coverage.
+                         ;; the versions for jdk15on can be removed when nothing is
+                         ;; using them anymore.
+                         [org.bouncycastle/bcpkix-jdk18on "1.72"]
+                         [org.bouncycastle/bctls-jdk18on "1.72"]
+                         [org.bouncycastle/bcprov-jdk18on "1.72"]
+                         [org.bouncycastle/bcutil-jdk18on "1.72"]]
 
   :dependencies [[org.clojure/clojure]]
 
