@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [5.2.5]
+- roll bouncycastle jdk18on dependencies back to 1.71 because 1.72 is not currently on maven central.
+
 ## [5.2.4]
 - Add org.bouncycastle/bcpkix-jdk18on and org.bouncycastle/bctls-jdk18on which were recently added when they dropped support of jdk8
 - Add org.bouncycastle/bcprov-jdk18on and jdk15on for completeness
