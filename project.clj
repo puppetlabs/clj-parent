@@ -148,10 +148,10 @@
                          ;; bouncy castle renamed the libraries based on jdk8 coverage.
                          ;; the versions for jdk15on can be removed when nothing is
                          ;; using them anymore.
-                         [org.bouncycastle/bcpkix-jdk18on "1.72"]
-                         [org.bouncycastle/bctls-jdk18on "1.72"]
-                         [org.bouncycastle/bcprov-jdk18on "1.72"]
-                         [org.bouncycastle/bcutil-jdk18on "1.72"]]
+                         [org.bouncycastle/bcpkix-jdk18on "1.71"]
+                         [org.bouncycastle/bctls-jdk18on "1.71"]
+                         [org.bouncycastle/bcprov-jdk18on "1.71"]
+                         [org.bouncycastle/bcutil-jdk18on "1.71"]]
 
   :dependencies [[org.clojure/clojure]]
 
