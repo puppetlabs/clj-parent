@@ -1,4 +1,6 @@
 ## [Unreleased]
+
+## [5.2.6]
 - update the bouncycastle fips versions to bcpkix-fips 1.0.6, bc-fips 1.0.2.3, bctls-fips 1.0.13 so the FOSS builds match
 
 ## [5.2.5]
