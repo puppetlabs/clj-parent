@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+##[5.2.8]
+- update ssl-utils to 3.5.0 to use the `18on` version of the bouncycastle libraries instead of the recently renamed `15on`
+
 ## [5.2.7]
 - update trapperkeeper-metrics, clj-http-client, trapperkeeper-webserver-jetty9, dujour and the analytics client to new versions that are based on `clj-parent 5.2.6`, and shift to the `18on` version of bouncycastle from the `15on` versions.
 
