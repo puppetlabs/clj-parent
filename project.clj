@@ -1,8 +1,8 @@
 (def clj-version "1.11.1")
 (def ks-version "3.2.0")
 (def tk-version "3.1.0")
-(def tk-jetty-version "4.3.1")
-(def tk-metrics-version "1.4.3")
+(def tk-jetty-version "4.4.0")
+(def tk-metrics-version "1.5.0")
 (def logback-version "1.2.9")
 (def rbac-client-version "1.1.3")
 (def dropwizard-metrics-version "3.2.2")
@@ -103,7 +103,7 @@
                          [prismatic/plumbing "0.4.2"]
                          [prismatic/schema "1.1.12"]
 
-                         [puppetlabs/http-client "2.0.0"]
+                         [puppetlabs/http-client "2.1.0"]
                          [puppetlabs/jdbc-util "1.3.0"]
                          [puppetlabs/typesafe-config "0.2.0"]
                          [puppetlabs/ssl-utils "3.4.1"]
@@ -122,14 +122,14 @@
                          [puppetlabs/trapperkeeper-filesystem-watcher "1.2.2"]
                          [puppetlabs/structured-logging "0.2.0"]
                          [puppetlabs/ring-middleware "1.3.1"]
-                         [puppetlabs/dujour-version-check "0.3.1"]
+                         [puppetlabs/dujour-version-check "1.0.0"]
                          [puppetlabs/comidi "1.0.0"]
                          [puppetlabs/trapperkeeper-comidi-metrics "0.1.1"]
                          [puppetlabs/i18n "0.9.2"]
                          [puppetlabs/cljs-dashboard-widgets "0.1.0"]
                          [puppetlabs/rbac-client ~rbac-client-version]
                          [puppetlabs/rbac-client ~rbac-client-version :classifier "test"]
-                         [puppetlabs/analytics-client "1.1.1"]
+                         [puppetlabs/analytics-client "1.2.0"]
                          [puppetlabs/clj-shell-utils "1.0.2"]
                          [puppetlabs/jruby-utils "4.0.1"]
 
