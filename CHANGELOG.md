@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [5.2.7]
+- update trapperkeeper-metrics, clj-http-client, trapperkeeper-webserver-jetty9, dujour and the analytics client to new versions that are based on `clj-parent 5.2.6`, and shift to the `18on` version of bouncycastle from the `15on` versions.
+
 ## [5.2.6]
 - update the bouncycastle fips versions to bcpkix-fips 1.0.6, bc-fips 1.0.2.3, bctls-fips 1.0.13 so the FOSS builds match
 
