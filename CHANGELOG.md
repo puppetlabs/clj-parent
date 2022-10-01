@@ -1,4 +1,6 @@
 ## [Unreleased]
+
+## [5.2.9]
 - add stylefruits/gniazdo to avoid version conflicts in dependent projects
 
 ## [5.2.8]
