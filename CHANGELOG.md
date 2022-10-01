@@ -1,6 +1,7 @@
 ## [Unreleased]
+- add stylefruits/gniazdo to avoid version conflicts in dependent projects
 
-##[5.2.8]
+## [5.2.8]
 - update ssl-utils to 3.5.0 to use the `18on` version of the bouncycastle libraries instead of the recently renamed `15on`
 
 ## [5.2.7]

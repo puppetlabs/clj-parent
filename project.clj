@@ -99,9 +99,9 @@
                          [com.github.seancorfield/honeysql "2.3.911"]
                          [org.postgresql/postgresql "42.4.1"]
                          [medley "1.0.0"]
-
                          [prismatic/plumbing "0.4.2"]
                          [prismatic/schema "1.1.12"]
+                         [stylefruits/gniazdo "1.2.1"]
 
                          [puppetlabs/http-client "2.1.0"]
                          [puppetlabs/jdbc-util "1.3.0"]
