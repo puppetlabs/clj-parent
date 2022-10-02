@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [5.2.10]
+- bump trapperkeeper-webserver-jetty9 to 4.4.1, which makes use of the stylefruits/gniazdo version from this project.
+
 ## [5.2.9]
 - add stylefruits/gniazdo to avoid version conflicts in dependent projects
 
