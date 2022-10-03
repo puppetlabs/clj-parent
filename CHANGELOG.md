@@ -1,5 +1,10 @@
 ## [Unreleased]
 
+## [5.2.11]
+- Update snakeyaml to 1.33 to address CVE-2022-38751
+- Update jackson libraries to 2.13.4 to address https://security.snyk.io/vuln/SNYK-JAVA-COMFASTERXMLJACKSONCORE-3038424
+- Update commons-codec to 1.15 to address https://security.snyk.io/vuln/SNYK-JAVA-COMMONSCODEC-561518
+
 ## [5.2.10]
 - bump trapperkeeper-webserver-jetty9 to 4.4.1, which makes use of the stylefruits/gniazdo version from this project.
 
