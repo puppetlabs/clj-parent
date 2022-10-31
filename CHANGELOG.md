@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [5.2.13]
+- Update clj-http-client to 2.1.1, fixes connection reuse when using an SSL client certificate
+
 ## [5.2.12]
 - Update clj-rbac-client to 1.1.4, adds optional identity provider id to RBAC subject
 
