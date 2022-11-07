@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [5.2.14]
+- Update jackson libraries to 2.14.0 to resolve CVE-2022-42003 (https://security.snyk.io/vuln/SNYK-JAVA-COMFASTERXMLJACKSONCORE-3038426)
+
 ## [5.2.13]
 - Update clj-http-client to 2.1.1, fixes connection reuse when using an SSL client certificate
 
