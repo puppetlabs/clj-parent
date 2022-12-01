@@ -1,4 +1,6 @@
 ## [Unreleased]
+## [5.2.15]
+- Update jruby-utils which brings in jruby-deps 9.3.9.0-1 & JRuby 9.3.9
 
 ## [5.2.14]
 - Update jackson libraries to 2.14.0 to resolve CVE-2022-42003 (https://security.snyk.io/vuln/SNYK-JAVA-COMFASTERXMLJACKSONCORE-3038426)
