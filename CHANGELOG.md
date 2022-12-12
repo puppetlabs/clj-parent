@@ -1,4 +1,5 @@
 ## [Unreleased]
+- Upgrade kitchensink 3.2.1 for ini4j 0.5.4 to address CVE-2022-41404.
 - Upgrade postgresql driver to 42.4.3 to address
   [CVE-2022-41946](https://github.com/pgjdbc/pgjdbc/security/advisories/GHSA-562r-vg33-8x8h#event-84471).
 - Update snakeyaml to 1.33 to address CVE-2022-38751
