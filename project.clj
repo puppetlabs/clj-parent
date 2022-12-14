@@ -1,5 +1,5 @@
 (def clj-version "1.10.1")
-(def ks-version "3.2.0")
+(def ks-version "3.2.1")
 (def tk-version "3.1.0")
 (def tk-jetty-version "4.3.1")
 (def tk-metrics-version "1.4.3")
@@ -94,7 +94,7 @@
                          ;; Remove once all projects are updated to use honeysql 2.x
                          [honeysql "1.0.461"]
                          [com.github.seancorfield/honeysql "2.2.861"]
-                         [org.postgresql/postgresql "42.4.1"]
+                         [org.postgresql/postgresql "42.4.3"]
                          [medley "1.0.0"]
 
                          [prismatic/plumbing "0.4.2"]
