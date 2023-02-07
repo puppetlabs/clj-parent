@@ -107,7 +107,7 @@
                          [puppetlabs/jdbc-util "1.3.0"]
                          [puppetlabs/typesafe-config "0.2.0"]
                          [puppetlabs/ssl-utils "3.5.0"]
-                         [puppetlabs/clj-ldap "0.3.0"]
+                         [puppetlabs/clj-ldap "0.4.0"]
                          [puppetlabs/kitchensink ~ks-version]
                          [puppetlabs/kitchensink ~ks-version :classifier "test"]
                          [puppetlabs/trapperkeeper ~tk-version]
