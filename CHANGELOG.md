@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [5.2.17]
+- Upgrade clj-ldap to 0.4.0
+
 ## [5.2.16]
 - Upgrade kitchensink 3.2.1 for ini4j 0.5.4 to address CVE-2022-41404.
 - Upgrade postgresql driver to 42.4.3 to address
