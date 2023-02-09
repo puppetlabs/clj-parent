@@ -1,4 +1,6 @@
 ## [Unreleased]
+- Upgrade trapperkeeper to 3.2.1 to fix crashes on SIGHUP
+  [PDB-5215)](https://tickets.puppetlabs.com/browse/PDB-5215)
 
 ## [5.2.17]
 - Upgrade clj-ldap to 0.4.0
