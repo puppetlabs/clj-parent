@@ -1,4 +1,6 @@
-## [Unreleased]
+## [unreleased]
+
+## [5.3.0]
 - Upgrade trapperkeeper to 3.2.1 to fix crashes on SIGHUP
   [PDB-5215)](https://tickets.puppetlabs.com/browse/PDB-5215)
 
