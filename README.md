@@ -31,6 +31,10 @@ If you are an external contributor, you may request a release, or just wait unti
 To create a release of clj-parent, first determine the release version.
 The release should reflect the updated projects. For example, if a component is updated to a new feature (Y) release, clj-parent should get a new feature (Y) release.
 
-If releasing a new X or Y version, open a PR to update the [SNAPSHOT release version](https://github.com/puppetlabs/clj-parent/blob/main/project.clj#L10) to the next `x.y.0-SNAPSHOT` version.
+If releasing a new X or Y version, open a PR to update the
+[SNAPSHOT release version](https://github.com/puppetlabs/clj-parent/blob/main/project.clj#L10)
+to the next `x.y.0-SNAPSHOT` version.
 
-Once merged, run [the release pipeline](https://cinext-jenkinsmaster-enterprise-prod-1.delivery.puppetlabs.net/job/enterprise_clj-parent_release-clj_main/) with default parameters.
+Once merged, run [the release pipeline](https://cinext-jenkinsmaster-enterprise-prod-1.delivery.puppetlabs.net/job/enterprise_clj-parent_release-clj_main/)
+with default parameters, which will handle the relevant updates to the
+project.clj version for the release.
