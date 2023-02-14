@@ -1,4 +1,5 @@
 ## [unreleased]
+## update tk-auth to 2.0.0 with updated dependencies
 
 ## [5.3.0]
 - Upgrade trapperkeeper to 3.2.1 to fix crashes on SIGHUP
