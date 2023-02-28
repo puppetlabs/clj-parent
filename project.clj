@@ -70,7 +70,7 @@
                          [clj-time "0.11.0"]
                          [clj-commons/clj-yaml "0.7.2"]
                          [clj-stacktrace "0.2.8"]
-                         [com.zaxxer/HikariCP "2.7.4"]
+                         [com.zaxxer/HikariCP "5.0.1"]
                          [clj-commons/fs "1.6.307"]
                          [instaparse "1.4.1"]
                          [slingshot "0.12.2"]
@@ -104,7 +104,7 @@
                          [stylefruits/gniazdo "1.2.1"]
 
                          [puppetlabs/http-client "2.1.1"]
-                         [puppetlabs/jdbc-util "1.3.0"]
+                         [puppetlabs/jdbc-util "1.4.0"]
                          [puppetlabs/typesafe-config "0.2.0"]
                          [puppetlabs/ssl-utils "3.5.0"]
                          [puppetlabs/clj-ldap "0.4.0"]
