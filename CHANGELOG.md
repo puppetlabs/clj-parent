@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [5.3.1]
+- Upgrade HikariCP to 5.0.1 from 2.7.4.
+
 ## [5.3.0]
 - Upgrade trapperkeeper to 3.2.1 to fix crashes on SIGHUP
   [PDB-5215)](https://tickets.puppetlabs.com/browse/PDB-5215)
