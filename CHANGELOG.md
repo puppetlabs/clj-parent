@@ -1,5 +1,9 @@
 ## [unreleased]
 
+## [5.3.2]
+- Upgrade logback to 1.3.5 from 1.2.9, upgrade logback dependencies to 2.0.6.
+- Upgrade trapperkeeper to 3.3.0 from 3.2.1.
+
 ## [5.3.1]
 - Upgrade HikariCP to 5.0.1 from 2.7.4.
 

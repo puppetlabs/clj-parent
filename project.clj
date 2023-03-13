@@ -1,9 +1,9 @@
 (def clj-version "1.11.1")
 (def ks-version "3.2.1")
-(def tk-version "3.2.1")
+(def tk-version "3.3.0")
 (def tk-jetty-version "4.4.1")
 (def tk-metrics-version "1.5.0")
-(def logback-version "1.2.9")
+(def logback-version "1.3.5")
 (def rbac-client-version "1.1.4")
 (def dropwizard-metrics-version "3.2.2")
 
@@ -34,9 +34,9 @@
                          [org.clojure/data.json "2.4.0"]
                          [org.clojure/data.priority-map "1.1.0"]
 
-                         [org.slf4j/log4j-over-slf4j "1.7.20"]
-                         [org.slf4j/slf4j-api "1.7.20"]
-                         [org.slf4j/jul-to-slf4j "1.7.20"]
+                         [org.slf4j/slf4j-api "2.0.6"]
+                         [org.slf4j/log4j-over-slf4j "2.0.6"]
+                         [org.slf4j/jul-to-slf4j "2.0.6"]
                          [ch.qos.logback/logback-classic ~logback-version]
                          [ch.qos.logback/logback-core ~logback-version]
                          [ch.qos.logback/logback-access ~logback-version]
