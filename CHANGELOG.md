@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [5.3.4]
+- update tk-jetty-9 to 4.4.2 to resolve CVE-2023-26048
+
 ## [5.3.3]
 - Revert logback upgrade in 5.3.2 until compatibility issue is resolved.
 
