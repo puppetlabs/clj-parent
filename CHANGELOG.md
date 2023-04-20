@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [5.3.5]
+- update tk-jetty-9 to 4.4.3 to maintain compatibility with FOSS 7.x
+
 ## [5.3.4]
 - update tk-jetty-9 to 4.4.2 to resolve CVE-2023-26048
 
