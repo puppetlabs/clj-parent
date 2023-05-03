@@ -1,4 +1,5 @@
 ## [unreleased]
+- Update logback to 1.2.12, to fix logging issues relative to jetty 10
 
 ## [5.4.0]
 - Update jruby-utils which brings in jruby-deps 9.4.2.0-1 & Jruby 9.4.2.0
