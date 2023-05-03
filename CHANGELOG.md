@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [5.4.0]
+- Update jruby-utils which brings in jruby-deps 9.4.2.0-1 & Jruby 9.4.2.0
+
 ## [5.3.5]
 - update tk-jetty-9 to 4.4.3 to maintain compatibility with FOSS 7.x
 
