@@ -1,6 +1,9 @@
 ## [unreleased]
 
-## [5.4.0]
+## [6.0.0]
+- update versioning for jruby update.  5.x branch created from 5.3.5
+
+## [5.3.6] 
 - Update jruby-utils which brings in jruby-deps 9.4.2.0-1 & Jruby 9.4.2.0
 
 ## [5.3.5]
