@@ -3,7 +3,7 @@
 (def tk-version "3.2.1")
 (def tk-jetty-version "4.4.3")
 (def tk-metrics-version "1.5.0")
-(def logback-version "1.2.9")
+(def logback-version "1.2.12")
 (def rbac-client-version "1.1.4")
 (def dropwizard-metrics-version "3.2.2")
 

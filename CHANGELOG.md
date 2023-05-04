@@ -1,4 +1,5 @@
 ## [unreleased]
+- Update logback to 1.2.12, to fix logging issues relative to jetty 10
 
 ## [6.0.0]
 - update versioning for jruby update.  5.x branch created from 5.3.5
