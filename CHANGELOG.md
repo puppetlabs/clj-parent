@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [5.3.7]
+- branched from 5.3.5 and updated version to 5.3.7 to avoid 5.3.6 which had an unintented jruby bump
+
 ## [5.3.5]
 - update tk-jetty-9 to 4.4.3 to maintain compatibility with FOSS 7.x
 
