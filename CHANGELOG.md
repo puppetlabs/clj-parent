@@ -1,4 +1,7 @@
 ## [unreleased]
+
+# [6.0.1]
+- Update clj-kitchensink to 3.2.3 to bring in new time conversion and version comparison functions
 - Update logback to 1.2.12, to fix logging issues relative to jetty 10
 
 ## [6.0.0]
