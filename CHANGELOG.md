@@ -1,4 +1,5 @@
 ## [unreleased]
+- BREAKING CHANGE: update trapperkeeper to 4.0.0 which removes yaml config support and remove clj-yaml
 
 # [6.0.1]
 - Update clj-kitchensink to 3.2.3 to bring in new time conversion and version comparison functions
