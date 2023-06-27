@@ -1,13 +1,13 @@
 (def clj-version "1.11.1")
 (def ks-version "3.2.3")
-(def tk-version "3.2.1")
+(def tk-version "4.0.0")
 (def tk-jetty-version "4.4.3")
 (def tk-metrics-version "1.5.0")
 (def logback-version "1.2.12")
 (def rbac-client-version "1.1.4")
 (def dropwizard-metrics-version "3.2.2")
 
-(defproject puppetlabs/clj-parent "6.0.2-SNAPSHOT"
+(defproject puppetlabs/clj-parent "7.0.0-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.
@@ -68,7 +68,6 @@
                          [nrepl/nrepl "0.6.0"]
                          [bidi "2.1.3"]
                          [clj-time "0.11.0"]
-                         [clj-commons/clj-yaml "0.7.2"]
                          [clj-stacktrace "0.2.8"]
                          [com.zaxxer/HikariCP "5.0.1"]
                          [clj-commons/fs "1.6.307"]
