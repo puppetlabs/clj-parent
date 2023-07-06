@@ -1,4 +1,5 @@
 ## [unreleased]
+- remove use of ring-defaults, update tk-metrics and tk-status to versions without use of ring-defaults
 
 ## [5.3.7]
 - branched from 5.3.5 and updated version to 5.3.7 to avoid 5.3.6 which had an unintented jruby bump
