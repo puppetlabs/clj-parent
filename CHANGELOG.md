@@ -1,4 +1,6 @@
 ## [unreleased]
+
+# [7.0.1]
 - remove use of ring-defaults, update tk-metrics and tk-status to versions without use of ring-defaults
 
 # [7.0.0]
