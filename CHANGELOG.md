@@ -1,5 +1,8 @@
 ## [unreleased]
 
+# [7.0.1]
+- remove use of ring-defaults, update tk-metrics and tk-status to versions without use of ring-defaults
+
 # [7.0.0]
 - BREAKING CHANGE: update trapperkeeper to 4.0.0 which removes yaml config support and remove clj-yaml
 
@@ -10,7 +13,7 @@
 ## [6.0.0]
 - update versioning for jruby update.  5.x branch created from 5.3.5
 
-## [5.3.6] 
+## [5.3.6]
 - Update jruby-utils which brings in jruby-deps 9.4.2.0-1 & Jruby 9.4.2.0
 
 ## [5.3.5]

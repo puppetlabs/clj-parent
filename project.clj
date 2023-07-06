@@ -2,7 +2,7 @@
 (def ks-version "3.2.3")
 (def tk-version "4.0.0")
 (def tk-jetty-version "4.4.3")
-(def tk-metrics-version "1.5.0")
+(def tk-metrics-version "1.5.1")
 (def logback-version "1.2.12")
 (def rbac-client-version "1.1.4")
 (def dropwizard-metrics-version "3.2.2")
@@ -82,7 +82,6 @@
                          [ring/ring-json "0.5.1"]
                          [ring-basic-authentication "1.1.0"]
                          [ring/ring-mock "0.4.0"]
-                         [ring/ring-defaults "0.3.2"]
                          [stencil "0.5.0"]
                          [beckon "0.1.1"]
                          [hiccup "1.0.5"]
@@ -117,7 +116,7 @@
                          [puppetlabs/trapperkeeper-metrics ~tk-metrics-version :classifier "test"]
                          [puppetlabs/trapperkeeper-scheduler "1.1.3"]
                          [puppetlabs/trapperkeeper-authorization "1.0.0"]
-                         [puppetlabs/trapperkeeper-status "1.1.1"]
+                         [puppetlabs/trapperkeeper-status "1.1.2"]
                          [puppetlabs/trapperkeeper-filesystem-watcher "1.2.2"]
                          [puppetlabs/structured-logging "0.2.0"]
                          [puppetlabs/ring-middleware "1.3.1"]
