@@ -1,4 +1,6 @@
 ## [unreleased]
+
+## [5.3.8]
 - remove use of ring-defaults, update tk-metrics and tk-status to versions without use of ring-defaults
 
 ## [5.3.7]
