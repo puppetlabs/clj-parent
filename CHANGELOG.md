@@ -1,5 +1,9 @@
 ## [unreleased]
 
+# [7.0.2]
+- update jvm-ssl-utils to bring in the ability to create CSRs (in the simple namepace) with attributes
+- update jvm-ssl-utils to bring in the ability to extract attributes from CSRs
+
 # [7.0.1]
 - remove use of ring-defaults, update tk-metrics and tk-status to versions without use of ring-defaults
 
