@@ -1,5 +1,8 @@
 ## [unreleased]
 
+# [7.0.3]
+- update trapperkeeper-webserver-jetty9 to 4.5.0, adds opt-in feature to provide access to pending jetty response.
+
 # [7.0.2]
 - update jvm-ssl-utils to bring in the ability to create CSRs (in the simple namepace) with attributes
 - update jvm-ssl-utils to bring in the ability to extract attributes from CSRs
