@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [5.3.9]
+- update trapperkeeper to 3.3.1 to remove the dependency on clj-yaml
+
 ## [5.3.8]
 - remove use of ring-defaults, update tk-metrics and tk-status to versions without use of ring-defaults
 
