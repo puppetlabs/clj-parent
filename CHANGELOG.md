@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [5.4.0]
+- update logback to version 1.3.7, 1.2.x is no longer maintained
+
 ## [5.3.9]
 - update trapperkeeper to 3.3.1 to remove the dependency on clj-yaml
 
