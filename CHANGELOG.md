@@ -1,6 +1,8 @@
 ## [unreleased]
 
+# [7.1.0]
 - update snakeyaml to 2.0 from 1.3.3 to address CVE-2022-1471
+- update logback to version 1.3.7, 1.2.x is no longer maintained
 
 # [7.0.3]
 - update trapperkeeper-webserver-jetty9 to 4.5.0, adds opt-in feature to provide access to pending jetty response.
