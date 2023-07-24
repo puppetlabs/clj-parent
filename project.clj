@@ -3,11 +3,11 @@
 (def tk-version "4.0.0")
 (def tk-jetty-version "4.5.0")
 (def tk-metrics-version "1.5.1")
-(def logback-version "1.2.12")
+(def logback-version "1.3.7")
 (def rbac-client-version "1.1.4")
 (def dropwizard-metrics-version "3.2.2")
 
-(defproject puppetlabs/clj-parent "7.0.4-SNAPSHOT"
+(defproject puppetlabs/clj-parent "7.1.0-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.
@@ -34,13 +34,13 @@
                          [org.clojure/data.json "2.4.0"]
                          [org.clojure/data.priority-map "1.1.0"]
 
-                         [org.slf4j/log4j-over-slf4j "1.7.20"]
-                         [org.slf4j/slf4j-api "1.7.20"]
-                         [org.slf4j/jul-to-slf4j "1.7.20"]
+                         [org.slf4j/log4j-over-slf4j "2.0.7"]
+                         [org.slf4j/slf4j-api "2.0.7"]
+                         [org.slf4j/jul-to-slf4j "2.0.7"]
                          [ch.qos.logback/logback-classic ~logback-version]
                          [ch.qos.logback/logback-core ~logback-version]
                          [ch.qos.logback/logback-access ~logback-version]
-                         [net.logstash.logback/logstash-logback-encoder "5.0"]
+                         [net.logstash.logback/logstash-logback-encoder "7.3"]
                          [org.codehaus.janino/janino "3.0.8"]
                          [com.fasterxml.jackson.core/jackson-core "2.14.0"]
                          [com.fasterxml.jackson.core/jackson-databind "2.14.0"]
