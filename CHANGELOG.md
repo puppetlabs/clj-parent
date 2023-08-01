@@ -1,7 +1,7 @@
 ## [unreleased]
 
 ## [5.5.0]
-- BREAKING CHANGE: update trapperkeeper to 4.0.0 which removes yaml config support and remove clj-yaml
+- remove clj-yaml dependency to eliminate exposure to snakeyaml 1.33 CVE
 
 ## [5.4.0]
 - update logback to version 1.3.7, 1.2.x is no longer maintained
