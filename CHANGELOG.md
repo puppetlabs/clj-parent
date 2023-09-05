@@ -1,5 +1,8 @@
 ## [unreleased]
 
+# [7.1.1]
+- update trapperkeeper-authorization to 2.0.1 to remove verbose warnings, and update dependencies
+
 # [7.1.0]
 - update snakeyaml to 2.0 from 1.3.3 to address CVE-2022-1471
 - update logback to version 1.3.7, 1.2.x is no longer maintained
