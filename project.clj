@@ -115,7 +115,7 @@
                          [puppetlabs/trapperkeeper-metrics ~tk-metrics-version]
                          [puppetlabs/trapperkeeper-metrics ~tk-metrics-version :classifier "test"]
                          [puppetlabs/trapperkeeper-scheduler "1.1.3"]
-                         [puppetlabs/trapperkeeper-authorization "1.0.0"]
+                         [puppetlabs/trapperkeeper-authorization "2.0.1"]
                          [puppetlabs/trapperkeeper-status "1.1.2"]
                          [puppetlabs/trapperkeeper-filesystem-watcher "1.2.2"]
                          [puppetlabs/structured-logging "0.2.0"]
