@@ -1,4 +1,5 @@
 ## [unreleased]
+- update joda-time
 
 ## [5.5.0]
 - remove clj-yaml dependency to eliminate exposure to snakeyaml 1.33 CVE

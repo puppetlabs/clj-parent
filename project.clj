@@ -60,7 +60,7 @@
                          [commons-lang "2.6"]
                          [commons-logging "1.2"]
                          [commons-io "2.8.0"]
-                         [joda-time "2.8.2"]
+                         [joda-time "2.12.5"]
 
                          [com.taoensso/nippy "3.1.1"]
                          [com.taoensso/encore "3.9.2"]
