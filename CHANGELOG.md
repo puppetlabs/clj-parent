@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [5.5.1]
+- Update jvm-ssl-utils to 3.5.1, as needed for BouncyCastle 1.76. Also adds the ability to create CSRs with attributes and extract attributes from CSRs
+
 ## [5.5.0]
 - remove clj-yaml dependency to eliminate exposure to snakeyaml 1.33 CVE
 
