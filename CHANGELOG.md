@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [5.5.2]
+- update trapperkeeper-webserver-jetty9 to 4.5.1 to address multiple CVEs
+
 ## [5.5.1]
 - Update jvm-ssl-utils to 3.5.1, as needed for BouncyCastle 1.76. Also adds the ability to create CSRs with attributes and extract attributes from CSRs
 
