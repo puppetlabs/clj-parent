@@ -1,5 +1,8 @@
 ## [unreleased]
 
+# [7.1.2]
+- update trapperkeeper-webserver-jetty9 to 4.5.1 to address multiple CVEs.
+
 # [7.1.1]
 - update trapperkeeper-authorization to 2.0.1 to remove verbose warnings, and update dependencies
 
