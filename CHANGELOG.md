@@ -1,5 +1,8 @@
 ## [unreleased]
 
+# [7.2.1]
+- roll bouncycastle back to 1.74 to resolve jRuby issues with using deprecated interfaces
+
 # [7.2.0]
 - update joda-time
 - update bouncycastle versions, remove jdk15on versions as we no longer use them
