@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [5.6.1]
+- roll bouncycastle back to 1.74 to resolve issues with jRuby compatibility.
+
 ## [5.6.0]
 - update joda-time
 - update bouncycastle versions, remove jdk15on versions as we no longer use them
