@@ -1,5 +1,6 @@
 ## [unreleased]
 - update joda-time
+- update bouncycastle versions, remove jdk15on versions as we no longer use them
 
 ## [5.5.2]
 - update trapperkeeper-webserver-jetty9 to 4.5.1 to address multiple CVEs

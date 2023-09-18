@@ -136,20 +136,13 @@
                          ;; for BC (ie, clj-parent manages these versions for
                          ;; dev and FOSS, PE is managed via packages):
                          ;; https://github.com/puppetlabs/bouncy-castle-vanagon
-                         [org.bouncycastle/bcpkix-fips "1.0.6"]
+                         [org.bouncycastle/bcpkix-fips "1.0.7"]
                          [org.bouncycastle/bc-fips "1.0.2.3"]
-                         [org.bouncycastle/bctls-fips "1.0.13"]
-                         [org.bouncycastle/bcpkix-jdk15on "1.70"]
-                         [org.bouncycastle/bctls-jdk15on "1.70"]
-                         [org.bouncycastle/bcprov-jdk15on "1.70"]
-                         [org.bouncycastle/bcutil-jdk15on "1.70"]
-                         ;; bouncy castle renamed the libraries based on jdk8 coverage.
-                         ;; the versions for jdk15on can be removed when nothing is
-                         ;; using them anymore.
-                         [org.bouncycastle/bcpkix-jdk18on "1.71"]
-                         [org.bouncycastle/bctls-jdk18on "1.71"]
-                         [org.bouncycastle/bcprov-jdk18on "1.71"]
-                         [org.bouncycastle/bcutil-jdk18on "1.71"]]
+                         [org.bouncycastle/bctls-fips "1.0.17"]
+                         [org.bouncycastle/bcpkix-jdk18on "1.76"]
+                         [org.bouncycastle/bctls-jdk18on "1.76"]
+                         [org.bouncycastle/bcprov-jdk18on "1.76"]
+                         [org.bouncycastle/bcutil-jdk18on "1.76"]]
 
   :dependencies [[org.clojure/clojure]]
 
