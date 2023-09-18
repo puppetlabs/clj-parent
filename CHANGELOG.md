@@ -1,4 +1,7 @@
 ## [unreleased]
+
+# [7.2.0]
+- update joda-time
 - update bouncycastle versions, remove jdk15on versions as we no longer use them
 
 # [7.1.2]
