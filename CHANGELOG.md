@@ -1,5 +1,8 @@
 ## [unreleased]
 
+# [7.2.2]
+- update jvm-ssl-utils to 3.5.2 to address a stack overflow in certificates with tags
+
 # [7.2.1]
 - roll bouncycastle back to 1.74 to resolve jRuby issues with using deprecated interfaces
 
