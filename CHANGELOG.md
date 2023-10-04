@@ -1,5 +1,6 @@
 ## [unreleased]
 
+## [5.6.3]
 - update bc-fips to resolve CVE-2022-45156 and CVE-2023-33202
 
 ## [5.6.2]
