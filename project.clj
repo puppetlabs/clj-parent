@@ -137,7 +137,7 @@
                          ;; dev and FOSS, PE is managed via packages):
                          ;; https://github.com/puppetlabs/bouncy-castle-vanagon
                          [org.bouncycastle/bcpkix-fips "1.0.7"]
-                         [org.bouncycastle/bc-fips "1.0.2.3"]
+                         [org.bouncycastle/bc-fips "1.0.2.4"]
                          [org.bouncycastle/bctls-fips "1.0.17"]
                          [org.bouncycastle/bcpkix-jdk18on "1.74"]
                          [org.bouncycastle/bctls-jdk18on "1.74"]

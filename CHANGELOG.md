@@ -1,5 +1,7 @@
 ## [unreleased]
 
+- update bc-fips to resolve CVE-2022-45156 and CVE-2023-33202
+
 ## [5.6.2]
 - update jvm-ssl-utils to 3.5.2 to address a stack overflow in certificates with tags
 
