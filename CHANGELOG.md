@@ -1,4 +1,5 @@
 ## [unreleased]
+- update trapperkeeper-webserver-jetty9 to resolve CVE-2023-36478 and CVE-2023-44487
 
 ## [5.6.3]
 - update bc-fips to resolve CVE-2022-45156 and CVE-2023-33202
