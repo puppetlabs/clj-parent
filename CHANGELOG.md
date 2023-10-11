@@ -1,4 +1,6 @@
 ## [unreleased]
+
+## [5.6.4]
 - update trapperkeeper-webserver-jetty9 to resolve CVE-2023-36478 and CVE-2023-44487
 
 ## [5.6.3]
