@@ -1,4 +1,6 @@
 ## [unreleased]
+
+# [7.2.5]
 - update jruby-utils to bring in JRuby 9.4.3
 
 # [7.2.4]
