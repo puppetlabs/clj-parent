@@ -1,4 +1,5 @@
 ## [unreleased]
+- update jruby-utils to bring in JRuby 9.4.3
 
 # [7.2.4]
 - update trapperkeeper-webserver-jetty9 to 4.5.2 to resolve CVE-2023-36478 and CVE-2023-44487
