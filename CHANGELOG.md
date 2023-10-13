@@ -1,46 +1,48 @@
 ## [unreleased]
+
+## [7.2.5]
 - update jruby-utils to bring in JRuby 9.4.3
 
-# [7.2.4]
+## [7.2.4]
 - update trapperkeeper-webserver-jetty9 to 4.5.2 to resolve CVE-2023-36478 and CVE-2023-44487
 
-# [7.2.3]
+## [7.2.3]
 - update bc-fips to 1.0.2.4 to resolve CVE-2022-45156 and CVE-2023-33202
 
-# [7.2.2]
+## [7.2.2]
 - update jvm-ssl-utils to 3.5.2 to address a stack overflow in certificates with tags
 
-# [7.2.1]
+## [7.2.1]
 - roll bouncycastle back to 1.74 to resolve jRuby issues with using deprecated interfaces
 
-# [7.2.0]
+## [7.2.0]
 - update joda-time
 - update bouncycastle versions, remove jdk15on versions as we no longer use them
 
-# [7.1.2]
+## [7.1.2]
 - update trapperkeeper-webserver-jetty9 to 4.5.1 to address multiple CVEs.
 
-# [7.1.1]
+## [7.1.1]
 - update trapperkeeper-authorization to 2.0.1 to remove verbose warnings, and update dependencies
 
-# [7.1.0]
+## [7.1.0]
 - update snakeyaml to 2.0 from 1.3.3 to address CVE-2022-1471
 - update logback to version 1.3.7, 1.2.x is no longer maintained
 
-# [7.0.3]
+## [7.0.3]
 - update trapperkeeper-webserver-jetty9 to 4.5.0, adds opt-in feature to provide access to pending jetty response.
 
-# [7.0.2]
+## [7.0.2]
 - update jvm-ssl-utils to bring in the ability to create CSRs (in the simple namepace) with attributes
 - update jvm-ssl-utils to bring in the ability to extract attributes from CSRs
 
-# [7.0.1]
+## [7.0.1]
 - remove use of ring-defaults, update tk-metrics and tk-status to versions without use of ring-defaults
 
-# [7.0.0]
+## [7.0.0]
 - BREAKING CHANGE: update trapperkeeper to 4.0.0 which removes yaml config support and remove clj-yaml
 
-# [6.0.1]
+## [6.0.1]
 - Update clj-kitchensink to 3.2.3 to bring in new time conversion and version comparison functions
 - Update logback to 1.2.12, to fix logging issues relative to jetty 10
 
