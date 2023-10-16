@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [5.6.6]
+- Revert "update jruby-utils to bring in JRuby 9.3.11"
+
 ## [5.6.5]
 - update jruby-utils to bring in JRuby 9.3.11
 
