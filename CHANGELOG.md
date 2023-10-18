@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [7.2.6]
+- Update clj-rbac-client to 1.1.5, adds configurable connection limits
+
 ## [7.2.5]
 - update jruby-utils to bring in JRuby 9.4.3
 
