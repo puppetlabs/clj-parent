@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [7.2.7]
+- update kitchensink to 3.2.4 to bring in some new functions, and deprecate old interfaces
+
 ## [7.2.6]
 - Update clj-rbac-client to 1.1.5, adds configurable connection limits
 
