@@ -1,6 +1,6 @@
 ## [unreleased]
 
-## [7.3.0]
+## [7.2.10]
 - fix accidental wrong namespace for tk-jetty-10
 
 ## [7.2.9]
