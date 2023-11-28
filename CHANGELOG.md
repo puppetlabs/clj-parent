@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [7.2.9]
+- rollback tk-metrics to 1.5.1 until jetty10 is updated in all the things
+
 ## [7.2.8]
 - add trapperkeeper-webserver-jetty10 version 1.0.4 and trapperkeeper-metrics 2.0.0 using jetty 10
 
