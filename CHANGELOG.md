@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [7.3.0]
+- fix accidental wrong namespace for tk-jetty-10
+
 ## [7.2.9]
 - rollback tk-metrics to 1.5.1 until jetty10 is updated in all the things
 
