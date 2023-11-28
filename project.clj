@@ -1,8 +1,9 @@
 (def clj-version "1.11.1")
 (def ks-version "3.2.4")
 (def tk-version "4.0.0")
-(def tk-jetty-version "4.5.2")
-(def tk-metrics-version "1.5.1")
+(def tk-jetty-9-version "4.5.2")
+(def tk-jetty-10-version "1.0.4")
+(def tk-metrics-version "2.0.0")
 (def logback-version "1.3.7")
 (def rbac-client-version "1.1.5")
 (def dropwizard-metrics-version "3.2.2")
@@ -110,8 +111,10 @@
                          [puppetlabs/kitchensink ~ks-version :classifier "test"]
                          [puppetlabs/trapperkeeper ~tk-version]
                          [puppetlabs/trapperkeeper ~tk-version :classifier "test"]
-                         [puppetlabs/trapperkeeper-webserver-jetty9 ~tk-jetty-version]
-                         [puppetlabs/trapperkeeper-webserver-jetty9 ~tk-jetty-version :classifier "test"]
+                         [puppetlabs/trapperkeeper-webserver-jetty9 ~tk-jetty-9-version]
+                         [puppetlabs/trapperkeeper-webserver-jetty9 ~tk-jetty-9-version :classifier "test"]
+                         [puppetlabs/trapperkeeper-webserver-jetty10 ~tk-jetty-10-version]
+                         [puppetlabs/trapperkeeper-webserver-jetty10 ~tk-jetty-10-version :classifier "test"]
                          [puppetlabs/trapperkeeper-metrics ~tk-metrics-version]
                          [puppetlabs/trapperkeeper-metrics ~tk-metrics-version :classifier "test"]
                          [puppetlabs/trapperkeeper-scheduler "1.1.3"]

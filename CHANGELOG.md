@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [7.2.8]
+- add trapperkeeper-webserver-jetty10 version 1.0.4 and trapperkeeper-metrics 2.0.0 using jetty 10
+
 ## [7.2.7]
 - update kitchensink to 3.2.4 to bring in some new functions, and deprecate old interfaces
 
