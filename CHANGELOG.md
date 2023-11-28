@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [7.2.11]
+- bump tk-jetty-10 to 1.0.5 to include org.eclipse.jetty.server.Response in ring handler :response key
+
 ## [7.2.10]
 - fix accidental wrong namespace for tk-jetty-10
 
