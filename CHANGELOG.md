@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [7.2.12]
+- update jetty-10 to 1.0.6 to not use logback-access for logging because of incompatibilities
+
 ## [7.2.11]
 - bump tk-jetty-10 to 1.0.5 to include org.eclipse.jetty.server.Response in ring handler :response key
 
