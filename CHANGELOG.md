@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [7.2.13]
+- update tk-jetty-10 to 1.0.7 to address broken ring-handler getRequestCharacterEncoding() function
+
 ## [7.2.12]
 - update jetty-10 to 1.0.6 to not use logback-access for logging because of incompatibilities
 
