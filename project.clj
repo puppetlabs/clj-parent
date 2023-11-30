@@ -2,7 +2,7 @@
 (def ks-version "3.2.4")
 (def tk-version "4.0.0")
 (def tk-jetty-9-version "4.5.2")
-(def tk-jetty-10-version "1.0.7")
+(def tk-jetty-10-version "1.0.8")
 (def tk-metrics-version "1.5.1")
 (def logback-version "1.3.7")
 (def rbac-client-version "1.1.5")
