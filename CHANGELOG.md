@@ -1,7 +1,7 @@
 ## [unreleased]
 
 ## [7.2.14]
-- update tk-jetty-10 to 1.0.8 to set default encoding for ring-handler responses to UTF-8
+- update tk-jetty-10 to 1.0.9 to add optional sni-required config setting with a default of false, 1.0.8 also set default encoding for ring-handler responses to UTF-8
 
 ## [7.2.13]
 - update tk-jetty-10 to 1.0.7 to address broken ring-handler getRequestCharacterEncoding() function
