@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [7.2.16]
+- tk-jetty-10 to 1.0.12 to enable access logging again
+
 ## [7.2.15]
 - tk-jetty-10 to 1.0.11 to address character-set issues.
 
