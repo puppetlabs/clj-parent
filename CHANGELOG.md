@@ -1,11 +1,13 @@
 ## [unreleased]
 
-## [7.2.17]
-- tk-jetty-10 to 1.0.13 to handle and exception when the access log is missing.
+## [7.2.18]
+- update tk-jetty-10 to 1.0.14 to fix a null RequestLogger exception
 
+## [7.2.17]
+- update tk-jetty-10 to 1.0.13 to handle and exception when the access log is missing.
 
 ## [7.2.16]
-- tk-jetty-10 to 1.0.12 to enable access logging again
+- update tk-jetty-10 to 1.0.12 to enable access logging again
 
 ## [7.2.15]
 - tk-jetty-10 to 1.0.11 to address character-set issues.
