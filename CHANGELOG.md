@@ -1,5 +1,9 @@
 ## [unreleased]
 
+## [7.2.17]
+- tk-jetty-10 to 1.0.13 to handle and exception when the access log is missing.
+
+
 ## [7.2.16]
 - tk-jetty-10 to 1.0.12 to enable access logging again
 
