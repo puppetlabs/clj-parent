@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [5.6.7]
+- update logback to 1.3.14 to resolve CVE-2023-6378 (see https://logback.qos.ch/news.html#1.3.14)
+
 ## [5.6.6]
 - Revert "update jruby-utils to bring in JRuby 9.3.11"
 
