@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [7.2.19]
+- update logback to 1.3.14 to resolve CVE-2023-6378 (see https://logback.qos.ch/news.html#1.3.14)
+
 ## [7.2.18]
 - update tk-jetty-10 to 1.0.14 to fix a null RequestLogger exception
 
