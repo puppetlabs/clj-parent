@@ -1,5 +1,9 @@
 ## [unreleased]
 
+## [7.3.0]
+- remove jetty9 dependencies, bump tk-metrics to 2.0.1 to move to Jetty10 version
+- bump tk-jetty-10 to 1.0.15 to fix previous accidental hard dependency on hato
+
 ## [7.2.19]
 - update logback to 1.3.14 to resolve CVE-2023-6378 (see https://logback.qos.ch/news.html#1.3.14)
 

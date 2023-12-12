@@ -1,14 +1,13 @@
 (def clj-version "1.11.1")
 (def ks-version "3.2.4")
 (def tk-version "4.0.0")
-(def tk-jetty-9-version "4.5.2")
-(def tk-jetty-10-version "1.0.14")
-(def tk-metrics-version "1.5.1")
+(def tk-jetty-10-version "1.0.15")
+(def tk-metrics-version "2.0.1")
 (def logback-version "1.3.14")
 (def rbac-client-version "1.1.5")
 (def dropwizard-metrics-version "3.2.2")
 
-(defproject puppetlabs/clj-parent "7.2.20-SNAPSHOT"
+(defproject puppetlabs/clj-parent "7.3.0-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.
@@ -111,8 +110,6 @@
                          [puppetlabs/kitchensink ~ks-version :classifier "test"]
                          [puppetlabs/trapperkeeper ~tk-version]
                          [puppetlabs/trapperkeeper ~tk-version :classifier "test"]
-                         [puppetlabs/trapperkeeper-webserver-jetty9 ~tk-jetty-9-version]
-                         [puppetlabs/trapperkeeper-webserver-jetty9 ~tk-jetty-9-version :classifier "test"]
                          [com.puppetlabs/trapperkeeper-webserver-jetty10 ~tk-jetty-10-version]
                          [com.puppetlabs/trapperkeeper-webserver-jetty10 ~tk-jetty-10-version :classifier "test"]
                          [puppetlabs/trapperkeeper-metrics ~tk-metrics-version]
