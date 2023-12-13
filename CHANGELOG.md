@@ -1,4 +1,5 @@
 ## [unreleased]
+- update clj-kitchensink to 3.2.5 to address potential writer leak 
 
 ## [7.3.0]
 - remove jetty9 dependencies, bump tk-metrics to 2.0.1 to move to Jetty10 version
