@@ -1,4 +1,5 @@
-## [unreleased]
+## [7.3.1]
+- update tk-jetty-10 to 1.0.16 to add server configuration debug logging on service start
 - update clj-kitchensink to 3.2.5 to address potential writer leak 
 
 ## [7.3.0]
