@@ -1,3 +1,8 @@
+## Unreleased
+
+## [7.3.2]
+- update postgres driver to 42.7.1 from 42.4.3 for bug fixes and performance improvements
+
 ## [7.3.1]
 - update tk-jetty-10 to 1.0.16 to add server configuration debug logging on service start
 - update clj-kitchensink to 3.2.5 to address potential writer leak 
