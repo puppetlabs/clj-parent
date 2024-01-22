@@ -1,6 +1,9 @@
 ## Unreleased
 
-## [7.3.2]
+## [7.3.3]
+- add license to project.clj so that clojars will accept publishing
+
+## [7.3.2] - unpublished
 - update postgres driver to 42.7.1 from 42.4.3 for bug fixes and performance improvements
 
 ## [7.3.1]

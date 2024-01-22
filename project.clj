@@ -13,6 +13,8 @@
   ;; requires lein 2.2.0+.
   :pedantic? :abort
   :packaging "pom"
+  :license {:name "Apache-2.0"
+            :url "https://www.apache.org/licenses/LICENSE-2.0.txt"}
 
   :managed-dependencies [[org.clojure/clojure ~clj-version]
                          [org.clojure/clojurescript "1.10.866"]
