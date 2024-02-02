@@ -1,5 +1,8 @@
 ## Unreleased
 
+## [7.3.4]
+- update clj-http-client to 2.1.2 to allow multiple Set-Cookie headers to be returned in the header map of a response separated by newlines
+
 ## [7.3.3]
 - add license to project.clj so that clojars will accept publishing
 
