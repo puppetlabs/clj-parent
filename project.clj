@@ -103,7 +103,7 @@
                          [prismatic/schema "1.1.12"]
                          [stylefruits/gniazdo "1.2.1"]
 
-                         [puppetlabs/http-client "2.1.1"]
+                         [puppetlabs/http-client "2.1.2"]
                          [puppetlabs/jdbc-util "1.4.0"]
                          [puppetlabs/typesafe-config "0.2.0"]
                          [puppetlabs/ssl-utils "3.5.2"]
