@@ -1,5 +1,8 @@
 ## Unreleased
 
+## [7.3.5] 
+- update tk-jetty10 to bring in a new version of jetty 10 at 10.0.20 to fix some websocket race conditions
+
 ## [7.3.4]
 - update clj-http-client to 2.1.2 to allow multiple Set-Cookie headers to be returned in the header map of a response separated by newlines
 
