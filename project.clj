@@ -8,7 +8,7 @@
 (def dropwizard-metrics-version "3.2.2")
 (def jetty-10-version "10.0.20")
 
-(defproject puppetlabs/clj-parent "7.3.6-SNAPSHOT"
+(defproject puppetlabs/clj-parent "7.4.0-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
   ;; dependencies. Also supports :warn to simply emit warnings.
   ;; requires lein 2.2.0+.

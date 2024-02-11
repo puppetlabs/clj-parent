@@ -1,5 +1,8 @@
 ## Unreleased
 
+## [7.4.0]
+- add jetty 10 dependencies in this project to allow multiple projects to consolidate on the versions used
+
 ## [7.3.5] 
 - update tk-jetty10 to bring in a new version of jetty 10 at 10.0.20 to fix some websocket race conditions
 
