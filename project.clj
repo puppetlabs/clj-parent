@@ -6,6 +6,7 @@
 (def logback-version "1.3.14")
 (def rbac-client-version "1.1.5")
 (def dropwizard-metrics-version "3.2.2")
+(def jetty-10-version "10.0.20")
 
 (defproject puppetlabs/clj-parent "7.3.6-SNAPSHOT"
   ;; Abort when version ranges or version conflicts are detected in
@@ -144,7 +145,15 @@
                          [org.bouncycastle/bcpkix-jdk18on "1.74"]
                          [org.bouncycastle/bctls-jdk18on "1.74"]
                          [org.bouncycastle/bcprov-jdk18on "1.74"]
-                         [org.bouncycastle/bcutil-jdk18on "1.74"]]
+                         [org.bouncycastle/bcutil-jdk18on "1.74"]
+
+                         [org.eclipse.jetty/jetty-server ~jetty-10-version]
+                         [org.eclipse.jetty/jetty-servlet ~jetty-10-version]
+                         [org.eclipse.jetty/jetty-servlets ~jetty-10-version]
+                         [org.eclipse.jetty/jetty-webapp ~jetty-10-version]
+                         [org.eclipse.jetty/jetty-proxy ~jetty-10-version]
+                         [org.eclipse.jetty/jetty-jmx ~jetty-10-version]
+                         [org.eclipse.jetty.websocket/websocket-jetty-server ~jetty-10-version]]
 
   :dependencies [[org.clojure/clojure]]
 
