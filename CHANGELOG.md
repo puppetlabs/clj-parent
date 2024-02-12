@@ -1,5 +1,8 @@
 ## Unreleased
 
+## [7.3.7]
+- update tk-metrics to 2.0.3 to leverage the version of tk-webserver-jetty-10 from clj-parent
+
 ## [7.3.6]
 - update tk-jetty10 to include the websocket libraries from jetty 10 so they can be centrally managed
 
