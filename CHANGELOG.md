@@ -1,5 +1,8 @@
 ## Unreleased
 
+## [7.3.6]
+- update tk-jetty10 to include the websocket libraries from jetty 10 so they can be centrally managed
+
 ## [7.3.5] 
 - update tk-jetty10 to bring in a new version of jetty 10 at 10.0.20 to fix some websocket race conditions
 
