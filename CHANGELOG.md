@@ -1,5 +1,8 @@
 ## Unreleased
 
+## [7.3.8]
+- update tk-status to 1.2.0 to remove ring-defaults dependency
+
 ## [7.3.7]
 - update tk-metrics to 2.0.3 to leverage the version of tk-webserver-jetty-10 from clj-parent
 
