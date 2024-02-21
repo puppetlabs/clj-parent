@@ -1,4 +1,9 @@
 ## Unreleased
+## [7.3.10]
+- update apache-commons/commons-compress to 1.26.0 to address CVE-2024-25710 CVE-2024-26308 and CVE-2023-42503
+- update apache-commons/commons-lang3 to latest
+- update apache-commons/commons-exec to latest
+
 ## [7.3.9]
 - update postgres to 42.7.2 to address CVE-2024-1597 (see https://github.com/pgjdbc/pgjdbc/security/advisories/GHSA-24rp-q3w6-vc56)
 
