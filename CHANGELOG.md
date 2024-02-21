@@ -1,4 +1,6 @@
 ## Unreleased
+## [7.3.9]
+- update postgres to 42.7.2 to address CVE-2024-1597 (see https://github.com/pgjdbc/pgjdbc/security/advisories/GHSA-24rp-q3w6-vc56)
 
 ## [7.3.8]
 - update tk-status to 1.2.0 to remove ring-defaults dependency
