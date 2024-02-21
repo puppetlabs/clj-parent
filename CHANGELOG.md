@@ -1,4 +1,6 @@
 ## [unreleased]
+## [5.6.8]
+- update postgres driver to 42.4.4 to address  CVE-2024-1597 (see https://github.com/pgjdbc/pgjdbc/security/advisories/GHSA-24rp-q3w6-vc56) 
 
 ## [5.6.7]
 - update logback to 1.3.14 to resolve CVE-2023-6378 (see https://logback.qos.ch/news.html#1.3.14)
