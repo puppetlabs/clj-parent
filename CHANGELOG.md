@@ -1,5 +1,8 @@
 ## [unreleased]
-## [5.6.8]
+## [5.6.9] 
+- add license to project.clj to allow push to clojars
+
+## [5.6.8] (not released)
 - update postgres driver to 42.4.4 to address  CVE-2024-1597 (see https://github.com/pgjdbc/pgjdbc/security/advisories/GHSA-24rp-q3w6-vc56) 
 
 ## [5.6.7]
