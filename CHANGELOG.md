@@ -1,4 +1,8 @@
 ## [unreleased]
+
+## [5.6.10]
+- update `org.apache.commons/commons-compress` to `1.26.0` to address CVE-2024-25710 CVE-2024-26308 and CVE-2023-42503
+
 ## [5.6.9] 
 - add license to project.clj to allow push to clojars
 
