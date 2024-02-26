@@ -1,4 +1,8 @@
 ## Unreleased
+
+## [7.3.11]
+- update commons-io to 2.15.1 for compatibility with commons-compress 1.26.0
+
 ## [7.3.10]
 - update apache-commons/commons-compress to 1.26.0 to address CVE-2024-25710 CVE-2024-26308 and CVE-2023-42503
 - update apache-commons/commons-lang3 to latest
