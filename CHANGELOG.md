@@ -1,5 +1,11 @@
 ## Unreleased
 
+## [7.3.13]
+- update clj-http client to 2.1.3 to fix issue with 204 handling of unbuffered-stream mode
+
+## [7.3.12]
+- add the clj-host-action-collector-client version to the set of managed versions
+
 ## [7.3.11]
 - update commons-io to 2.15.1 for compatibility with commons-compress 1.26.0
 
