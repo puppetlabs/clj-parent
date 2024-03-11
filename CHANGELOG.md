@@ -1,5 +1,8 @@
 ## Unreleased
 
+## [7.3.14]
+- update host-action-collector-client to 0.1.5 to add handling and logging of nil status results
+
 ## [7.3.13]
 - update clj-http client to 2.1.3 to fix issue with 204 handling of unbuffered-stream mode
 
