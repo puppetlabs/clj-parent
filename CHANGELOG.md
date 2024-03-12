@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [5.6.12]
+- update clojure version to 1.11.2 to resolve https://github.com/advisories/GHSA-vr64-r9qj-h27f CVE
+
 ## [5.6.11]
 - update commons-io to 2.15.1 for compatibility with commons-compress 1.26.0
 
