@@ -1,6 +1,7 @@
 ## Unreleased
 
 ## [7.3.14]
+- update clojure version to 1.11.2 to resolve https://github.com/advisories/GHSA-vr64-r9qj-h27f CVE
 - update host-action-collector-client to 0.1.5 to add handling and logging of nil status results
 
 ## [7.3.13]
