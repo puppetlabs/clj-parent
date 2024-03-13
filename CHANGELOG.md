@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [5.6.13]
+- update pgjdbc version to 42.4.5 to resolve https://github.com/pgjdbc/pgjdbc/issues/3014
+
 ## [5.6.12]
 - update clojure version to 1.11.2 to resolve https://github.com/advisories/GHSA-vr64-r9qj-h27f CVE
 
