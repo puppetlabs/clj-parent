@@ -88,7 +88,7 @@
                          [beckon "0.1.1"]
                          [hiccup "1.0.5"]
                          [liberator "0.15.2"]
-                         [org.tcrawley/dynapath "0.2.5"]
+                         [org.tcrawley/dynapath "1.1.0"]
                          [trptcolin/versioneer "0.2.0"]
                          [io.dropwizard.metrics/metrics-core ~dropwizard-metrics-version]
                          [io.dropwizard.metrics/metrics-graphite ~dropwizard-metrics-version]
