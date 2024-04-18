@@ -1,5 +1,8 @@
 ## Unreleased
 
+## [7.3.16]
+- update jdbc-utils to 1.4.2 to resolve issue with sequence reconciliation
+
 ## [7.3.15]
 - update host-action-collector-client to 0.1.6 to allow optional date field specification
 
