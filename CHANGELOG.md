@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [5.6.14]
+- update jdbc-utils to 1.4.2 to resolve issue with sequence reconciliation
+
 ## [5.6.13]
 - update pgjdbc version to 42.4.5 to resolve https://github.com/pgjdbc/pgjdbc/issues/3014
 
