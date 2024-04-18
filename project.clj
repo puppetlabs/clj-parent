@@ -104,7 +104,7 @@
                          [stylefruits/gniazdo "1.2.1"]
 
                          [puppetlabs/http-client "2.1.1"]
-                         [puppetlabs/jdbc-util "1.4.0"]
+                         [puppetlabs/jdbc-util "1.4.2"]
                          [puppetlabs/typesafe-config "0.2.0"]
                          [puppetlabs/ssl-utils "3.5.2"]
                          [puppetlabs/clj-ldap "0.4.0"]
