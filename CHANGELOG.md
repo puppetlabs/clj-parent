@@ -1,4 +1,6 @@
 ## Unreleased
+## [7.3.17]
+- update clj-kitchensink which adds new time functions
 
 ## [7.3.16]
 - update jdbc-utils to 1.4.2 to resolve issue with sequence reconciliation
