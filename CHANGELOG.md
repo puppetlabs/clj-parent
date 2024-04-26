@@ -1,4 +1,8 @@
 ## [unreleased]
+
+## [5.6.17]
+- update jruby-utils to 4.1.1 for JRuby 9.3.14 upgrade
+
 ## [5.6.16]
 - update jdbc-util to 1.4.3 which included a clj-parent bump
 
