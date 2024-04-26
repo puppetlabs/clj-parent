@@ -1,4 +1,11 @@
 ## Unreleased
+
+## [7.3.18]
+- update jruby-utils to bring in JRuby 9.4.7
+- update dynapath to resolve warnings on Java 9+ (drops support for Java 8)
+- update compojure & medley to latest to resolve warnings in clojure 1.11
+- update trapperkeeper-metrics to resolve duplicate logback-test.xml files in test classpath
+
 ## [7.3.18]
 - update jdbc-util to 1.4.3 which included a clj-parent bump
 
@@ -10,11 +17,6 @@
 
 ## [7.3.15]
 - update host-action-collector-client to 0.1.6 to allow optional date field specification
-
-## [7.3.15]
-- update dynapath to resolve warnings on Java 9+ (drops support for Java 8)
-- update compojure & medley to latest to resolve warnings in clojure 1.11
-- update trapperkeeper-metrics to resolve duplicate logback-test.xml files in test classpath
 
 ## [7.3.14]
 - update clojure version to 1.11.2 to resolve https://github.com/advisories/GHSA-vr64-r9qj-h27f CVE
