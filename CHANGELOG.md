@@ -1,4 +1,6 @@
 ## [unreleased]
+## [5.6.16]
+- update jdbc-util to 1.4.3 which included a clj-parent bump
 
 ## [5.6.15]
 - update clj-kitchensink to 3.3.1 which adds new time functions
@@ -18,11 +20,11 @@
 ## [5.6.10]
 - update `org.apache.commons/commons-compress` to `1.26.0` to address CVE-2024-25710 CVE-2024-26308 and CVE-2023-42503
 
-## [5.6.9] 
+## [5.6.9]
 - add license to project.clj to allow push to clojars
 
 ## [5.6.8] (not released)
-- update postgres driver to 42.4.4 to address  CVE-2024-1597 (see https://github.com/pgjdbc/pgjdbc/security/advisories/GHSA-24rp-q3w6-vc56) 
+- update postgres driver to 42.4.4 to address  CVE-2024-1597 (see https://github.com/pgjdbc/pgjdbc/security/advisories/GHSA-24rp-q3w6-vc56)
 
 ## [5.6.7]
 - update logback to 1.3.14 to resolve CVE-2023-6378 (see https://logback.qos.ch/news.html#1.3.14)
