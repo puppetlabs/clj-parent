@@ -1,4 +1,7 @@
 ## Unreleased
+## [7.3.18]
+- update jdbc-util to 1.4.3 which included a clj-parent bump
+
 ## [7.3.17]
 - update clj-kitchensink which adds new time functions
 
@@ -38,7 +41,7 @@
 ## [7.3.6]
 - update tk-jetty10 to include the websocket libraries from jetty 10 so they can be centrally managed
 
-## [7.3.5] 
+## [7.3.5]
 - update tk-jetty10 to bring in a new version of jetty 10 at 10.0.20 to fix some websocket race conditions
 
 ## [7.3.4]
@@ -52,7 +55,7 @@
 
 ## [7.3.1]
 - update tk-jetty-10 to 1.0.16 to add server configuration debug logging on service start
-- update clj-kitchensink to 3.2.5 to address potential writer leak 
+- update clj-kitchensink to 3.2.5 to address potential writer leak
 
 ## [7.3.0]
 - remove jetty9 dependencies, bump tk-metrics to 2.0.1 to move to Jetty10 version
