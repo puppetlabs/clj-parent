@@ -1,6 +1,6 @@
 ## Unreleased
 
-## [7.3.18]
+## [7.3.19]
 - update jruby-utils to bring in JRuby 9.4.7
 - update dynapath to resolve warnings on Java 9+ (drops support for Java 8)
 - update compojure & medley to latest to resolve warnings in clojure 1.11
