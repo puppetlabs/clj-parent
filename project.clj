@@ -2,7 +2,7 @@
 (def ks-version "3.3.0")
 (def tk-version "4.0.0")
 (def tk-jetty-10-version "1.0.18")
-(def tk-metrics-version "2.0.3")
+(def tk-metrics-version "2.0.4")
 (def logback-version "1.3.14")
 (def rbac-client-version "1.1.5")
 (def dropwizard-metrics-version "3.2.2")
@@ -76,7 +76,7 @@
                          [instaparse "1.4.1"]
                          [slingshot "0.12.2"]
                          [cheshire "5.10.2"]
-                         [compojure "1.5.0"]
+                         [compojure "1.7.1"]
                          [quoin "0.1.2"]
                          [ring/ring-servlet "1.8.2"]
                          [ring/ring-core "1.8.2"]
@@ -88,7 +88,7 @@
                          [beckon "0.1.1"]
                          [hiccup "1.0.5"]
                          [liberator "0.15.2"]
-                         [org.tcrawley/dynapath "0.2.5"]
+                         [org.tcrawley/dynapath "1.1.0"]
                          [trptcolin/versioneer "0.2.0"]
                          [io.dropwizard.metrics/metrics-core ~dropwizard-metrics-version]
                          [io.dropwizard.metrics/metrics-graphite ~dropwizard-metrics-version]
@@ -98,7 +98,7 @@
                          [honeysql "1.0.461"]
                          [com.github.seancorfield/honeysql "2.3.911"]
                          [org.postgresql/postgresql "42.7.2"]
-                         [medley "1.0.0"]
+                         [dev.weavejester/medley "1.7.0"]
                          [prismatic/plumbing "0.4.2"]
                          [prismatic/schema "1.1.12"]
                          [stylefruits/gniazdo "1.2.1"]
