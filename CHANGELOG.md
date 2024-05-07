@@ -1,5 +1,8 @@
 ## Unreleased
 
+## [7.3.20]
+- update host-action-collector-client to 0.1.7 to add purging of directories older than 30 days
+
 ## [7.3.19]
 - update jruby-utils to bring in JRuby 9.4.7
 - update dynapath to resolve warnings on Java 9+ (drops support for Java 8)
