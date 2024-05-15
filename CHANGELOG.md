@@ -1,5 +1,8 @@
 ## Unreleased
 
+## [7.3.21]
+- update file-sync-watcher to 1.2.3  conditionalize potentially expensive logging
+
 ## [7.3.20]
 - update host-action-collector-client to 0.1.7 to add purging of directories older than 30 days
 
