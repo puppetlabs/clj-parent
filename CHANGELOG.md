@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [5.6.18]
+- update trapperkeeper to 3.3.2 for `logged?` test utility changes
+
 ## [5.6.17]
 - update jruby-utils to 4.1.1 for JRuby 9.3.14 upgrade
 
