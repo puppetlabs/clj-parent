@@ -1,5 +1,8 @@
 ## Unreleased
 
+## [7.2.23]
+- update trapperkeeper to 4.0.1 for `logged?` test utility changes
+
 ## [7.3.22]
 - update trapperkeeper-filesystem-watcher to 1.2.4 to fix conditionalization from 1.2.3 and make shutdown more robust 
 
