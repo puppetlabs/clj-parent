@@ -1,5 +1,8 @@
 ## Unreleased
 
+## [7.2.24]
+- update trapperkeeper-filesystem-watcher to 1.2.5 to address stack overflow issue, add interface to watch files
+
 ## [7.2.23]
 - update trapperkeeper to 4.0.1 for `logged?` test utility changes
 
