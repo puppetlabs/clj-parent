@@ -1,5 +1,8 @@
 ## Unreleased
 
+## [7.2.25]
+- update clj-shell-utils to 2.0.1 to allow cwd specification
+
 ## [7.2.24]
 - update trapperkeeper-filesystem-watcher to 1.2.5 to address stack overflow issue, add interface to watch files
 
