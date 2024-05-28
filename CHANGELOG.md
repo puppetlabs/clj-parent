@@ -1,7 +1,9 @@
 ## Unreleased
+## [7.2.27]
+- update host-action-collector client to 0.1.8 to prevent temporary files from being written with execute permissions
 
 ## [7.2.26]
-- update jruby-tuils to 5.1.3 to parallelize instance creation
+- update jruby-utils to 5.1.3 to parallelize instance creation
 
 ## [7.2.25]
 - update clj-shell-utils to 2.0.1 to allow cwd specification
