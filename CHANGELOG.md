@@ -1,4 +1,8 @@
 ## Unreleased
+
+## [7.2.28]
+- update kitchensink to 3.4.0 for new java.time JSON encoders
+
 ## [7.2.27]
 - update host-action-collector client to 0.1.8 to prevent temporary files from being written with execute permissions
 
@@ -15,7 +19,7 @@
 - update trapperkeeper to 4.0.1 for `logged?` test utility changes
 
 ## [7.3.22]
-- update trapperkeeper-filesystem-watcher to 1.2.4 to fix conditionalization from 1.2.3 and make shutdown more robust 
+- update trapperkeeper-filesystem-watcher to 1.2.4 to fix conditionalization from 1.2.3 and make shutdown more robust
 
 ## [7.3.21]
 - update trapperkeeper-filesystem-watcher to 1.2.3 to conditionalize potentially expensive logging
