@@ -1,5 +1,8 @@
 ## Unreleased
 
+## [7.2.26]
+- update jruby-tuils to 5.1.3 to parallelize instance creation
+
 ## [7.2.25]
 - update clj-shell-utils to 2.0.1 to allow cwd specification
 
