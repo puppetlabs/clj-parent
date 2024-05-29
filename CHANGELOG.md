@@ -1,5 +1,8 @@
 ## Unreleased
 
+## [7.2.29]
+- roll back jruby-utils to 5.1.2 do to regression
+
 ## [7.2.28]
 - update kitchensink to 3.4.0 for new java.time JSON encoders
 
