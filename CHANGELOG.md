@@ -1,5 +1,8 @@
 ## Unreleased
 
+## [7.2.30]
+- update jruby-utils to 5.1.4 for improved jruby instance creation
+
 ## [7.2.29]
 - roll back jruby-utils to 5.1.2 do to regression
 
