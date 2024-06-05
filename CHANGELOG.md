@@ -1,27 +1,27 @@
 ## Unreleased
 
-## [7.2.30]
+## [7.3.30]
 - update jruby-utils to 5.1.4 for improved jruby instance creation
 
-## [7.2.29]
+## [7.3.29]
 - roll back jruby-utils to 5.1.2 do to regression
 
-## [7.2.28]
+## [7.3.28]
 - update kitchensink to 3.4.0 for new java.time JSON encoders
 
-## [7.2.27]
+## [7.3.27]
 - update host-action-collector client to 0.1.8 to prevent temporary files from being written with execute permissions
 
-## [7.2.26]
+## [7.3.26]
 - update jruby-utils to 5.1.3 to parallelize instance creation
 
-## [7.2.25]
+## [7.3.25]
 - update clj-shell-utils to 2.0.1 to allow cwd specification
 
-## [7.2.24]
+## [7.3.24]
 - update trapperkeeper-filesystem-watcher to 1.2.5 to address stack overflow issue, add interface to watch files
 
-## [7.2.23]
+## [7.3.23]
 - update trapperkeeper to 4.0.1 for `logged?` test utility changes
 
 ## [7.3.22]
