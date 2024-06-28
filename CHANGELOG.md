@@ -1,5 +1,8 @@
 ## [unreleased]
 
+## [5.6.20]
+- update trapperkeeper to 3.3.3 to improve the output from the `logged?` test function
+
 ## [5.6.19]
 - update kitchensink to 3.4.0 for new java.time JSON encoders
 
