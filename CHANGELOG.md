@@ -1,4 +1,6 @@
 ## Unreleased
+## [7.3.31]
+- update trapperkeeper to improve `logged?` output to not be so verbose
 
 ## [7.3.30]
 - update jruby-utils to 5.1.4 for improved jruby instance creation
