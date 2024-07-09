@@ -1,4 +1,7 @@
 ## Unreleased
+## [7.3.32]
+- update jruby-utils to 5.2.0 to get jruby-openssl 0.15 (and its support for modern BouncyCastle)
+
 ## [7.3.31]
 - update trapperkeeper to improve `logged?` output to not be so verbose
 
