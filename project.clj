@@ -122,7 +122,7 @@
                          [puppetlabs/trapperkeeper-status "1.2.0"]
                          [puppetlabs/trapperkeeper-filesystem-watcher "1.2.5"]
                          [puppetlabs/structured-logging "0.2.0"]
-                         [puppetlabs/ring-middleware "1.3.1"]
+                         [puppetlabs/ring-middleware "2.0.3"]
                          [puppetlabs/dujour-version-check "1.0.0"]
                          [puppetlabs/comidi "1.0.0"]
                          [puppetlabs/trapperkeeper-comidi-metrics "0.1.1"]
