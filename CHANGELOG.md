@@ -1,3 +1,8 @@
+## [unreleased]
+
+## [5.6.22]
+- revert jruby-utils upgrade back to JRuby 9.3.14 due to incompatability in pe testing
+
 ## [5.6.21]
 - update jruby-utils to 4.2.0 for JRuby 9.3.15 upgrade, this pulls in the latest jruby-openssl maintenance release (and its support for modern BouncyCastle)
 
