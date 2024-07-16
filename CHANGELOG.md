@@ -1,7 +1,10 @@
 ## Unreleased
+## [7.3.35]
+- update bouncy castle to latest versions
+
 ## [7.3.34]
 - update ring-middleware to 2.0.4 to add method and uri to unhandled exceptions wrapper
-- 
+
 ## [7.3.33]
 - update ring-middleeware to 2.0.3 to add some new standaard wrappers
 
