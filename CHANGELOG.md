@@ -1,4 +1,8 @@
 ## Unreleased
+
+## [7.3.36]
+- update tk-fs-watcher to 1.2.6 to compress superfluous events
+
 ## [7.3.35]
 - update bouncy castle to latest versions
 
