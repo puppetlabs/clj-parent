@@ -1,5 +1,8 @@
 ## Unreleased
 
+## [7.3.37]
+- update http-clietn to 2.1.4 for improved logging on unsuccessful attempts
+
 ## [7.3.36]
 - update tk-fs-watcher to 1.2.6 to compress superfluous events
 
